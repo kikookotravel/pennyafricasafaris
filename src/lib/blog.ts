@@ -44,7 +44,7 @@ These months ensure optimal weather conditions and increase your chances of enco
 
 ### Obtaining Gorilla Trekking Permits
 
-Obtaining a gorilla trekking permit is a vital step in your planning process. These permits grant you access to the gorilla trekking areas and are limited in number to protect the gorillas and their habitat. Permits cost **$700 per person** in Uganda (compared to $1,500 in Rwanda), making Uganda a much more affordable option.
+Obtaining a gorilla trekking permit is a vital step in your planning process. These permits grant you access to the gorilla trekking areas and are limited in number to protect the gorillas and their habitat. Permits cost **$800 per person** in Uganda (compared to $1,500 in Rwanda), making Uganda a much more affordable option.
 
 **Important:** Book your permit well in advance through the Uganda Wildlife Authority or through authorized tour operators like Penny Africa Safaris.
 
@@ -201,7 +201,7 @@ Understanding the cost of a Uganda safari is crucial for planning a trip that fi
 ### 3. Safari Activities and Experiences
 
 #### Gorilla Trekking (Bwindi Impenetrable National Park)
-- **Permit Cost**: $700 per person (Uganda) vs $1,500 (Rwanda)
+- **Permit Cost**: $800 per person (Uganda) vs $1,500 (Rwanda)
 - Must book well in advance
 - One hour with gorilla family
 - Most sought-after Uganda experience
@@ -289,7 +289,7 @@ Understanding the cost of a Uganda safari is crucial for planning a trip that fi
 #### Days 4-6: Bwindi Impenetrable National Park
 - **Transportation**: $400-$600 (private) or $250-$400 (shared)
 - **Accommodation**: $100-$1,000 per night
-- **Gorilla Trekking Permit**: $700 per person
+- **Gorilla Trekking Permit**: $800 per person
 
 #### Days 7-9: Queen Elizabeth National Park
 - **Transportation**: $300-$500 (private) or $200-$350 (shared)
@@ -342,7 +342,7 @@ Understanding the cost of a Uganda safari is crucial for planning a trip that fi
 ## Frequently Asked Questions
 
 **Q: How much does a gorilla trekking permit cost?**
-A: $700 per person in Uganda for a one-hour visit. This is significantly cheaper than Rwanda's $1,500 permits.
+A: $800 per person in Uganda for a one-hour visit. This is significantly cheaper than Rwanda's $1,500 permits.
 
 **Q: Are there budget-friendly safari options in Uganda?**
 A: Yes! Budget accommodations, camping options, and shared safaris make Uganda accessible to all budgets.
@@ -717,10 +717,10 @@ Das Verständnis der Kosten einer Uganda Safari ist entscheidend für die Planun
   },
 ];
 
-export async function getAllBlogPosts(): Promise<BlogPost[]> {
-  return blogPosts.sort(
-    (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
-  );
+export async function getAllBlogPosts(locale: string = 'en'): Promise<BlogPost[]> {
+  return blogPosts
+    .filter((p) => p.locale === locale)
+    .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
 }
 
 export async function getBlogPost(slug: string): Promise<BlogPost | null> {
@@ -728,24 +728,26 @@ export async function getBlogPost(slug: string): Promise<BlogPost | null> {
   return post || null;
 }
 
-export async function getFeaturedBlogPosts(): Promise<BlogPost[]> {
-  return blogPosts.filter((p) => p.featured);
+export async function getFeaturedBlogPosts(locale: string = 'en'): Promise<BlogPost[]> {
+  return blogPosts.filter((p) => p.featured && p.locale === locale);
 }
 
-export async function getBlogCategories(): Promise<{ name: string; count: number }[]> {
-  const categoryCounts = blogPosts.reduce((acc, post) => {
-    acc[post.category] = (acc[post.category] || 0) + 1;
-    return acc;
-  }, {} as Record<string, number>);
+export async function getBlogCategories(locale: string = 'en'): Promise<{ name: string; count: number }[]> {
+  const categoryCounts = blogPosts
+    .filter((p) => p.locale === locale)
+    .reduce((acc, post) => {
+      acc[post.category] = (acc[post.category] || 0) + 1;
+      return acc;
+    }, {} as Record<string, number>);
 
   return Object.entries(categoryCounts).map(([name, count]) => ({ name, count }));
 }
 
-export async function getRecentBlogPosts(limit: number = 5): Promise<BlogPost[]> {
-  const posts = await getAllBlogPosts();
+export async function getRecentBlogPosts(limit: number = 5, locale: string = 'en'): Promise<BlogPost[]> {
+  const posts = await getAllBlogPosts(locale);
   return posts.slice(0, limit);
 }
 
-export async function getPopularBlogPosts(limit: number = 5): Promise<BlogPost[]> {
-  return blogPosts.filter((p) => p.featured).slice(0, limit);
+export async function getPopularBlogPosts(limit: number = 5, locale: string = 'en'): Promise<BlogPost[]> {
+  return blogPosts.filter((p) => p.featured && p.locale === locale).slice(0, limit);
 }

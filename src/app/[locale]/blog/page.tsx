@@ -14,11 +14,12 @@ export const metadata = {
     'Read expert safari tips, Uganda travel guides, and adventure stories from Ivan Akampurira, your local safari guide.',
 };
 
-export default async function BlogPage() {
-  const allPosts = await getAllBlogPosts();
-  const recentPosts = await getRecentBlogPosts(5);
-  const categories = await getBlogCategories();
-  const popularPosts = await getPopularBlogPosts(5);
+export default async function BlogPage({ params }: { params: { locale: string } }) {
+  const { locale } = params;
+  const allPosts = await getAllBlogPosts(locale);
+  const recentPosts = await getRecentBlogPosts(5, locale);
+  const categories = await getBlogCategories(locale);
+  const popularPosts = await getPopularBlogPosts(5, locale);
 
   // Get featured post (first one)
   const featuredPost = allPosts[0];
