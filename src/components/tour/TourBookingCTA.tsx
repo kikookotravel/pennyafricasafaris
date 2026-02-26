@@ -52,6 +52,7 @@ export function TourBookingCTA({ tour }: TourBookingCTAProps) {
         travelers: '',
         date: '',
         message: '',
+        website: '',
       });
     } catch (error) {
       alert('Failed to send inquiry. Please try again or contact us directly.');
