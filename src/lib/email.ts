@@ -54,7 +54,7 @@ export async function sendTourInquiryEmails(data: TourInquiryData) {
               <a href="mailto:${email}?subject=Re: Your enquiry about ${encodeURIComponent(tourTitle)}" style="display: inline-block; background: #CD7F32; color: #fff; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Reply to ${name}</a>
             </div>
           </div>
-          <p style="padding: 16px 32px; margin: 0; font-size: 12px; color: #9b8b7a; background: #faf8f5;">Penny Africa Safaris · Kampala, Uganda</p>
+          <p style="padding: 16px 32px; margin: 0; font-size: 12px; color: #9b8b7a; background: #faf8f5;">Penny Africa Safaris · Entebbe, Uganda</p>
         </div>
       `,
     }),
@@ -90,7 +90,7 @@ export async function sendTourInquiryEmails(data: TourInquiryData) {
             <p style="margin: 16px 0 0;">Warm regards,<br><strong>Ivan & the Penny Africa Safaris team</strong></p>
           </div>
           <div style="padding: 16px 32px; background: #faf8f5; border-top: 1px solid #e8e0d5;">
-            <p style="margin: 0; font-size: 12px; color: #9b8b7a;">Penny Africa Safaris · Kampala, Uganda · <a href="mailto:hello@pennyafricasafaris.travel" style="color: #CD7F32;">hello@pennyafricasafaris.travel</a></p>
+            <p style="margin: 0; font-size: 12px; color: #9b8b7a;">Penny Africa Safaris · Entebbe, Uganda · <a href="mailto:hello@pennyafricasafaris.travel" style="color: #CD7F32;">hello@pennyafricasafaris.travel</a></p>
           </div>
         </div>
       `,
@@ -139,7 +139,7 @@ export async function sendContactFormEmails(data: ContactFormData) {
               <a href="mailto:${email}" style="display: inline-block; background: #CD7F32; color: #fff; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Reply to ${name}</a>
             </div>
           </div>
-          <p style="padding: 16px 32px; margin: 0; font-size: 12px; color: #9b8b7a; background: #faf8f5;">Penny Africa Safaris · Kampala, Uganda</p>
+          <p style="padding: 16px 32px; margin: 0; font-size: 12px; color: #9b8b7a; background: #faf8f5;">Penny Africa Safaris · Entebbe, Uganda</p>
         </div>
       `,
     }),
@@ -166,7 +166,7 @@ export async function sendContactFormEmails(data: ContactFormData) {
             <p style="margin: 16px 0 0;">Warm regards,<br><strong>Ivan & the Penny Africa Safaris team</strong></p>
           </div>
           <div style="padding: 16px 32px; background: #faf8f5; border-top: 1px solid #e8e0d5;">
-            <p style="margin: 0; font-size: 12px; color: #9b8b7a;">Penny Africa Safaris · Kampala, Uganda · <a href="mailto:hello@pennyafricasafaris.travel" style="color: #CD7F32;">hello@pennyafricasafaris.travel</a></p>
+            <p style="margin: 0; font-size: 12px; color: #9b8b7a;">Penny Africa Safaris · Entebbe, Uganda · <a href="mailto:hello@pennyafricasafaris.travel" style="color: #CD7F32;">hello@pennyafricasafaris.travel</a></p>
           </div>
         </div>
       `,
@@ -219,7 +219,7 @@ export async function sendEmailCaptureEmails(email: string) {
             <p style="margin: 16px 0 0;">Warm regards,<br><strong>Ivan & the Penny Africa Safaris team</strong></p>
           </div>
           <div style="padding: 16px 32px; background: #faf8f5; border-top: 1px solid #e8e0d5;">
-            <p style="margin: 0; font-size: 12px; color: #9b8b7a;">Penny Africa Safaris · Kampala, Uganda · <a href="mailto:hello@pennyafricasafaris.travel" style="color: #CD7F32;">hello@pennyafricasafaris.travel</a></p>
+            <p style="margin: 0; font-size: 12px; color: #9b8b7a;">Penny Africa Safaris · Entebbe, Uganda · <a href="mailto:hello@pennyafricasafaris.travel" style="color: #CD7F32;">hello@pennyafricasafaris.travel</a></p>
           </div>
         </div>
       `,

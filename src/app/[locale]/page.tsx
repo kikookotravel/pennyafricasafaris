@@ -64,11 +64,12 @@ export default function HomePage() {
     url: 'https://pennyafricasafaris.travel',
     logo: 'https://pennyafricasafaris.travel/images/logo.png',
     image: 'https://pennyafricasafaris.travel/images/hero-gorilla.jpg',
-    telephone: '+256785698040',
+    telephone: '+256705555533',
     email: 'hello@pennyafricasafaris.travel',
     address: {
       '@type': 'PostalAddress',
-      addressLocality: 'Kampala',
+      streetAddress: 'P.O Box 702981, 8leftlane',
+      addressLocality: 'Entebbe',
       addressCountry: 'UG',
     },
     geo: {

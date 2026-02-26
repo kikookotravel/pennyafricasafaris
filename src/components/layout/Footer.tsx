@@ -92,12 +92,20 @@ export function Footer() {
               </li>
               <li className="flex items-start">
                 <Phone className="h-5 w-5 mr-2 mt-0.5 flex-shrink-0" />
-                <a
-                  href="https://wa.me/256785698040"
-                  className="text-cream-dark hover:text-bronze transition-colors"
-                >
-                  +256 785 698040
-                </a>
+                <div>
+                  <a
+                    href="tel:+256705555533"
+                    className="block text-cream-dark hover:text-bronze transition-colors"
+                  >
+                    +256 705 555 533
+                  </a>
+                  <a
+                    href="https://wa.me/256785698040"
+                    className="block text-cream-dark hover:text-bronze transition-colors"
+                  >
+                    +256 785 698 040 (WhatsApp)
+                  </a>
+                </div>
               </li>
             </ul>
           </div>

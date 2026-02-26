@@ -230,12 +230,19 @@ export default function ContactPage() {
                       <div className="flex items-start gap-3">
                         <Phone className="h-5 w-5 text-bronze mt-1 flex-shrink-0" />
                         <div>
-                          <p className="text-sm font-semibold text-umber">Phone / WhatsApp</p>
+                          <p className="text-sm font-semibold text-umber">Phone</p>
                           <a
-                            href="tel:+256785698040"
+                            href="tel:+256705555533"
                             className="text-taupe hover:text-bronze transition-colors"
                           >
-                            +256 785 698040
+                            +256 705 555 533
+                          </a>
+                          <br />
+                          <a
+                            href="https://wa.me/256785698040"
+                            className="text-taupe hover:text-bronze transition-colors"
+                          >
+                            +256 785 698 040 (WhatsApp)
                           </a>
                         </div>
                       </div>
@@ -246,8 +253,8 @@ export default function ContactPage() {
                         <div>
                           <p className="text-sm font-semibold text-umber">Location</p>
                           <p className="text-taupe">
-                            Kampala, Uganda<br />
-                            East Africa
+                            P.O Box 702981, 8leftlane<br />
+                            Entebbe, Uganda
                           </p>
                         </div>
                       </div>
@@ -328,7 +335,7 @@ export default function ContactPage() {
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-6xl mx-auto">
-            <h2 className="text-3xl font-bold text-umber mb-8 text-center">Find Us in Kampala</h2>
+            <h2 className="text-3xl font-bold text-umber mb-8 text-center">Find Us in Entebbe</h2>
             <div className="rounded-lg overflow-hidden shadow-lg">
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255281.19034888474!2d32.37997841640625!3d0.3475759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177dbc0f0b1b1b1b%3A0x1b1b1b1b1b1b1b1b!2sKampala%2C%20Uganda!5e0!3m2!1sen!2sus!4v1234567890"
