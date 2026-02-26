@@ -14,6 +14,7 @@ export default function ContactPage() {
     phone: '',
     tourInterest: '',
     message: '',
+    website: '',
   });
 
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -33,7 +34,7 @@ export default function ContactPage() {
       if (!res.ok) throw new Error('Failed to send');
 
       setSubmitStatus('success');
-      setFormData({ name: '', email: '', phone: '', tourInterest: '', message: '' });
+      setFormData({ name: '', email: '', phone: '', tourInterest: '', message: '', website: '' });
       setTimeout(() => setSubmitStatus('idle'), 5000);
     } catch (error) {
       setSubmitStatus('error');
@@ -94,6 +95,17 @@ export default function ContactPage() {
                     )}
 
                     <form onSubmit={handleSubmit} className="space-y-6">
+                      {/* Honeypot — hidden from humans, bots fill it in */}
+                      <input
+                        type="text"
+                        name="website"
+                        value={formData.website ?? ''}
+                        onChange={handleChange}
+                        tabIndex={-1}
+                        aria-hidden="true"
+                        style={{ position: 'absolute', left: '-9999px', opacity: 0, pointerEvents: 'none' }}
+                      />
+
                       {/* Name */}
                       <div>
                         <label htmlFor="name" className="block text-sm font-semibold text-umber mb-2">

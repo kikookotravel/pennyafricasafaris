@@ -200,6 +200,16 @@ export function TourBookingCTA({ tour }: TourBookingCTAProps) {
                   />
                 </div>
 
+                {/* Honeypot — hidden from humans, bots fill it in */}
+                <input
+                  type="text"
+                  name="website"
+                  tabIndex={-1}
+                  aria-hidden="true"
+                  style={{ position: 'absolute', left: '-9999px', opacity: 0, pointerEvents: 'none' }}
+                  onChange={(e) => setFormData({ ...formData, website: e.target.value })}
+                />
+
                 <Button
                   type="submit"
                   size="lg"
