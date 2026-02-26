@@ -1,8 +1,10 @@
 import { Resend } from 'resend';
 
-const resend = new Resend(process.env.RESEND_API_KEY);
-
 const FROM_EMAIL = 'Penny Africa Safaris <hello@pennyafricasafaris.travel>';
+
+function getResend() {
+  return new Resend(process.env.RESEND_API_KEY);
+}
 const ADMIN_EMAIL = process.env.ADMIN_EMAIL || 'hello@pennyafricasafaris.travel';
 const CC_EMAIL = 'alex@passportcreative.co';
 
@@ -24,7 +26,7 @@ export async function sendTourInquiryEmails(data: TourInquiryData) {
 
   await Promise.all([
     // Admin notification
-    resend.emails.send({
+    getResend().emails.send({
       from: FROM_EMAIL,
       to: ADMIN_EMAIL,
       cc: CC_EMAIL,
@@ -60,7 +62,7 @@ export async function sendTourInquiryEmails(data: TourInquiryData) {
     }),
 
     // Customer confirmation
-    resend.emails.send({
+    getResend().emails.send({
       from: FROM_EMAIL,
       to: email,
       subject: `We've received your enquiry — ${tourTitle}`,
@@ -113,7 +115,7 @@ export async function sendContactFormEmails(data: ContactFormData) {
 
   await Promise.all([
     // Admin notification
-    resend.emails.send({
+    getResend().emails.send({
       from: FROM_EMAIL,
       to: ADMIN_EMAIL,
       cc: CC_EMAIL,
@@ -145,7 +147,7 @@ export async function sendContactFormEmails(data: ContactFormData) {
     }),
 
     // Customer confirmation
-    resend.emails.send({
+    getResend().emails.send({
       from: FROM_EMAIL,
       to: email,
       subject: `Thanks for getting in touch — Penny Africa Safaris`,
@@ -179,7 +181,7 @@ export async function sendContactFormEmails(data: ContactFormData) {
 export async function sendEmailCaptureEmails(email: string) {
   await Promise.all([
     // Admin notification
-    resend.emails.send({
+    getResend().emails.send({
       from: FROM_EMAIL,
       to: ADMIN_EMAIL,
       cc: CC_EMAIL,
@@ -197,7 +199,7 @@ export async function sendEmailCaptureEmails(email: string) {
     }),
 
     // Welcome email to subscriber
-    resend.emails.send({
+    getResend().emails.send({
       from: FROM_EMAIL,
       to: email,
       subject: `Welcome to Penny Africa Safaris`,
