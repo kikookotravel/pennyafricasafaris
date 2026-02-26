@@ -1,0 +1,211 @@
+{
+  "id": "4-day-gorilla-trek",
+  "slug": "4-day-gorilla-trekking-uganda",
+  "title": "4-Day Mountain Gorilla Trek Uganda",
+  "tagline": "Face to Face with the Last Mountain Gorillas",
+  "category": "primates",
+  "duration": 4,
+  "difficulty": "moderate",
+  "groupSize": "1-6 people",
+  "bestTime": "Year-round (best: June-September, December-February)",
+  "description": "There are fewer than 1,000 mountain gorillas left on Earth, and this four-day journey takes you face to face with them. You'll drive through the terraced hills of Uganda's Kigezi highlands — the 'Switzerland of Africa' — before plunging into Bwindi Impenetrable Forest, where an hour with a habituated gorilla family will leave you fundamentally changed. Finish with a serene afternoon at Lake Bunyonyi, Africa's second-deepest lake, where the adrenaline slowly gives way to quiet wonder.",
+  "highlights": [
+    "Spend a full hour with a habituated mountain gorilla family in Bwindi",
+    "Trek ancient rainforest with an expert ranger-guide",
+    "Witness the dramatic ascent into the Kigezi highlands — the 'Switzerland of Africa'",
+    "Relax and swim at Lake Bunyonyi, safe from hippos, crocs and bilharzia",
+    "Gorilla trekking permit ($700 value) included in price",
+    "Small group experience — maximum 8 people per gorilla family",
+    "Budget-friendly without compromising on the experience"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival in Entebbe",
+      "description": "Your Uganda adventure begins the moment your guide meets you at Entebbe International Airport with a warm smile and a cold bottle of water. Transfer to your comfortable guesthouse in Entebbe — close to the airport and perfectly positioned for an early start tomorrow. Use the evening to settle in, enjoy a hearty meal, and listen to your guide's briefing on the days ahead; the excitement is already building.",
+      "activities": [
+        "Airport pickup and meet your guide",
+        "Transfer to accommodation in Entebbe",
+        "Evening safari briefing and orientation",
+        "Rest and preparation for early morning departure"
+      ],
+      "accommodation": "Gorilla Neighbour Guest House (or similar)",
+      "meals": ["Breakfast"],
+      "highlights": [
+        "Warm Ugandan welcome",
+        "Meet your expert guide",
+        "Rest after your flight"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Journey to Bwindi Impenetrable National Park",
+      "description": "An early start sets you south-west across the Equator — pause here for the famous water-vortex experiment and photos straddling both hemispheres. The landscape transforms dramatically as you ascend into the Kigezi highlands, known as the 'Switzerland of Africa': terraced hillsides cascade down into misty valleys, banana plantations cling to impossible gradients, and the air cools noticeably. By late afternoon you arrive at the edge of Bwindi Impenetrable Forest, where the dense canopy hums with unseen life and the gorillas sleep just a few kilometres away.",
+      "activities": [
+        "Early breakfast and departure from Entebbe",
+        "Photo stop and experiment at the Equator crossing",
+        "Scenic drive through Uganda's countryside and Kigezi highlands",
+        "Lunch stop en route",
+        "Arrival at Bwindi and lodge check-in",
+        "Evening briefing on gorilla trekking etiquette and rules"
+      ],
+      "accommodation": "Ruhija Community Rest Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Stand on both hemispheres at the Equator",
+        "Dramatic ascent into the Kigezi highlands",
+        "First glimpse of Bwindi's ancient forest",
+        "Pre-trek briefing and preparation"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Gorilla Trekking & Lake Bunyonyi",
+      "description": "This is the day you came for. After an early breakfast you gather at park headquarters, where your ranger-guides brief you on the gorilla family you'll visit and the etiquette of the encounter. Then you push into the forest — a cathedral of ancient trees and tangled vines, alive with the calls of birds and the rustle of unseen creatures. The trek can take anywhere from two to six hours depending on where the gorillas have wandered, and every step builds anticipation. When you finally find them — a silverback dozing in a shaft of light, an infant wrestling its mother, a teenager studying you with calm, knowing eyes — the world stops. You have one magical hour, and no photograph will fully capture it. Afterwards, transfer to Lake Bunyonyi for a well-earned sunset swim in its safe, bilharzia-free waters.",
+      "activities": [
+        "Early breakfast at the lodge",
+        "Briefing at Bwindi park headquarters",
+        "2-6 hour gorilla trek through the rainforest",
+        "One hour with a habituated gorilla family",
+        "Return trek and late lunch",
+        "Scenic transfer to Lake Bunyonyi",
+        "Swimming and relaxation at the lake"
+      ],
+      "accommodation": "Byoona Amagara Island Lodge (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "One unforgettable hour with a gorilla family",
+        "Ancient Bwindi rainforest ecosystem",
+        "Sunset swim at Lake Bunyonyi",
+        "Relax on Africa's second-deepest lake"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Lake Bunyonyi & Return to Entebbe",
+      "description": "Wake to mist drifting across Lake Bunyonyi's 29 islands and enjoy a leisurely breakfast before the long drive home. On the way back to Entebbe, stop at Mpambire to visit the traditional drum-makers of Uganda — watch craftsmen shape hides over wooden frames the same way their grandfathers did, and try your hand at playing. You'll arrive in Entebbe or Kampala in the late afternoon, carrying memories that will outlast any souvenir.",
+      "activities": [
+        "Leisurely breakfast overlooking Lake Bunyonyi",
+        "Optional morning canoe paddle or island walk",
+        "Drive back towards Kampala/Entebbe",
+        "Stop at Mpambire traditional drum makers",
+        "Lunch en route",
+        "Drop-off at hotel or Entebbe International Airport"
+      ],
+      "accommodation": "N/A (or additional night available on request)",
+      "meals": ["Breakfast", "Lunch"],
+      "highlights": [
+        "Peaceful morning on Lake Bunyonyi",
+        "Traditional drum-making cultural stop",
+        "Reflect on your gorilla encounter",
+        "Comfortable return journey"
+      ]
+    }
+  ],
+  "pricing": {
+    "from": 2028,
+    "currency": "USD",
+    "note": "Gorilla permit ($700) included. Price per person varies by group size.",
+    "groupPricing": {
+      "solo": 3428,
+      "twoPersons": 2281,
+      "threeFour": 2028,
+      "fivePlus": 2028
+    }
+  },
+  "inclusions": [
+    "Gorilla trekking permit ($700 value per person)",
+    "Experienced English-speaking driver-guide",
+    "4WD custom-built safari vehicle and fuel",
+    "All park entrance fees",
+    "Accommodation for 3 nights (BB basis)",
+    "Meals as specified in itinerary",
+    "Bottled water throughout the trip",
+    "Airport transfers",
+    "Traditional Ugandan Rolex snack",
+    "Government taxes"
+  ],
+  "exclusions": [
+    "International flights",
+    "Uganda visa ($50 — apply online before travel)",
+    "Travel insurance (strongly recommended)",
+    "Personal expenses and tips",
+    "Alcoholic beverages",
+    "Meals not specified in itinerary",
+    "Porter fees during the trek ($15–20, optional but recommended)"
+  ],
+  "images": [
+    {
+      "url": "/images/tours/gorilla-silverback.jpg",
+      "alt": "Silverback mountain gorilla in Bwindi Impenetrable Forest",
+      "caption": "Come face to face with a silverback in Bwindi"
+    },
+    {
+      "url": "/images/tours/gorilla-family.jpg",
+      "alt": "Gorilla family feeding in the forest",
+      "caption": "Spend a magical hour observing gorilla families"
+    },
+    {
+      "url": "/images/tours/bwindi-forest.jpg",
+      "alt": "Misty rainforest of Bwindi Impenetrable National Park",
+      "caption": "Trek through one of Africa's oldest rainforests"
+    },
+    {
+      "url": "/images/tours/lake-bunyonyi.jpg",
+      "alt": "Lake Bunyonyi at sunset with island in background",
+      "caption": "Unwind at beautiful Lake Bunyonyi after your trek"
+    },
+    {
+      "url": "/images/tours/equator-uganda.jpg",
+      "alt": "The Equator crossing sign in Uganda",
+      "caption": "Stand on both hemispheres"
+    }
+  ],
+  "featured": true,
+  "published": true,
+  "seo": {
+    "metaTitle": "4-Day Gorilla Trekking Uganda | Permit Included | From $2,028pp",
+    "metaDescription": "Trek mountain gorillas in Bwindi Impenetrable Forest on this 4-day Uganda safari. Gorilla permit included, small groups, expert guides. Book from $2,028 per person.",
+    "keywords": [
+      "gorilla trekking Uganda",
+      "4 day gorilla safari Uganda",
+      "Bwindi Impenetrable National Park",
+      "mountain gorilla permit Uganda",
+      "affordable gorilla trekking",
+      "Uganda gorilla tour",
+      "Bwindi gorilla trek",
+      "Uganda safari 4 days"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "How fit do I need to be for gorilla trekking?",
+      "answer": "A moderate level of fitness is recommended. Treks typically last 2–6 hours through hilly, sometimes muddy forest terrain. The pace is always set by the slowest member of the group, and porters are available at the trailhead to carry your bag and offer a steady hand on difficult sections. We have seen guests of all ages and fitness levels complete the trek successfully."
+    },
+    {
+      "question": "Is the gorilla permit really included?",
+      "answer": "Yes — the $700 Uganda Wildlife Authority gorilla trekking permit is included in every Penny Africa Safaris gorilla package. We handle the booking in advance. Permits are limited (only 8 visitors per gorilla family per day), so we recommend booking at least 3–4 months ahead, especially for the peak dry seasons of June–September and December–February."
+    },
+    {
+      "question": "How close will I get to the gorillas?",
+      "answer": "The official minimum distance is 7 metres (about 23 feet), though gorillas regularly approach closer on their own terms — especially curious juveniles. You'll spend exactly one hour with the family. Flash photography is not permitted, but modern cameras handle the low forest light well."
+    },
+    {
+      "question": "Is Lake Bunyonyi safe for swimming?",
+      "answer": "Yes — Lake Bunyonyi is one of the very few lakes in Uganda that is free from hippos, crocodiles, and bilharzia (a waterborne parasite found in many African lakes). Swimming is actively encouraged, and the cool, clear water is a wonderful reward after the gorilla trek."
+    },
+    {
+      "question": "Can this tour be extended?",
+      "answer": "Absolutely. This itinerary is a popular foundation that we regularly extend with a day of chimpanzee trekking at Kibale, an extra night at Lake Bunyonyi, or a game drive at Queen Elizabeth National Park. Contact us and we'll build the perfect trip around your schedule and budget."
+    },
+    {
+      "question": "What should I wear for the trek?",
+      "answer": "Long-sleeved shirt and trousers (protection from nettles and insects), waterproof hiking boots with ankle support, a light rain jacket, and garden-style gloves. A hat and insect repellent are also recommended. Avoid bright colours — neutral greens and browns blend into the forest. We provide a full packing list on booking."
+    }
+  ],
+  "relatedTours": [
+    "5-day-gorilla-rafting-adventure",
+    "9-day-budget-primate-safari",
+    "10-day-rwanda-uganda-safari"
+  ]
+}

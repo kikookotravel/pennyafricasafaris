@@ -1,0 +1,417 @@
+{
+  "id": "13-day-camping-safari",
+  "slug": "13-day-uganda-camping-safari",
+  "title": "13-Tage Uganda Camping-Safari",
+  "tagline": "Authentisches Busch-Erlebnis - Campen unter afrikanischen Sternen",
+  "category": "camping",
+  "duration": 13,
+  "difficulty": "moderate",
+  "groupSize": "1-6 people",
+  "bestTime": "Dry season best: June-September, December-February",
+  "description": "Erleben Sie Uganda auf authentische Weise auf dieser umfassenden 13-Tage-Camping-Safari. Übernachten Sie in komfortablen Safari-Camps nahe der Natur und schlafen Sie ein zu den Geräuschen des afrikanischen Buschs. Verfolgen Sie Breitmaulnashörner in Ziwa, bestaunen Sie Murchison Falls, erkunden Sie die heißen Quellen des abgelegenen Semuliki, suchen Sie nach baumkletternden Löwen in Ishasha, wandern Sie zu Berggorillas in Bwindi, erleben Sie Bakiga-Kultur durch einen Homestay, entspannen Sie am Lake Bunyonyi und genießen Sie Wandersafaris im Lake Mburo. Dieses Camping-Abenteuer bietet unglaubliches Preis-Leistungs-Verhältnis und echte Busch-Erlebnisse unter den Sternen.",
+  "highlights": [
+    "Authentisches Camping-Erlebnis im afrikanischen Busch",
+    "Verfolgung von Breitmaulnashörnern im Ziwa-Schutzgebiet",
+    "Murchison Falls - Victoria-Nil-Bootssafari",
+    "Abgelegene Semuliki-heiße Quellen und Kraterseen",
+    "Berggorilla-Trekking in Bwindi",
+    "Baumkletternde Löwen in Ishasha",
+    "Kazinga-Kanal-Bootsfahrt",
+    "Bakiga-Kultureller Homestay",
+    "Schwimmen am Lake Bunyonyi (sichere Gewässer)",
+    "Wandersafari im Lake Mburo",
+    "Schlafen unter afrikanischen Sternen",
+    "Budgetfreundliche Camping-Unterkunft"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Ankunft in Entebbe",
+      "description": "Willkommen in Uganda! Bei Ankunft am Entebbe International Airport wird Sie Ihr Penny Africa Safaris-Guide begrüßen und zu Ihrer nahegelegenen Unterkunft bringen. Ruhen Sie sich nach Ihrem Flug aus und bereiten Sie sich auf Ihr authentisches Camping-Safari-Abenteuer vor. Ihr Guide wird Sie über den 13-Tage-Reiseplan informieren und was Sie vom Camping in Ugandas Nationalparks erwarten können.",
+      "activities": [
+        "Abholung am Flughafen",
+        "Transfer zur Unterkunft",
+        "Abendliches Safari- und Camping-Briefing",
+        "Ruhe und Vorbereitung"
+      ],
+      "accommodation": "Gorilla Neighbour Guest House (or similar)",
+      "meals": ["Breakfast"],
+      "highlights": [
+        "Ankunft in Uganda",
+        "Treffen mit Ihrem Guide",
+        "Camping-Abenteuer beginnt"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Ziwa-Nashorn-Schutzgebiet & Murchison Falls",
+      "description": "Fahren Sie nach Norden für Ihr erstes Camping-Erlebnis! Stopp am Ziwa-Nashorn-Schutzgebiet für ein außergewöhnliches Nashorn-Tracking-Erlebnis zu Fuß mit bewaffneten Rangern. Beobachten Sie gefährdete südliche Breitmaulnashörner und lernen Sie über Erhaltungsbemühungen. Weiterfahrt zum Murchison Falls Nationalpark mit Stopp an der Spitze der Fälle für eine der spektakulärsten Aussichten Ugandas: der mächtige Nil, der durch eine 7-Meter-Lücke presst und donnernde Geräusche erzeugt. Richten Sie Ihr Camp im Red Chilli Rest Camp ein, Ihre erste Nacht unter den afrikanischen Sternen.",
+      "activities": [
+        "Fahrt nach Norden von Entebbe",
+        "Nashorn-Tracking in Ziwa",
+        "Naturschutz-Bildung",
+        "Besuch der Spitze der Murchison Falls",
+        "Ankunft am Campingplatz",
+        "Erste Nacht Camping"
+      ],
+      "accommodation": "Red Chilli Rest Camp (camping)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Breitmaulnashörner verfolgen",
+        "Spektakuläre Murchison Falls",
+        "Erstes Busch-Camping",
+        "Schlafen unter Sternen"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Murchison Falls - Pirschfahrt & Bootssafari",
+      "description": "Wachen Sie zu den Geräuschen des afrikanischen Buschs auf! Beginnen Sie mit einer frühmorgendlichen Pirschfahrt auf der Suche nach Löwen, Elefanten, Giraffen, Büffeln und Leoparden über die Savanne. Rückkehr zum Camp zum Frühstück. Am Nachmittag genießen Sie eine Bootsfahrt entlang des Victoria-Nils zur Basis der Fälle. Beobachten Sie Tiere, die sich an den Ufern versammeln - Elefanten, Büffel, Wasserböcke. Entdecken Sie reichlich Krokodile und massive Flusspferd-Gruppen. Das Boot nähert sich dem donnernden Wasserfall, der 40 Meter hinabstürzt, während es zur Rückfahrt wendet. Übernachtung in Ihrem Busch-Camp.",
+      "activities": [
+        "Erwachen im Busch",
+        "Frühmorgendliche Pirschfahrt",
+        "Frühstück im Camp",
+        "Nachmittägliche Victoria-Nil-Bootsfahrt",
+        "Flusspferd- und Krokodilbeobachtung",
+        "Annäherung an Fälle von unten",
+        "Abendliches Lagerfeuer"
+      ],
+      "accommodation": "Red Chilli Rest Camp (camping)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Pirschfahrt bei Morgendämmerung",
+        "Victoria-Nil-Bootssafari",
+        "Fälle vom Wasser aus",
+        "Lagerfeuergeschichten"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Transfer zum Semuliki Nationalpark",
+      "description": "Heute beinhaltet eine sehr lange, aber landschaftlich schöne Fahrt zum abgelegenen Semuliki Nationalpark. Frühes Frühstück, dann Beginn der 6-7-stündigen Reise durch Nordugandas vielfältige Landschaften. Dies ist einer der längsten Fahrtage, daher sind Pausen und Mittagsstopps eingeplant. Der Semuliki Nationalpark in Ugandas westlicher Ecke ist eine Erweiterung des großen Ituri-Waldes des Kongo. Ankunft am Abend, Camp aufbauen und Abendessen unter den Sternen an diesem abgelegenen Ort genießen.",
+      "activities": [
+        "Sehr frühe Abfahrt",
+        "Lange landschaftliche Fahrt nach Semuliki",
+        "Mittags- und Dehnungsstopps",
+        "Wechselnde Landschaften",
+        "Ankunft im abgelegenen Semuliki",
+        "Abendlicher Camp-Aufbau",
+        "Abendessen unter Sternen"
+      ],
+      "accommodation": "Semuliki River Camp (camping)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Lange Abenteuerfahrt",
+        "Abgelegenes Ziel",
+        "Ituri-Wald-Erweiterung",
+        "Wildnis-Camping"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Semuliki-heiße Quellen & Transfer zum Queen Elizabeth",
+      "description": "Nach dem Frühstück erkunden Sie die einzigartigen Sempaya-heißen Quellen des Semuliki Nationalparks, wo kochende Geysire aus der Erde schießen. Besuchen Sie sowohl die männliche als auch die weibliche Quelle und lernen Sie lokale Folklore. Das Wasser ist so heiß, dass Eier in Minuten kochen! Erkunden Sie durch vulkanische Aktivität gebildete Kraterseen und betrachten Sie die fruchtbaren vulkanischen Böden der Gegend. Nach dem Mittagessen fahren Sie zum Queen Elizabeth Nationalpark und überqueren unterwegs den Äquator. Camp im Kazinga Wilderness Camp aufbauen.",
+      "activities": [
+        "Morgendlicher Besuch heißer Quellen",
+        "Kochende Geysire sehen",
+        "Kraterseen-Erkundung",
+        "Äquator überqueren",
+        "Fahrt zum Queen Elizabeth",
+        "Abendliche Camp-Ankunft"
+      ],
+      "accommodation": "Kazinga Wilderness Camp (camping)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Sempaya-heiße Quellen",
+        "Kraterseen",
+        "Äquator überqueren",
+        "Ankunft am Queen Elizabeth"
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Queen Elizabeth - Pirschfahrt & Kazinga-Bootsfahrt",
+      "description": "Beginnen Sie den Tag mit einer frühmorgendlichen Pirschfahrt, während Tiere in den kühlen Stunden aktiv sind. Suchen Sie nach Löwen, Büffeln, Elefanten, Antilopen, dem schwer fassbaren Buschschwein und mit Glück Leoparden. Die Kasenyi-Ebenen bieten ausgezeichnete Wildbeobachtung. Rückkehr zum Camp zum Brunch. Am Nachmittag genießen Sie die berühmte Kazinga-Kanal-Bootsfahrt. Diese Wasserstraße hat Afrikas höchste Flusspferdkonzentration. Entdecken Sie massive Flusspferd-Gruppen, sonnende Krokodile und über 60 Vogelarten. Campen unter Sternen mit Geräuschen von Flusspferden in der Nähe.",
+      "activities": [
+        "Frühmorgendliche Pirschfahrt",
+        "Kasenyi-Ebenen-Erkundung",
+        "Rückkehr zum Camp",
+        "Nachmittägliche Kazinga-Bootsfahrt",
+        "Flusspferdkonzentrations-Beobachtung",
+        "Abendliches Lagerfeuer",
+        "Schlafen zu Buschgeräuschen"
+      ],
+      "accommodation": "Kazinga Wilderness Camp (camping)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Morgengrauen-Pirschfahrt",
+        "Berühmter Kazinga-Kanal",
+        "Höchste Flusspferddichte",
+        "Busch-Camping"
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Transfer nach Ishasha - Baumkletternde Löwen",
+      "description": "Genießen Sie eine gemütliche morgendliche Fahrt durch Queen Elizabeth zum Ishasha-Sektor. Ishasha ist eine von nur zwei Regionen in Afrika, wo Löwen regelmäßig Bäume klettern und auf Ästen faulenzen. Während Ihrer nachmittäglichen Pirschfahrt suchen Sie nach diesen einzigartigen Löwen, die in Feigenbäumen ruhen. Achten Sie darauf, sowohl Boden als auch Äste zu scannen! Man glaubt, dass das Verhalten des Baumkletterns Löwen hilft, Bodenhitze und Tsetse-Fliegen zu entkommen. Camp am Ishasha Pride Lodge-Campingplatz aufbauen.",
+      "activities": [
+        "Morgendliche Abfahrt",
+        "Fahrt durch Queen Elizabeth",
+        "Ankunft in Ishasha",
+        "Nachmittägliche Suche nach baumkletternden Löwen",
+        "Fotografie-Gelegenheiten",
+        "Camp-Aufbau",
+        "Abend unter Sternen"
+      ],
+      "accommodation": "Ishasha Pride Lodge (camping)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Baumkletternde Löwen",
+        "Einzigartiges Verhalten",
+        "Ishasha-Wildnis",
+        "Busch-Camping"
+      ]
+    },
+    {
+      "day": 8,
+      "title": "Ishasha zum Bwindi Impenetrable Wald",
+      "description": "Setzen Sie die Suche nach baumkletternden Löwen heute Morgen mit einer weiteren frühen Pirschfahrt fort. Nach dem Frühstück Fahrt zum Bwindi Impenetrable Nationalpark. Genießen Sie die dramatische Landschaftsveränderung von offener Savanne zu dichtem Bergregenwald. Achten Sie auf Überraschungen unterwegs - schöne Aussichtspunkte und möglicherweise Wildlife. Ankunft am Abend im Ruhija Community Rest Camp. Camp nahe dem undurchdringlichen Wald aufbauen, wo Berggorillas heute Nacht schlafen. Vorbereitung auf die morgige einmalige Wanderung.",
+      "activities": [
+        "Morgendliche Löwensuche",
+        "Fahrt nach Bwindi",
+        "Savanne-zu-Regenwald-Übergang",
+        "Landschaftliche Aussichtspunkte",
+        "Camp nahe Wald",
+        "Gorilla-Trekking-Briefing",
+        "Frühe Nacht vor Wanderung"
+      ],
+      "accommodation": "Ruhija Community Rest Camp (camping)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Letzte Löwenbeobachtung",
+        "Fahrt nach Bwindi",
+        "Bergregenwald",
+        "Camp nahe Gorillas"
+      ]
+    },
+    {
+      "day": 9,
+      "title": "Berggorilla-Trekking",
+      "description": "Ziehen Sie Ihre Wanderschuhe an und greifen Sie nach einem stabilen Wanderstock - heute ist das Gipfelerlebnis: Berggorilla-Tracking! Nach Frühstück und Briefing am Park-Hauptquartier beginnen Sie Ihre Wanderung in den Bwindi Impenetrable Wald. Wandern Sie durch dichte Vegetation für 2-6 Stunden, je nach Standort der Gorillas. Sobald sie gefunden wurden, verbringen Sie eine unvergessliche Stunde mit der Beobachtung dieser sanften Riesen beim Fressen, Spielen und Ausruhen. Dies ist eines der besten Reiseerlebnisse, die Uganda bietet. Rückkehr zum Camp erschöpft, aber begeistert. Teilen Sie Geschichten heute Nacht am Lagerfeuer.",
+      "activities": [
+        "Frühes Frühstück",
+        "Park-Hauptquartier-Briefing",
+        "4-6 Stunden Gorilla-Wanderung",
+        "Eine Stunde mit Gorillas",
+        "Rückwanderung",
+        "Abendliche Lagerfeuergeschichten",
+        "Erfolg feiern"
+      ],
+      "accommodation": "Ruhija Community Rest Camp (camping)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Berggorillas treffen",
+        "Magische Stunde mit Riesen",
+        "Regenwaldwanderung",
+        "Lagerfeuer-Feier"
+      ]
+    },
+    {
+      "day": 10,
+      "title": "Bakiga-Kultureller Homestay",
+      "description": "Heute Übergang vom Camping zur kulturellen Immersion. Transfer zu einem Bakiga-Dorf für ein authentisches Homestay-Erlebnis. Die Bakiga haben reiches kulturelles Erbe mit ausgeprägten Traditionen, Musik, Tanz und Geschichtenerzählen. Bleiben Sie bei einer Bakiga-Familie und nehmen Sie an täglichen Aktivitäten wie Landwirtschaft und traditionellen Handwerken teil. Teilen Sie Mahlzeiten, Geschichten und Lachen. Dieser echte kulturelle Austausch geht über typischen Tourismus hinaus und schafft bedeutungsvolle Verbindungen. Die warme Gastfreundschaft wird Sie sich wie in der Familie fühlen lassen.",
+      "activities": [
+        "Transfer zur Bakiga-Gemeinschaft",
+        "Begrüßung durch Gastfamilie",
+        "Teilnahme an Landwirtschaft",
+        "Lernen traditioneller Handwerke",
+        "Traditionelle Musik und Tanz",
+        "Familienmahlzeiten teilen",
+        "Kulturelles Geschichtenerzählen"
+      ],
+      "accommodation": "The Home of Bakiga (Full Board)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Authentischer Homestay",
+        "Bakiga-Kultur",
+        "Traditionelle Handwerke",
+        "Familiengastfreundschaft"
+      ]
+    },
+    {
+      "day": 11,
+      "title": "Transfer zum Lake Bunyonyi",
+      "description": "Nach Frühstück und Abschied von Ihrer Gastfamilie fahren Sie zum atemberaubenden Lake Bunyonyi, einem der tiefsten und schönsten Seen Afrikas. Camp am Seeufer oder auf einer Insel aufbauen. Das Wasser ist flusspferd-, krokodil- und bilharzia-frei - perfekt zum Schwimmen! Probieren Sie das Paddeln eines traditionellen Einbaum-Kanus. Erkunden Sie die 29 Inseln, jede mit einzigartigen Geschichten. Genießen Sie Sonnenuntergangsausblicke auf terrassierte Hügel. Campen am See mit Sternen, die sich im ruhigen Wasser spiegeln.",
+      "activities": [
+        "Abschied von Bakiga-Familie",
+        "Fahrt zum Lake Bunyonyi",
+        "Camp-Aufbau am See",
+        "Schwimmen in sicheren Gewässern",
+        "Einbaum-Kanu-Paddeln",
+        "Inselerkundung",
+        "Seeufer-Camping"
+      ],
+      "accommodation": "Byoona Amagara Camp (camping)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Wunderschöner Lake Bunyonyi",
+        "Sicheres Schwimmen",
+        "Einbaum-Kanus",
+        "Seeufer-Camping"
+      ]
+    },
+    {
+      "day": 12,
+      "title": "Transfer zum Lake Mburo Nationalpark",
+      "description": "Nach Frühstück mit Seeblick fahren Sie 4-5 Stunden zum Lake Mburo Nationalpark, Ugandas kleinstem Savannenpark. Der Park hat vielfältiges Wildlife, darunter Leoparden, Zebras, Impalas, Elenantilopen, Büffel und über 300 Vogelarten. Genießen Sie eine nachmittägliche Pirschfahrt, um diese Tiere zu entdecken. Der Park hat keine Elefanten oder Löwen, was ihn sicher für die morgige Wandersafari macht. Bauen Sie Ihr letztes Busch-Camp auf und lauschen Sie Zebra-Rufen und Vogelgesängen.",
+      "activities": [
+        "Morgendliche Seeabfahrt",
+        "Fahrt zum Lake Mburo",
+        "Ankunft am kleinsten Park",
+        "Nachmittägliche Pirschfahrt",
+        "Zebra-Beobachtung",
+        "Letzter Camp-Aufbau",
+        "Letzte Nacht unter Sternen"
+      ],
+      "accommodation": "Leopard Rest Camp (camping)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Transfer zum Lake Mburo",
+        "Nachmittägliche Pirschfahrt",
+        "Zebras und Impalas",
+        "Letztes Busch-Camp"
+      ]
+    },
+    {
+      "day": 13,
+      "title": "Wandersafari & Rückkehr nach Entebbe",
+      "description": "Wachen Sie für eine optionale frühmorgendliche Wandersafari auf - eine einzigartige Gelegenheit, Savanne zu Fuß zu erkunden und Wildlife näher zu kommen. Wandern bietet beste Vogelbeobachtung und lässt Sie kleinere Details schätzen, die oft von Fahrzeugen übersehen werden. Ihr bewaffneter Ranger sorgt für Sicherheit, während er Wissen teilt. Nach diesem letzten Abenteuer und Frühstück packen Sie das Camp zusammen und fahren zurück nach Entebbe. Stopp zum Mittagessen unterwegs. Ankunft am Flughafen rechtzeitig für Ihren geplanten Flug. Wir hoffen, dass diese authentische Camping-Safari Ihren Appetit auf weitere Afrika-Abenteuer geweckt hat!",
+      "activities": [
+        "Optionale Wandersafari",
+        "Wildlife-Begegnungen zu Fuß",
+        "Vogelbeobachtung",
+        "Camp packen",
+        "Fahrt nach Entebbe",
+        "Mittagspause",
+        "Absetzung am Flughafen"
+      ],
+      "accommodation": "N/A (or additional night available)",
+      "meals": ["Breakfast", "Lunch"],
+      "highlights": [
+        "Wandersafari",
+        "Nahe Wildlife-Beobachtung",
+        "Letzte Uganda-Momente",
+        "Camping-Abenteuer komplett"
+      ]
+    }
+  ],
+  "pricing": {
+    "from": 4813,
+    "currency": "USD",
+    "note": "Camping-Unterkunft hält Kosten niedrig. Gorilla-Permit inklusive. Preis variiert je nach Gruppengröße.",
+    "groupPricing": {
+      "solo": 9177,
+      "twoPersons": 5711,
+      "threeFour": 4813,
+      "fivePlus": 4813
+    }
+  },
+  "inclusions": [
+    "Gorilla-Trekking-Permit (700 USD Wert)",
+    "Camping-Unterkunft in Safari-Camps",
+    "Camping-Ausrüstung (Zelte, Schlafsäcke, Matten)",
+    "Breitmaulnashorn-Tracking in Ziwa",
+    "Erfahrener englischsprachiger Fahrer-Guide",
+    "4WD maßgeschneidertes Safari-Fahrzeug und Kraftstoff",
+    "Alle Parkeintritte (6 Parks)",
+    "Mahlzeiten - Camping-Stil (Frühstück, Mittagessen, Abendessen)",
+    "Flughafentransfers",
+    "Pirschfahrten in allen Nationalparks",
+    "Bootsfahrt auf dem Victoria-Nil",
+    "Bootsfahrt auf dem Kazinga-Kanal",
+    "Bakiga-Kultureller Homestay (Vollpension)",
+    "Besuch heißer Quellen",
+    "Kraterseen-Tour",
+    "Einbaum-Kanu am Lake Bunyonyi",
+    "Wandersafari",
+    "Trinkwasser durchgehend",
+    "Frisches Obst",
+    "Traditionelles ugandisches Rolex",
+    "Staatliche Steuern"
+  ],
+  "exclusions": [
+    "Internationale Flüge",
+    "Uganda-Visum (50 USD online)",
+    "Reiseversicherung (sehr empfohlen)",
+    "Persönliche Ausgaben (Wäscherei, Trinkgelder)",
+    "Alkoholische Getränke",
+    "Nicht erwähnte optionale Aktivitäten",
+    "Trägergebühren während Gorilla-Wanderung (15-20 USD, empfohlen)",
+    "Schlafsäcke (können bei Bedarf gemietet werden)"
+  ],
+  "images": [
+    {
+      "url": "/images/tours/lake-panorama-hero.jpg",
+      "alt": "Camping unter Sternen",
+      "caption": "Authentisches Busch-Camping"
+    },
+    {
+      "url": "/images/tours/wildlife-safari.jpg",
+      "alt": "Safari-Camp",
+      "caption": "Campen in Nationalparks"
+    },
+    {
+      "url": "/images/tours/bwindi-forest.jpg",
+      "alt": "Lagerfeuer",
+      "caption": "Abende am Lagerfeuer"
+    },
+    {
+      "url": "/images/tours/lake-bunyonyi.jpg",
+      "alt": "Lake Bunyonyi",
+      "caption": "Campen an wunderschönen Seen"
+    }
+  ],
+  "featured": false,
+  "published": true,
+  "seo": {
+    "metaTitle": "13-Tage Uganda Camping-Safari | Budget-Busch-Erlebnis | Ab 4.813 USD",
+    "metaDescription": "Authentische Camping-Safari: Schlafen unter afrikanischen Sternen, Gorilla-Wanderung, Nashorn-Tracking, kultureller Homestay. Budgetfreundliches 13-Tage-Abenteuer. Echtes Busch-Erlebnis!",
+    "keywords": [
+      "Uganda Camping-Safari",
+      "Budget Uganda Safari",
+      "Camping-Abenteuer Uganda",
+      "Gorilla-Trekking-Camping",
+      "Authentisches Busch-Erlebnis",
+      "13 Tage Camping-Tour",
+      "Erschwingliche Uganda Safari",
+      "Safari unter Sternen"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Welche Art von Camping ist das?",
+      "answer": "Safari-Stil-Camping auf etablierten Campingplätzen innerhalb oder nahe Nationalparks. Plätze haben grundlegende Einrichtungen (Toiletten, Duschen). Wir stellen Zelte, Schlafmatten und Camping-Ausrüstung bereit. Es ist kein Luxus-Camping, aber komfortables 'Glamping'. Sie haben richtige Betten, nicht nur Schlafen auf dem Boden. Das authentische Busch-Erlebnis hält die Kosten niedrig und maximiert die Zeit in der Natur."
+    },
+    {
+      "question": "Ist Camping mit wilden Tieren in der Nähe sicher?",
+      "answer": "Ja, sehr sicher! Wir campen an ausgewiesenen Plätzen innerhalb der Parks, wo Ranger patrouillieren. Campingplätze sind eingezäunt oder in sicheren Bereichen. Ihr Guide ist erfahren und sorgt für Sicherheitsprotokolle. Die meisten Tiere meiden menschliche Camps. Nachts hören Sie Tiergeräusche (Flusspferde, manchmal Hyänen), was zum Abenteuer beiträgt, aber Sie sind immer sicher."
+    },
+    {
+      "question": "Was ist mit Einrichtungen und Duschen?",
+      "answer": "Alle Campingplätze haben grundlegende Toiletten- und Duscheinrichtungen (normalerweise geteilt). Duschen können kalt oder Eimer-Duschen sein - Teil des authentischen Erlebnisses! Einige Camps haben heiße Duschen. Einrichtungen sind einfach, aber ausreichend. Wenn Sie vollständige Annehmlichkeiten und heiße Duschen benötigen, erwägen Sie stattdessen unsere Lodge-basierten Safaris."
+    },
+    {
+      "question": "Muss ich Camping-Ausrüstung mitbringen?",
+      "answer": "Nein! Wir stellen Zelte, Schlafmatten und alle Camping-Ausrüstung bereit. Sie müssen nur persönliche Gegenstände mitbringen. Schlafsäcke können gemietet werden, wenn Sie keinen haben. Wir empfehlen, eine Stirnlampe/Taschenlampe, persönliche Toilettenartikel und geschichtete Kleidung für kühle Abende mitzubringen. Eine detaillierte Packliste wird bei Buchung bereitgestellt."
+    },
+    {
+      "question": "Wie unterscheidet sich dies von Lodge-basierten Safaris?",
+      "answer": "Camping bietet authentische Busch-Erlebnisse - einschlafen zu Tiergeräuschen, Lagerfeuer unter Sternen, näher an der Natur. Es ist abenteuerlicher und deutlich günstiger, während es die gleichen Parks und Aktivitäten abdeckt. Lodge-Safaris bieten mehr Komfort und Annehmlichkeiten. Camping passt zu abenteuerlustigen Reisenden, die Erlebnisse über Luxus priorisieren."
+    }
+  ],
+  "relatedTours": [
+    "12-day-spectacular-uganda-safari",
+    "14-day-cultural-wildlife-safari",
+    "9-day-budget-primate-safari"
+  ]
+}

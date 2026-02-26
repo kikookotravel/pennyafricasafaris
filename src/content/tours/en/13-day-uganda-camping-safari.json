@@ -1,0 +1,374 @@
+{
+  "id": "13-day-camping-safari",
+  "slug": "13-day-uganda-camping-safari",
+  "title": "13-Day Uganda Exclusive Camping Safari",
+  "tagline": "The Full Uganda Adventure — Under Canvas, Under Stars",
+  "category": "camping",
+  "duration": 13,
+  "difficulty": "moderate",
+  "groupSize": "1-8 people",
+  "bestTime": "Year-round (dry seasons June-September and December-February best for camping)",
+  "description": "Uganda from north to south, from the thundering Nile to the silent gorilla forests — this is the country's full story, told across thirteen days and told well. You begin at Murchison Falls, where the Nile squeezes through a gap just seven metres wide and launches itself forty metres into the air. You track white rhinos on foot at Ziwa, Uganda's only wild rhino population. You soak in the boiling Sempaya hot springs of Semuliki. You find lions lounging in trees at Ishasha. You come face to face with mountain gorillas in Bwindi. You spend a full day with the Bakiga people. You swim in the high-altitude clarity of Lake Bunyonyi. You walk at dawn through Lake Mburo as zebras materialise from the mist. Thirteen days, seven national parks and sanctuaries, one country that will surprise you every single day.",
+  "highlights": [
+    "Gorilla trek in Bwindi Impenetrable Forest — permit included",
+    "Track white rhinos on foot at Ziwa Rhino Sanctuary",
+    "Murchison Falls game drive & Victoria Nile boat cruise",
+    "Boiling Sempaya hot springs and crater lakes in Semuliki National Park",
+    "Search for tree-climbing lions in Ishasha sector of QENP",
+    "Afternoon boat cruise on the Kazinga Channel",
+    "Bakiga cultural homestay — full board, music, dance, farming",
+    "Swimming and canoeing at Lake Bunyonyi — bilharzia-free",
+    "Dawn walking safari at Lake Mburo National Park"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival in Entebbe",
+      "description": "Your guide meets you at Entebbe International Airport with a warm welcome and transfers you to a comfortable guesthouse just minutes from Lake Victoria's northern shore. Use the evening to settle in, exchange the pressurised air of the plane for Uganda's warm green air, and let your guide walk you through the next thirteen days. The Nile is already flowing a few hundred kilometres to the north. The gorillas are sleeping in Bwindi. The adventure starts tomorrow.",
+      "activities": [
+        "Airport pickup and guide meeting",
+        "Transfer to Entebbe guesthouse",
+        "Optional evening walk around Entebbe",
+        "Safari briefing and orientation"
+      ],
+      "accommodation": "Gorilla Neighbour Guest House, Entebbe (or similar)",
+      "meals": ["Breakfast"],
+      "highlights": [
+        "Warm Ugandan welcome",
+        "Rest after your flight",
+        "Trip briefing with your guide"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "North to Murchison Falls — Ziwa Rhino Sanctuary",
+      "description": "The drive north is an education in Uganda's diversity: the Kampala suburbs give way to open agricultural land, and the landscape grows drier and more ancient as you head towards the Rift Valley. Your first stop is Ziwa Rhino Sanctuary — a pioneering conservation project that has brought white rhinos back to Uganda after they were wiped out by poaching and civil war. You track them on foot with armed rangers, watching these prehistoric-looking animals from a respectful but deeply memorable close range. Then on to Murchison Falls National Park, where you glimpse the falls themselves — the Nile forcing its way through a gap just seven metres wide — before settling in to camp as the sun goes down.",
+      "activities": [
+        "Morning drive north from Entebbe",
+        "White rhino tracking on foot at Ziwa Rhino Sanctuary",
+        "Stop at the top of Murchison Falls viewpoint",
+        "Check-in at camp in Murchison Falls NP"
+      ],
+      "accommodation": "Redchill Rest Camp, Murchison (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "White rhino tracking on foot — Uganda's only wild rhino population",
+        "First views of the thundering Murchison Falls",
+        "Arrival at Uganda's largest national park"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Murchison Falls — Game Drive & Nile Boat Cruise",
+      "description": "Murchison Falls National Park is Uganda's largest and most diverse — 3,800 square kilometres of savannah, riverine forest, and floodplain, home to lions, elephants, giraffes, buffalo, and one of the densest hippo populations on Earth. The morning game drive delivers the land-based wildlife; the afternoon boat cruise on the Victoria Nile delivers everything else. As your boat glides upriver towards the falls, the banks come alive: hippos yawn in groups of dozens, Nile crocodiles sunbathe on every sandy shore, elephants wade chest-deep to drink, and as you near the falls the water turns white and the sound becomes a roar. You are as close as you will ever get to the raw power of the Nile.",
+      "activities": [
+        "Early morning game drive on Murchison's northern bank",
+        "Wildlife spotting: lions, giraffes, elephants, buffalo, Uganda kob",
+        "Afternoon boat cruise on the Victoria Nile to the base of the falls",
+        "Hippo, crocodile, and waterbird photography"
+      ],
+      "accommodation": "Redchill Rest Camp, Murchison (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Victoria Nile boat cruise to the base of Murchison Falls",
+        "Largest hippo concentration in Uganda",
+        "Giraffes — found only in Murchison among Uganda's parks"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Murchison to Semuliki National Park",
+      "description": "Today's drive is long — six to seven hours — but the reward is arriving at one of Uganda's most unusual and least-visited parks. Semuliki lies at the edge of the Congo Basin, its lowland forest an extension of the great Central African rainforest, which means its wildlife is unlike anything else in Uganda: Central African species meet East African ones at this remarkable interface, and the bird list alone has drawn ornithologists from across the world. You arrive for dinner at the riverside camp, the Congo forest pressing in on all sides, full of sounds you cannot yet identify.",
+      "activities": [
+        "Early breakfast and morning departure from Murchison",
+        "Long scenic drive south and west towards Semuliki",
+        "Lunch stop en route with photography stops",
+        "Arrival at Semuliki River Camp and check-in",
+        "Evening walk along the river"
+      ],
+      "accommodation": "Semuliki River Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Transition from savannah to Congo Basin rainforest",
+        "Arrival at one of Uganda's most unique and least-visited parks",
+        "The sounds of Central African forest at night"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Semuliki Hot Springs & Crater Lakes — Transfer to QENP",
+      "description": "Semuliki National Park is full of surprises, and the Sempaya hot springs are its most spectacular. Two boiling springs — the female and the male — bubble up at temperatures exceeding 100°C. The female spring sends a column of steam metres into the air; the rangers demonstrate by boiling eggs in its waters. The surrounding forest is alive with Albertine Rift endemic birds — species found nowhere else on Earth. Afterwards, you visit the volcanic crater lakes that dot this extraordinary landscape. Then you drive towards Queen Elizabeth National Park, crossing the Equator en route, and arrive at your camp on the Kazinga Channel as evening settles over the water.",
+      "activities": [
+        "Morning guided walk to the Sempaya female and male hot springs",
+        "Forest birdwatching — Albertine Rift endemics",
+        "Visit to the volcanic crater lakes",
+        "Equator crossing on the drive to QENP",
+        "Arrive at Kazinga Wilderness Camp"
+      ],
+      "accommodation": "Kazinga Wilderness Camp, QENP (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Boiling Sempaya hot springs in the Congo rainforest",
+        "Exceptional Albertine Rift endemic bird species",
+        "Cross the Equator on the drive south"
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Queen Elizabeth National Park — Game Drive & Kazinga Channel",
+      "description": "A full day in one of East Africa's finest wildlife parks. The morning game drive covers the Kasenyi plains and the dried river channels where lions hunt at dawn — on a good day you could see lions, elephants, buffalo, Uganda kob, the elusive bush pig, and even a leopard. In the afternoon you board a boat on the Kazinga Channel — that 40km waterway connecting Lake George and Lake Edward — for one of Uganda's great wildlife cruises. Hundreds of hippos, Nile crocodiles on every sandbank, cape buffalo at the waterline, and a bird diversity that has made this channel famous among ornithologists worldwide.",
+      "activities": [
+        "Early morning game drive in QENP",
+        "Wildlife spotting: lions, elephants, buffalo, leopard, kob",
+        "Afternoon 2-hour boat cruise on the Kazinga Channel",
+        "Hippos, crocodiles, waterbirds, and buffalo at the waterline"
+      ],
+      "accommodation": "Kazinga Wilderness Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Kazinga Channel boat cruise — Uganda's finest wildlife boat trip",
+        "Highest hippo density of the safari",
+        "QENP — over 600 bird species in the park"
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Transfer to Ishasha — Tree-Climbing Lions",
+      "description": "A scenic drive south through Queen Elizabeth National Park brings you to Ishasha — one of the only places on Earth where lions habitually climb trees. The giant fig trees of the Ishasha sector are regularly colonised by whole prides who haul themselves into the branches and spend the day looking magnificent and utterly at ease twenty metres above the ground. Your afternoon game drive is your first chance to find them. Look up.",
+      "activities": [
+        "Morning drive south through QENP to Ishasha",
+        "Afternoon game drive in Ishasha sector",
+        "Search for tree-climbing lions in the fig trees",
+        "Wildlife spotting: buffalo, Uganda kob, warthog, elephants"
+      ],
+      "accommodation": "Ishasha Pride Lodge (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Tree-climbing lions of Ishasha — one of Africa's great wildlife curiosities",
+        "Scenic drive through the full length of QENP",
+        "Ishasha's distinctive fig-tree and open woodland landscape"
+      ]
+    },
+    {
+      "day": 8,
+      "title": "Ishasha to Bwindi Impenetrable Forest",
+      "description": "The morning search for tree-climbing lions continues — early light is best for spotting the telltale shapes in the fig branches. Then you make one of the most dramatic transitions in Ugandan travel: from the open golden savannah of Ishasha into the dense, dark, ancient rainforest of Bwindi. The road climbs steeply, the air cools, the vegetation closes in, and by the time you arrive at Ruhija the world feels completely different — quieter, older, and full of a different kind of life. Tomorrow you trek gorillas. Tonight the forest talks in its sleep.",
+      "activities": [
+        "Early morning game drive in Ishasha — final lion search",
+        "Scenic drive through Bwindi National Park forest",
+        "Dramatic ascent into the Ruhija highlands",
+        "Check-in at camp and gorilla trek briefing"
+      ],
+      "accommodation": "Ruhija Community Rest Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Final lion search at Ishasha",
+        "Dramatic transition from savannah to ancient rainforest",
+        "Arrival at the edge of gorilla country"
+      ]
+    },
+    {
+      "day": 9,
+      "title": "Gorilla Trekking in Bwindi Impenetrable Forest",
+      "description": "This is the day. After an early breakfast the briefing at park headquarters sets the scene: your ranger-guide explains which gorilla family you'll follow, what to expect from the terrain, and the etiquette of the encounter. Then you enter Bwindi — a UNESCO World Heritage Site and one of the oldest forests in Africa, home to nearly half the world's remaining mountain gorillas. The trek ranges from two to six hours through steep, tangled terrain. And then you find them. Nothing prepares you for the reality of standing in the forest watching a silverback. You have one hour. It will last a lifetime.",
+      "activities": [
+        "Early breakfast and briefing at Bwindi HQ",
+        "2–6 hour gorilla trek through the rainforest",
+        "One unforgettable hour with a mountain gorilla family",
+        "Return trek and celebratory late lunch"
+      ],
+      "accommodation": "Ruhija Community Rest Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "One hour with a habituated mountain gorilla family",
+        "Ancient Bwindi Impenetrable Forest — UNESCO World Heritage Site",
+        "Expert ranger-guided trek"
+      ]
+    },
+    {
+      "day": 10,
+      "title": "Bakiga Cultural Homestay",
+      "description": "The Bakiga highlands feel different after Bwindi — more ordered, more human. The terraced hillsides of the Kabale district have been farmed by the Bakiga people for centuries, and today you are their guest. The Bakiga cultural homestay is not a demonstration — it's an invitation. Spend the day farming alongside your host family, learning to weave baskets and make pottery, eating food prepared the traditional way, and in the evening being drawn into the circle of drumming and dancing that has marked every important Bakiga occasion for generations. This is the human heart of Uganda.",
+      "activities": [
+        "Transfer to the Bakiga cultural heartland",
+        "Full-day cultural immersion: farming, basket weaving, pottery",
+        "Traditional Bakiga meals throughout the day",
+        "Evening drumming, dancing, and storytelling"
+      ],
+      "accommodation": "Bakiga Homestay (full board)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Full-day Bakiga cultural immersion",
+        "Traditional music, dance, and storytelling",
+        "Authentic community connection"
+      ]
+    },
+    {
+      "day": 11,
+      "title": "Transfer to Lake Bunyonyi",
+      "description": "Lake Bunyonyi is one of Africa's great surprises. At 1,800 metres above sea level, its cool, clear water spreads across a wide valley dotted with 29 islands — each with its own story. It is one of very few lakes in Uganda free from hippos, crocodiles, and bilharzia, which means you can swim freely. Today you arrive, find your island camp, and begin to decompress. A dugout canoe awaits. The water is cold and wonderfully clear. Tonight, dinner at the water's edge as the islands turn to silhouettes and the stars come out.",
+      "activities": [
+        "Morning drive from the Bakiga homestay to Lake Bunyonyi",
+        "Check-in at island lodge",
+        "Afternoon swimming, canoeing, or island walk",
+        "Optional: visit local community or fishing villages"
+      ],
+      "accommodation": "Byoona Amagara Island Lodge (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "First swim in Lake Bunyonyi's bilharzia-free waters",
+        "Dugout canoe on Africa's second-deepest lake",
+        "Complete relaxation after the gorilla trek"
+      ]
+    },
+    {
+      "day": 12,
+      "title": "Lake Bunyonyi to Lake Mburo National Park",
+      "description": "After a leisurely breakfast on the lake, you drive east through the Kigezi highlands and down to Lake Mburo National Park — Uganda's smallest national park and the most accessible from Kampala. Don't be fooled by its size: Mburo has leopard, zebra, impala, topi, buffalo, and over 300 bird species, and the afternoon game drive through its acacia and mixed woodland is genuinely exciting. Horseback safaris and boat trips on the lake are also available for those who want to end their penultimate evening with something different.",
+      "activities": [
+        "Leisurely breakfast on Lake Bunyonyi",
+        "Drive east through the Kigezi highlands to Lake Mburo",
+        "Afternoon game drive: zebras, impalas, topis, buffalo, leopard",
+        "Optional: horseback safari or boat trip on Lake Mburo"
+      ],
+      "accommodation": "Leopard Rest Camp, Lake Mburo (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Zebras — the only place in Uganda to see them",
+        "Optional horseback safari through the bush",
+        "Scenic drive through the Kigezi highlands"
+      ]
+    },
+    {
+      "day": 13,
+      "title": "Walking Safari & Return to Entebbe",
+      "description": "Your final morning in the wild — and there is no better way to spend it than on foot. A guided walking safari at Lake Mburo at dawn, when the animals are still active and the light is extraordinary: waterbucks materialising from the mist, zebras moving in the long grass, francolin calling from the acacias. This is wildlife as it should be experienced — at walking pace, at ground level, with all your senses open. Then the long, comfortable drive back to Entebbe, carrying thirteen days of Uganda in your memory. The airport awaits, but you'll find yourself reluctant to leave.",
+      "activities": [
+        "Early morning guided walking safari at Lake Mburo",
+        "Birdwatching through 300+ species park",
+        "Drive back to Entebbe via Masaka and Kampala",
+        "Drop-off at Entebbe International Airport"
+      ],
+      "accommodation": "N/A (departure day)",
+      "meals": ["Breakfast", "Lunch"],
+      "highlights": [
+        "Final walking safari at dawn at Lake Mburo",
+        "Farewell to Uganda's wildlife",
+        "Comfortable scenic return to Entebbe"
+      ]
+    }
+  ],
+  "pricing": {
+    "from": 4800,
+    "currency": "USD",
+    "note": "Gorilla permit ($700) included. Camp-style accommodation throughout. Price per person varies by group size.",
+    "groupPricing": {
+      "solo": 8500,
+      "twoPersons": 5500,
+      "threeFour": 4800,
+      "fivePlus": 4500
+    }
+  },
+  "inclusions": [
+    "Gorilla trekking permit ($700 value per person)",
+    "Experienced English-speaking driver-guide",
+    "4WD custom-built safari vehicle and fuel",
+    "All park entrance fees",
+    "Accommodation for 12 nights (BB basis, except Bakiga homestay: full board)",
+    "Meals as specified in itinerary",
+    "Bottled water throughout the trip",
+    "Fruits along the road",
+    "Airport transfers (Entebbe)",
+    "White rhino tracking at Ziwa Rhino Sanctuary",
+    "Victoria Nile boat cruise in Murchison Falls NP",
+    "Bakiga cultural homestay with full board",
+    "Kazinga Channel boat cruise",
+    "Traditional Ugandan Rolex snack",
+    "Game drives in all national parks",
+    "Government taxes"
+  ],
+  "exclusions": [
+    "International flights",
+    "Uganda visa ($50 — apply online before travel)",
+    "Travel insurance (strongly recommended)",
+    "Personal expenses and tips",
+    "Alcoholic beverages",
+    "Meals not specified in itinerary",
+    "Optional horseback safari at Lake Mburo",
+    "Porter fees during gorilla trek ($15–20, recommended)"
+  ],
+  "images": [
+    {
+      "url": "/images/tours/murchison-falls.jpg",
+      "alt": "Murchison Falls — the Nile through a 7-metre gap",
+      "caption": "The raw power of Murchison Falls — the Nile at its most dramatic"
+    },
+    {
+      "url": "/images/tours/gorilla-silverback.jpg",
+      "alt": "Silverback mountain gorilla in Bwindi",
+      "caption": "A silverback in Bwindi — the defining moment of any Uganda safari"
+    },
+    {
+      "url": "/images/tours/ziwa-rhino.jpg",
+      "alt": "White rhino at Ziwa Rhino Sanctuary Uganda",
+      "caption": "Track Uganda's only wild white rhinos on foot at Ziwa"
+    },
+    {
+      "url": "/images/tours/semuliki-hot-springs.jpg",
+      "alt": "Sempaya hot springs in Semuliki National Park",
+      "caption": "The boiling Sempaya hot springs in the Congo rainforest"
+    },
+    {
+      "url": "/images/tours/lake-bunyonyi.jpg",
+      "alt": "Lake Bunyonyi at sunset with islands",
+      "caption": "Lake Bunyonyi — your well-earned rest after Bwindi"
+    }
+  ],
+  "featured": false,
+  "published": true,
+  "seo": {
+    "metaTitle": "13-Day Uganda Camping Safari | Gorillas, Murchison & Wildlife | From $4,800pp",
+    "metaDescription": "Uganda's complete camping safari: Murchison Falls, Ziwa rhinos, Semuliki hot springs, QENP, Ishasha lions, Bwindi gorillas, Bakiga culture & Lake Bunyonyi. From $4,800pp.",
+    "keywords": [
+      "Uganda camping safari",
+      "13 day Uganda safari",
+      "Murchison Falls Uganda",
+      "Uganda gorilla camping trip",
+      "Semuliki National Park Uganda",
+      "Ziwa Rhino Sanctuary Uganda",
+      "exclusive camping Uganda",
+      "Uganda wildlife safari itinerary"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What does 'camping safari' mean — are we sleeping in tents?",
+      "answer": "On this itinerary, 'camping' refers to staying at established bush camps — comfortable fixed-tent or chalet-style accommodation in remote, wildlife-rich settings rather than large hotels. These camps are well-appointed with proper beds, en-suite or shared bathrooms, and good food. They are not expedition camping. The term reflects the authentic, close-to-nature experience they offer — positioned alongside rivers, inside national parks, and on lake shores that standard lodges don't access."
+    },
+    {
+      "question": "Is Semuliki National Park worth the long drive?",
+      "answer": "Absolutely — Semuliki is one of Uganda's hidden gems. As the easternmost extension of the Congo Basin rainforest, it is home to species found nowhere else in Uganda: Albertine Rift endemics, Central African forest birds, and the extraordinary Sempaya hot springs. The drive from Murchison is long, but the landscape is beautiful and the park experience is completely unlike anywhere else on this safari. Many guests say it is one of the unexpected highlights."
+    },
+    {
+      "question": "What is it like to track white rhinos on foot?",
+      "answer": "Rhino tracking at Ziwa is always done on foot with an armed ranger-guide — a safety requirement. The rhinos are wild animals and can be unpredictable, so experienced guides ensure a safe and genuinely memorable encounter. Tracking typically takes 1–3 hours through the sanctuary's bush, and you may find yourself within 30 metres of an animal that weighs over two tonnes. It is a wonderfully immersive experience that most guests say far exceeds their expectations."
+    },
+    {
+      "question": "What happens if the gorilla trek is cancelled?",
+      "answer": "Gorilla treks very rarely get cancelled — they operate year-round, including through Uganda's rainy seasons. In the unlikely event of a cancellation due to extreme weather or park closure, we will reschedule to another day or arrange a full refund of the permit cost. We hold permits in your name from the time of booking, which means you are guaranteed your spot."
+    },
+    {
+      "question": "Is the walking safari at Lake Mburo safe?",
+      "answer": "Yes — guided walking safaris at Lake Mburo are conducted with experienced ranger-guides who know the terrain and animals intimately. The park has no lions in the walking safari zones, making it one of the safest parks in Uganda to walk in. You may encounter hippos near the water (your guide maintains safe distances), zebra, impala, waterbuck, and an extraordinary diversity of birds. Walking at dawn is one of the most rewarding wildlife experiences available anywhere in Uganda."
+    },
+    {
+      "question": "Can chimpanzee trekking be added to this itinerary?",
+      "answer": "Yes — this is a popular addition. The best option is adding Kyambura Gorge chimpanzee trekking during the Queen Elizabeth National Park days (Days 5–6), which requires only one extra night. Kibale Forest National Park, home to the best-habituated chimp community in Uganda, is another excellent option. Contact us and we'll design the perfect customisation around your schedule and interests."
+    }
+  ],
+  "relatedTours": [
+    "14-day-cultural-wildlife-safari",
+    "9-day-budget-primate-safari",
+    "12-day-spectacular-uganda-safari"
+  ]
+}

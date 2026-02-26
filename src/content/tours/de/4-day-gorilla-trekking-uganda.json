@@ -1,0 +1,209 @@
+{
+  "id": "4-day-gorilla-trek",
+  "slug": "4-day-gorilla-trekking-uganda",
+  "title": "4-Tage Gorilla-Trekking Uganda",
+  "tagline": "Eine intime Begegnung mit Berggorillas in Bwindi",
+  "category": "primates",
+  "duration": 4,
+  "difficulty": "moderate",
+  "groupSize": "1-6 Personen",
+  "bestTime": "Ganzjährig (am besten: Juni-September, Dezember-Februar)",
+  "description": "Erleben Sie das Abenteuer Ihres Lebens mit unserer 4-tägigen Gorilla-Trekking-Safari im Bwindi Impenetrable Nationalpark in Uganda. Wandern Sie durch uralte Regenwälder, um bedrohte Berggorillas in ihrem natürlichen Lebensraum zu begegnen. Diese sorgfältig gestaltete Reiseroute verbindet Abenteuer mit Komfort und bietet Ihnen ein unvergessliches Naturerlebnis, ohne Ihr Budget zu sprengen.",
+  "highlights": [
+    "Trekking zu bedrohten Berggorillas im Bwindi Impenetrable Forest",
+    "Verbringen Sie eine magische Stunde mit der Beobachtung von Gorillafamilien in ihrem natürlichen Lebensraum",
+    "Fotomöglichkeit an der Äquatorüberquerung",
+    "Malerische Aussichten auf Ugandas terrassierte Hügel und üppige Landschaften",
+    "Entspannen Sie am wunderschönen Lake Bunyonyi, Afrikas zweittiefsten See",
+    "Besuchen Sie traditionelle Trommelhersteller und lernen Sie die ugandische Kultur kennen",
+    "Kleingruppenreise mit erfahrenem lokalen Guide",
+    "Budgetfreundlich ohne Kompromisse beim Erlebnis"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Ankunft in Entebbe",
+      "description": "Willkommen in Uganda! Bei Ihrer Ankunft am internationalen Flughafen Entebbe werden Sie herzlich von Ihrem Penny Africa Safaris Guide begrüßt. Transfer zu Ihrer komfortablen Pension, wo Sie sich ausruhen und auf Ihr bevorstehendes Abenteuer vorbereiten können.",
+      "activities": [
+        "Abholung vom Flughafen und Treffen mit Ihrem Guide",
+        "Transfer zur Unterkunft",
+        "Abendliche Einweisung zur Safari"
+      ],
+      "accommodation": "Gorilla Neighbour Guest House (oder ähnlich)",
+      "meals": ["Frühstück"],
+      "highlights": [
+        "Herzlicher ugandischer Empfang",
+        "Erholung nach Ihrem Flug",
+        "Treffen Sie Ihren erfahrenen Guide"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Fahrt zum Bwindi Impenetrable Nationalpark",
+      "description": "Nach dem Frühstück begeben Sie sich auf eine malerische 8-9-stündige Fahrt durch Ugandas wunderschöne Landschaft nach Bwindi. Halten Sie am Äquator für Fotos und faszinierende Experimente, die zeigen, dass Sie auf beiden Hemisphären stehen. Genießen Sie ein Mittagessen in der Stadt Mbarara, bevor Sie durch die atemberaubenden terrassierten Hügel Südwestugandas weiterfahren. Ankunft am späten Nachmittag in Ihrer Lodge nahe dem Park, mit Zeit zum Entspannen und zur Vorbereitung auf die morgige Wanderung.",
+      "activities": [
+        "Äquatorüberquerungszeremonie und Fotos",
+        "Malerische Fahrt durch Ugandas Landschaft",
+        "Mittagspause in Mbarara",
+        "Ankunft in Bwindi und Check-in in der Lodge",
+        "Abendliche Entspannung und Trekkingvorbereitung"
+      ],
+      "accommodation": "Ruhija Community Rest Camp (oder ähnlich)",
+      "meals": ["Frühstück", "Mittagessen", "Abendessen"],
+      "highlights": [
+        "Stehen Sie am Äquator",
+        "Wunderschöne terrassierte Hügel",
+        "Ankunft am Regenwald",
+        "Einweisung vor dem Trekking"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Gorilla-Trekking & Transfer zum Lake Bunyonyi",
+      "description": "Der Tag, auf den Sie gewartet haben! Nach einem frühen Frühstück fahren Sie zum Parkhauptquartier für eine umfassende Einweisung in die Gorilla-Trekking-Etikette. Ihre Ranger-Guides führen Sie in den nebligen Regenwald, um eine habituierte Gorillafamilie zu suchen. Das Trekking kann je nach Standort der Gorillas 2-6 Stunden dauern. Einmal gefunden, verbringen Sie eine unvergessliche Stunde mit der Beobachtung dieser sanften Riesen - sehen Sie zu, wie sie fressen, spielen und interagieren. Nach diesem lebensverändernden Erlebnis kehren Sie zur Lodge für ein spätes Mittagessen zurück und fahren dann zum atemberaubenden Lake Bunyonyi für einen entspannten Abend am zweittiefsten See Afrikas.",
+      "activities": [
+        "Frühes Frühstück",
+        "Gorilla-Trekking-Einweisung am Parkhauptquartier",
+        "4-6-stündiges Trekking durch den Bwindi-Regenwald",
+        "Eine Stunde mit der Berggorillafamilie",
+        "Rücktrekking und spätes Mittagessen",
+        "Malerischer Transfer zum Lake Bunyonyi",
+        "Abendliche Seeblicke und Entspannung"
+      ],
+      "accommodation": "Byoona Amagara Island Lodge (oder ähnlich)",
+      "meals": ["Frühstück", "Mittagessen", "Abendessen"],
+      "highlights": [
+        "Treffen Sie Berggorillas von Angesicht zu Angesicht",
+        "Verbringen Sie eine magische Stunde mit der Gorillafamilie",
+        "Wunderschöne Regenwaldflora und -fauna",
+        "Atemberaubender Sonnenuntergang am Lake Bunyonyi"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Rückfahrt nach Kampala/Entebbe",
+      "description": "Nach einem gemütlichen Frühstück mit Blick auf den Lake Bunyonyi beginnen Sie Ihre Rückreise nach Kampala. Halten Sie in Mpambire, um traditionelle Trommelhersteller zu besuchen und den komplizierten Prozess der ugandischen Trommelherstellung zu erleben. Erfahren Sie mehr über die kulturelle Bedeutung von Trommeln in Uganda und versuchen Sie sich selbst im Spielen. Ankunft am späten Nachmittag in Kampala/Entebbe. Ihr Guide bringt Sie je nach Abflugplan zu Ihrem Hotel oder zum Flughafen.",
+      "activities": [
+        "Frühstück am Lake Bunyonyi",
+        "Rückfahrt nach Kampala",
+        "Besuch bei traditionellen Trommelherstellern",
+        "Praktische Trommelherstellungsdemonstration",
+        "Absetzen am Hotel oder Flughafen"
+      ],
+      "accommodation": "N/A (oder zusätzliche Nacht verfügbar)",
+      "meals": ["Frühstück", "Mittagessen"],
+      "highlights": [
+        "Kulturerlebnis mit Trommelherstellern",
+        "Lernen Sie traditionelles ugandisches Handwerk",
+        "Reflektieren Sie Ihr Gorilla-Abenteuer"
+      ]
+    }
+  ],
+  "pricing": {
+    "from": 1200,
+    "currency": "USD",
+    "note": "Gorilla-Permit inbegriffen. Preis variiert je nach Gruppengröße.",
+    "groupPricing": {
+      "solo": 1850,
+      "twoPersons": 1450,
+      "threeFour": 1250,
+      "fivePlus": 1200
+    }
+  },
+  "inclusions": [
+    "Gorilla-Trekking-Permit (700 $ Wert)",
+    "Erfahrener englischsprachiger Fahrer-Guide",
+    "4x4 Safari-Fahrzeug mit Aufstelldach",
+    "Alle Parkeintrittsgebühren",
+    "Unterkunft für 3 Nächte (BB-Basis)",
+    "Mahlzeiten wie im Reiseplan angegeben",
+    "Wasser in Flaschen während der gesamten Reise",
+    "Alle im Reiseplan erwähnten Aktivitäten",
+    "Flughafentransfers",
+    "Staatliche Steuern"
+  ],
+  "exclusions": [
+    "Internationale Flüge",
+    "Uganda-Visum (50 $ online)",
+    "Reiseversicherung (dringend empfohlen)",
+    "Persönliche Ausgaben und Trinkgelder",
+    "Alkoholische Getränke",
+    "Nicht im Reiseplan angegebene Mahlzeiten",
+    "Nicht erwähnte optionale Aktivitäten",
+    "Trägergebühren während des Trekkings (15-20 $, optional aber empfohlen)"
+  ],
+  "images": [
+    {
+      "url": "/images/tours/gorilla-hero.jpg",
+      "alt": "Berggorilla im Bwindi Impenetrable Forest",
+      "caption": "Treffen Sie die sanften Riesen von Bwindi"
+    },
+    {
+      "url": "/images/tours/gorilla-family.jpg",
+      "alt": "Gorillafamilie beim Fressen",
+      "caption": "Beobachten Sie Gorillafamilien in ihrem natürlichen Lebensraum"
+    },
+    {
+      "url": "/images/tours/bwindi-forest.jpg",
+      "alt": "Nebliger Regenwald von Bwindi",
+      "caption": "Wandern Sie durch uralten Regenwald"
+    },
+    {
+      "url": "/images/tours/lake-bunyonyi.jpg",
+      "alt": "Wunderschöner Lake Bunyonyi bei Sonnenuntergang",
+      "caption": "Entspannen Sie am atemberaubenden Lake Bunyonyi"
+    },
+    {
+      "url": "/images/tours/equator-uganda.jpg",
+      "alt": "Äquatorüberquerung in Uganda",
+      "caption": "Stehen Sie auf beiden Hemisphären"
+    }
+  ],
+  "featured": true,
+  "published": true,
+  "seo": {
+    "metaTitle": "4-Tage Gorilla-Trekking Uganda Safari | Ab $1.200 | Penny Africa Safaris",
+    "metaDescription": "Erleben Sie Berggorillas im Bwindi Impenetrable Forest auf dieser erschwinglichen 4-Tage Uganda-Safari. Gorilla-Permit inbegriffen. Kleingruppen, erfahrene Guides. Jetzt buchen!",
+    "keywords": [
+      "Gorilla-Trekking Uganda",
+      "Bwindi Gorilla-Safari",
+      "Berggorilla-Tour",
+      "Uganda Gorilla-Permit",
+      "erschwingliches Gorilla-Trekking",
+      "4 Tage Uganda Safari",
+      "Bwindi Impenetrable Forest",
+      "Budget Gorilla-Trek"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Wie fit muss ich für das Gorilla-Trekking sein?",
+      "answer": "Mäßige Fitness wird empfohlen. Das Trekking kann 2-6 Stunden durch hügeliges, schlammiges Gelände dauern. Jedoch sind Träger verfügbar, um Ihr Gepäck zu tragen und bei Bedarf zu helfen. Das Tempo wird an die Fähigkeit der Gruppe angepasst."
+    },
+    {
+      "question": "Was ist die beste Zeit für Gorilla-Trekking?",
+      "answer": "Gorilla-Trekking ist ganzjährig in Bwindi möglich. Die Trockenzeiten (Juni-September und Dezember-Februar) haben einfachere Trekkingbedingungen, aber Gorillas können jederzeit gesehen werden. Die Regenzeit (März-Mai, Oktober-November) bietet niedrigere Unterkunftspreise und üppige Landschaften."
+    },
+    {
+      "question": "Ist das Gorilla-Permit im Preis enthalten?",
+      "answer": "Ja! Das 700-$-Gorilla-Trekking-Permit ist in unserem Tourpreis enthalten. Wir kümmern uns um alle Permit-Buchungen und Logistik für Sie."
+    },
+    {
+      "question": "Wie nah können wir den Gorillas kommen?",
+      "answer": "Die Richtlinien erfordern einen Mindestabstand von 7 Metern, obwohl die Gorillas manchmal von selbst näher kommen. Sie haben eine volle Stunde, um sie zu beobachten und zu fotografieren."
+    },
+    {
+      "question": "Was sollte ich für das Trekking einpacken?",
+      "answer": "Wesentliche Gegenstände umfassen: wasserdichte Wanderschuhe, lange Hosen und Ärmel (Schutz vor Brennnesseln), Regenjacke, Gartenhandschuhe, Hut, Sonnencreme, Insektenschutzmittel und eine gute Kamera. Wir stellen bei der Buchung eine detaillierte Packliste zur Verfügung."
+    },
+    {
+      "question": "Kann ich diese Tour kurzfristig machen?",
+      "answer": "Gorilla-Permits sind begrenzt und werden Monate im Voraus gebucht, besonders in der Hauptsaison. Wir empfehlen, mindestens 3-4 Monate im Voraus zu buchen. Kontaktieren Sie uns jedoch für Last-Minute-Verfügbarkeit – wir haben manchmal Zugang zu Permits."
+    }
+  ],
+  "relatedTours": [
+    "9-day-budget-primate-safari",
+    "5-day-gorilla-rafting-adventure",
+    "12-day-spectacular-uganda-safari"
+  ]
+}

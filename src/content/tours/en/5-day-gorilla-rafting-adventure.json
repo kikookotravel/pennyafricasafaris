@@ -1,0 +1,233 @@
+{
+  "id": "5-day-gorilla-rafting",
+  "slug": "5-day-gorilla-rafting-adventure",
+  "title": "5-Day Gorilla Trekking & White Water Rafting Adventure",
+  "tagline": "Combine Gorillas with Adrenaline on the Nile",
+  "category": "adventure",
+  "duration": 5,
+  "difficulty": "challenging",
+  "groupSize": "1-6 people",
+  "bestTime": "Year-round (rafting best: September-March)",
+  "description": "Experience the ultimate Uganda adventure combining two bucket-list activities: mountain gorilla trekking in Bwindi and world-class white water rafting on the Nile River. This action-packed 5-day safari offers the perfect blend of wildlife encounters and adrenaline-pumping adventure. Trek through ancient rainforests to meet endangered gorillas, then conquer Grade 5 rapids at the source of the Nile. Perfect for adventure seekers who want to maximize their limited time in Uganda.",
+  "highlights": [
+    "Mountain gorilla trekking in Bwindi Impenetrable Forest",
+    "World-class white water rafting on the Nile River",
+    "Grade 5 rapids at the source of the Nile",
+    "Visit Mabira Forest - Uganda's largest rainforest",
+    "Cross the Equator with experiments",
+    "Boat trip to the source of the Nile",
+    "Pass through tea and sugarcane plantations",
+    "Traditional Ugandan Rolex experience",
+    "Perfect adventure combo in just 5 days"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival in Entebbe",
+      "description": "Welcome to Uganda! Your Penny Africa Safaris guide will greet you at Entebbe International Airport and transfer you to your nearby accommodation. Rest after your flight and get excited for the adventure-packed days ahead. Your guide will brief you on the itinerary and answer any questions.",
+      "activities": [
+        "Airport pickup",
+        "Transfer to accommodation",
+        "Evening safari briefing",
+        "Rest and preparation"
+      ],
+      "accommodation": "Gorilla Neighbour Guest House (or similar)",
+      "meals": ["Breakfast"],
+      "highlights": [
+        "Arrive in Uganda",
+        "Meet your guide",
+        "Prepare for adventure"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "White Water Rafting on the Nile",
+      "description": "Early morning departure for Jinja, the adventure capital of East Africa! The 2-hour drive takes you through Mabira Forest, Uganda's largest tropical rainforest, passing tea and sugarcane plantations and colorful roadside markets. Arrive at Kalagala Falls on the Nile River for your white water rafting adventure. Choose between a half-day (4-5 rapids) or full-day (8-9 rapids) experience tackling Grade 3-5 rapids. No experience necessary - professional guides provide all safety equipment and training. After this exhilarating experience, enjoy a riverside lunch before driving back to Entebbe in the evening. Optional: Visit the source of the Nile by boat.",
+      "activities": [
+        "Early morning drive to Jinja (2 hours)",
+        "Safety briefing and equipment fitting",
+        "Full or half-day white water rafting",
+        "Tackle Grade 3-5 rapids",
+        "Riverside lunch",
+        "Optional boat trip to source of the Nile",
+        "Drive back to Entebbe",
+        "Rest at lodge"
+      ],
+      "accommodation": "Gorilla Neighbour Guest House (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "World-famous Nile River rapids",
+        "Professional rafting guides",
+        "Mabira Forest drive",
+        "Source of the Nile",
+        "Adrenaline-pumping adventure"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Transfer to Bwindi Impenetrable National Park",
+      "description": "After breakfast, begin your journey to Bwindi Impenetrable Forest National Park in southwestern Uganda (8-9 hours). Stop at the Equator for photographs and fascinating demonstrations showing you're standing on both hemispheres. Continue to Mbarara town for lunch, then drive through the beautiful rolling hills of banana and tea plantations. The scenery becomes increasingly spectacular as you approach Bwindi. Arrive in the evening at your lodge near the park, surrounded by mist-covered mountains.",
+      "activities": [
+        "Early morning departure",
+        "Equator crossing ceremony",
+        "Lunch stop in Mbarara",
+        "Scenic drive through tea plantations",
+        "Arrive at Bwindi",
+        "Evening relaxation",
+        "Gorilla trek preparation"
+      ],
+      "accommodation": "Travellers Rest Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Equator crossing",
+        "Beautiful countryside",
+        "Tea and banana plantations",
+        "Arrive at rainforest"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Mountain Gorilla Trekking",
+      "description": "The highlight of your adventure! After an early breakfast, report to park headquarters for registration and a comprehensive briefing on gorilla trekking etiquette. At 8:00 AM, set off with your ranger guides into the dense forest to search for a habituated gorilla family. Trek through thick undergrowth on animal trails, navigating the steeply forested landscape. The search can take anywhere from 30 minutes to 6 hours depending on where the gorillas spent the previous night. Once located, spend an extraordinary hour observing these endangered creatures in their natural habitat. Watch them feed, play, and interact - it's an emotional and unforgettable experience. After the trek, return to your lodge or transfer to Lake Bunyonyi for relaxation.",
+      "activities": [
+        "Early breakfast and packed lunch",
+        "Registration at park headquarters",
+        "Gorilla trekking briefing",
+        "4-6 hour trek through rainforest",
+        "One hour with mountain gorilla family",
+        "Return trek",
+        "Evening at leisure"
+      ],
+      "accommodation": "Byoona Amagara (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Meet mountain gorillas face-to-face",
+        "Spend magical hour with gentle giants",
+        "Ancient rainforest ecosystem",
+        "Once-in-a-lifetime experience"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Return to Entebbe for Departure",
+      "description": "After breakfast, begin the long but scenic drive back to Entebbe International Airport (8-9 hours). Stop for lunch en route and enjoy final views of Uganda's beautiful countryside. Arrive at the airport in time for your evening departure flight, taking home incredible memories of gorillas and white water adventure.",
+      "activities": [
+        "Early breakfast",
+        "Long drive to Entebbe",
+        "Lunch stop en route",
+        "Countryside viewing",
+        "Airport drop-off for departure"
+      ],
+      "accommodation": "N/A (or additional night available)",
+      "meals": ["Breakfast", "Lunch"],
+      "highlights": [
+        "Final Uganda countryside views",
+        "Reflect on adventure",
+        "Safe travels home"
+      ]
+    }
+  ],
+  "pricing": {
+    "from": 2560,
+    "currency": "USD",
+    "note": "Gorilla permit and white water rafting included. Price varies by group size.",
+    "groupPricing": {
+      "solo": 4220,
+      "twoPersons": 2814,
+      "threeFour": 2560,
+      "fivePlus": 2560
+    }
+  },
+  "inclusions": [
+    "Gorilla trekking permit ($700 value)",
+    "Full-day white water rafting on the Nile",
+    "Professional rafting guides and safety equipment",
+    "Experienced English-speaking safari guide",
+    "4WD custom-built safari vehicle and fuel",
+    "All park entrance fees",
+    "Accommodation for 4 nights (BB basis)",
+    "Meals as specified in itinerary",
+    "Airport transfers",
+    "Drinking water throughout the trip",
+    "Fresh fruits along the road",
+    "Boat trip to source of the Nile",
+    "Traditional Ugandan Rolex",
+    "Cultural entertainment",
+    "Government taxes"
+  ],
+  "exclusions": [
+    "International flights",
+    "Uganda visa ($50 online)",
+    "Travel insurance (highly recommended)",
+    "Personal expenses (laundry, tips, etc.)",
+    "Alcoholic beverages",
+    "Meals not specified in itinerary",
+    "Optional activities not mentioned",
+    "Porter fees during gorilla trek ($15-20, optional but recommended)"
+  ],
+  "images": [
+    {
+      "url": "/images/tours/gorilla-trek.jpg",
+      "alt": "Mountain gorilla in Bwindi",
+      "caption": "Trek to see mountain gorillas"
+    },
+    {
+      "url": "/images/tours/wildlife-safari.jpg",
+      "alt": "White water rafting",
+      "caption": "Conquer Grade 5 rapids"
+    },
+    {
+      "url": "/images/tours/bwindi-forest.jpg",
+      "alt": "Bwindi rainforest",
+      "caption": "Ancient rainforest trek"
+    },
+    {
+      "url": "/images/tours/equator-uganda.jpg",
+      "alt": "Equator crossing",
+      "caption": "Stand on the Equator"
+    }
+  ],
+  "featured": true,
+  "published": true,
+  "seo": {
+    "metaTitle": "5-Day Gorilla Trekking & White Water Rafting Uganda | From $2,560",
+    "metaDescription": "Ultimate adventure safari: Mountain gorillas in Bwindi + world-class rafting on the Nile. Grade 5 rapids, wildlife, adrenaline. Perfect 5-day combo!",
+    "keywords": [
+      "gorilla trekking rafting combo",
+      "Uganda adventure safari",
+      "white water rafting Nile",
+      "Bwindi gorilla trek",
+      "Uganda extreme adventure",
+      "5 day Uganda tour",
+      "Jinja white water rafting",
+      "adventure safari Uganda"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Do I need rafting experience?",
+      "answer": "No previous rafting experience is necessary! Professional guides provide comprehensive safety training and all equipment. The rapids are graded 3-5, offering thrilling excitement while maintaining safety standards. If you can swim and are reasonably fit, you'll be fine."
+    },
+    {
+      "question": "What if I'm not comfortable with Grade 5 rapids?",
+      "answer": "You can choose the half-day option which covers Grade 3-4 rapids (less intense), or simply walk around the biggest Grade 5 rapid called 'The Bad Place.' Most people find the experience exhilarating rather than scary with the professional guides."
+    },
+    {
+      "question": "Is this tour too physically demanding?",
+      "answer": "This is our most physically challenging tour. Day 2 involves several hours of rafting, and Day 4 requires hiking through steep, muddy forest terrain. You should be in good physical condition. However, the pace is adjusted to your ability, and porters can help during the gorilla trek."
+    },
+    {
+      "question": "Can we do more rafting activities in Jinja?",
+      "answer": "Absolutely! Jinja offers bungee jumping, kayaking, tubing, quad biking, and horseback riding. Let us know if you'd like to add extra days or activities - we can customize the itinerary."
+    },
+    {
+      "question": "What's the best time for this combination safari?",
+      "answer": "Year-round is possible, but September-March offers the best rafting conditions with higher water levels. The dry seasons (June-September, December-February) are ideal for gorilla trekking. December-February offers the perfect combination of both."
+    }
+  ],
+  "relatedTours": [
+    "4-day-gorilla-trekking-uganda",
+    "9-day-budget-primate-safari",
+    "8-day-eastern-uganda-safari"
+  ]
+}

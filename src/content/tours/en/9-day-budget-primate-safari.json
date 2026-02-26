@@ -1,0 +1,330 @@
+{
+  "id": "9-day-primate-safari",
+  "slug": "9-day-budget-primate-safari",
+  "title": "9-Day Budget Primate Safari Uganda",
+  "tagline": "Gorillas, Chimps, Tree-Climbing Lions & the Rare Shoebill",
+  "category": "primates",
+  "duration": 9,
+  "difficulty": "moderate",
+  "groupSize": "1-6 people",
+  "bestTime": "Year-round (best: June–September, December–February)",
+  "description": "This nine-day safari proves that extraordinary doesn't have to mean expensive. In less than a fortnight you will track mountain gorillas through Bwindi's ancient rainforest, watch chimpanzees swing through Kyambura Gorge, scan fig trees for Ishasha's famous tree-climbing lions, cruise the hippo-thick Kazinga Channel, drift by canoe through Mabamba papyrus swamp in search of the prehistoric shoebill, and swim freely in Lake Bunyonyi's safe, island-scattered waters. Two gorilla permits are included — the biggest single cost in any Uganda safari — and every park, every boat cruise, and every canoe trip is covered. This is Uganda's greatest wildlife show at exceptional value.",
+  "highlights": [
+    "Trek mountain gorillas in Bwindi Impenetrable Forest — both permits included",
+    "Track wild chimpanzees through Kyambura Gorge in Queen Elizabeth NP",
+    "Search for Ishasha's famous tree-climbing lions — a rare behaviour seen in only two places on earth",
+    "Cruise the Kazinga Channel, home to Africa's highest concentration of hippos",
+    "Paddle a dugout canoe to hunt the prehistoric shoebill stork at Mabamba Swamp",
+    "Swim freely in crocodile- and bilharzia-free Lake Bunyonyi",
+    "Walking safari through zebra and antelope country at Lake Mburo",
+    "Two gorilla trekking permits ($1,400 value) fully included"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival in Entebbe",
+      "description": "Land at Entebbe International Airport and be met by your Penny Africa Safaris guide, who will transfer you to your comfortable guesthouse just minutes from Lake Victoria. Use the evening to settle in, enjoy a warm dinner, and listen to your guide's briefing on the nine extraordinary days that lie ahead. The excitement is already in the air.",
+      "activities": [
+        "Airport pickup and meet your guide",
+        "Transfer to accommodation in Entebbe",
+        "Welcome dinner and safari briefing",
+        "Rest and preparation"
+      ],
+      "accommodation": "Gorilla Neighbour Guest House (or similar)",
+      "meals": ["Breakfast"],
+      "highlights": [
+        "Warm Ugandan welcome",
+        "Meet your expert guide",
+        "Nine adventures begin"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Transfer to Queen Elizabeth National Park",
+      "description": "After breakfast, set out west across Uganda's rolling green interior. The drive takes you through the Rift Valley's crater lake region — a surreal landscape of perfectly circular lakes nestled in ancient volcanic craters — before crossing the Equator for the famous water-swirl demonstration and photos. By afternoon the landscape opens into the vast savannah of Queen Elizabeth National Park, where Uganda Kob antelopes dot the plains and the Kazinga Channel glitters in the distance. Check in to your camp as the park settles into its evening rhythms.",
+      "activities": [
+        "Breakfast and early morning departure",
+        "Drive through Uganda's crater lake region",
+        "Equator crossing with photos and water experiment",
+        "Continue to Queen Elizabeth National Park",
+        "Afternoon game viewing en route",
+        "Lodge check-in and evening relaxation"
+      ],
+      "accommodation": "Songabird Rest Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Crater lake region — volcanic landscape",
+        "Cross the Equator in both hemispheres",
+        "First views of Queen Elizabeth savannah",
+        "Uganda Kob on the Kasenyi plains"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Queen Elizabeth NP — Game Drive & Kazinga Channel Cruise",
+      "description": "Rise early for the dawn game drive, when the light is golden and the Uganda Kob antelopes gather at their famous mating grounds on the Kasenyi plains in one of nature's great spectacles. Search for lions, elephants, buffalo and the elusive leopard before returning to camp for a midday rest. The afternoon belongs to the Kazinga Channel — a 40-kilometre waterway connecting Lake Edward and Lake George that contains one of the highest densities of hippos on the continent. Your boat glides past pod after enormous pod, close enough to hear them grunt and watch their pink ears twitch, while Nile crocodiles line every sandbank and African fish eagles call from the shoreline trees.",
+      "activities": [
+        "Early morning game drive on Kasenyi plains",
+        "Watch Uganda Kob mating ground behaviour",
+        "Search for lions, elephants, buffalo and leopard",
+        "Return to camp for lunch",
+        "Afternoon boat cruise on the Kazinga Channel",
+        "Hippo, crocodile and water bird viewing"
+      ],
+      "accommodation": "Songabird Rest Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Uganda Kob mating ritual on Kasenyi plains",
+        "Search for lions and leopards at dawn",
+        "Kazinga Channel cruise — highest hippo concentration",
+        "Bird watching along the channel banks"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Chimpanzee Trekking in Kyambura Gorge",
+      "description": "Descend into the dramatic Kyambura Gorge — a hidden jungle slicing through the savannah floor of Queen Elizabeth National Park — where a community of chimpanzees lives in near-total isolation from the outside world. Your guide leads you along the gorge's rim before dropping into the forest itself, following sound and sign until you find the chimps in full mid-morning activity: charging between trees, cracking nuts on exposed roots, grooming each other with focused intensity, and occasionally stopping to stare at you with an unsettling, too-familiar intelligence. Chimpanzees share 98.7% of human DNA, and an hour with them makes that number feel very real. The afternoon brings one more surprise: a game drive east into Ishasha sector as the day cools and the lions begin to stir.",
+      "activities": [
+        "Morning chimpanzee trekking in Kyambura Gorge",
+        "Descend into the gorge forest with a ranger guide",
+        "Observe chimp feeding, grooming and social behaviour",
+        "Return to camp for lunch",
+        "Afternoon drive east towards Ishasha sector",
+        "Overnight at Ishasha"
+      ],
+      "accommodation": "Ishasha Pride Lodge (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Track wild chimpanzees in Kyambura's hidden gorge",
+        "Observe our closest living relatives up close",
+        "Dramatic gorge forest descending through savannah",
+        "Transition to Ishasha and tree-climbing lion country"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Transfer to Bwindi — Tree-Climbing Lions at Ishasha",
+      "description": "Ishasha is one of only two places in Africa where lions regularly climb trees — nobody is entirely sure why, though the leading theories involve escaping tsetse flies and getting a better view over the tall grass. This morning's game drive scans the sprawling fig trees as carefully as the savannah beneath them, and finding a pride lounging on the branches ten metres off the ground is one of those wildlife moments that makes every early alarm worthwhile. After this unusual spectacle, the road climbs east into the green mountains toward Bwindi Impenetrable National Park — the landscape shifting dramatically from open savannah to dense mountain rainforest. Arrive at your lodge as evening mist settles over the forest.",
+      "activities": [
+        "Morning game drive scanning trees for tree-climbing lions",
+        "Search for Ishasha's unique lion behaviour",
+        "Depart Ishasha and drive east to Bwindi",
+        "Watch the landscape change from savannah to rainforest",
+        "Lodge check-in at Bwindi",
+        "Pre-trek briefing and early night"
+      ],
+      "accommodation": "Ruhija Rest Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Spot lions lounging in fig trees — one of Africa's rarest sights",
+        "Game drive through the remote Ishasha sector",
+        "Dramatic landscape transition to mountain rainforest",
+        "Arrive at the edge of Bwindi Impenetrable Forest"
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Mountain Gorilla Trekking in Bwindi",
+      "description": "This is the day that defines the safari. After an early breakfast, ranger-guides brief your small group on gorilla etiquette before the forest closes around you — roots and vines underfoot, birdsong overhead, the air thick with the green scent of ancient trees. The trek can take two to six hours, and every step deepens the anticipation. When you find them — a silverback resting in a shaft of forest light, a mother nursing her infant, a juvenile studying you with calm, knowing eyes — the world goes very quiet. You are permitted a full, unhurried hour with the family, and no amount of anticipation prepares you for the reality of it. Afterwards, transfer to the safe swimming waters of Lake Bunyonyi to let the day sink in.",
+      "activities": [
+        "Early breakfast",
+        "Park headquarters briefing with ranger guides",
+        "2–6 hour gorilla trek through Bwindi rainforest",
+        "One full hour with a habituated gorilla family",
+        "Return trek and late lunch",
+        "Transfer to Lake Bunyonyi",
+        "Swimming and relaxation at the lake"
+      ],
+      "accommodation": "Byoona Amagara Island Lodge (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Trek to a wild mountain gorilla family in their habitat",
+        "One magical, unhurried hour with the gorillas",
+        "Ancient Bwindi rainforest ecosystem",
+        "Swim freely in safe, stunning Lake Bunyonyi"
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Lake Bunyonyi & Transfer to Lake Mburo",
+      "description": "Wake to mist drifting across Lake Bunyonyi's twenty-nine islands and spend the morning exactly as you wish — paddling a traditional dugout canoe between the islands, hiking the Bushara trail along the lakeshore, or simply sitting on the water's edge and processing the gorilla encounter from yesterday. After lunch, the road north-east leads to Lake Mburo National Park, Uganda's smallest savannah park but one of its most charming — home to zebras, impalas, elands, topis, leopards and one of the country's best birding sites. The afternoon game drive offers your first taste of this intimate park.",
+      "activities": [
+        "Leisurely morning at Lake Bunyonyi",
+        "Optional dugout canoe paddling between islands",
+        "Optional Bushara island trail hike",
+        "Lunch and departure to Lake Mburo",
+        "4–5 hour drive to Lake Mburo National Park",
+        "Afternoon game drive in the park",
+        "Spot zebras, impalas, elands and buffalo"
+      ],
+      "accommodation": "Leopard Rest Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Peaceful morning on Lake Bunyonyi",
+        "Dugout canoe between scattered lake islands",
+        "First zebra sightings at Lake Mburo",
+        "Intimate, uncrowded national park"
+      ]
+    },
+    {
+      "day": 8,
+      "title": "Lake Mburo — Walking Safari & Transfer to Entebbe",
+      "description": "A walking safari is the best way to experience Lake Mburo's wildlife — without the barrier of a vehicle window, every sound carries differently, every footprint tells a story, and the zebras that watch you approach with cautious curiosity feel genuinely wild. Your armed ranger-guide leads you through acacia woodland and open grassland at a pace that allows you to notice what game drives miss: the ground orchids, the dung beetles, the tiny mongoose disappearing into a termite mound. After the walk, pack up and begin the final drive north-east to Entebbe for your last night in Uganda.",
+      "activities": [
+        "Optional early morning walking safari at Lake Mburo",
+        "Walk with zebras, impalas and warthogs",
+        "Close-up wildlife encounters on foot",
+        "Best bird watching opportunity of the safari",
+        "Pack and drive north-east to Entebbe",
+        "Lunch en route",
+        "Arrive Entebbe for final overnight"
+      ],
+      "accommodation": "Gorilla Neighbour Guest House (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Walk among wild zebras and antelope",
+        "Intimate on-foot wildlife encounter",
+        "Outstanding bird watching in acacia woodland",
+        "Final drive through beautiful Uganda countryside"
+      ]
+    },
+    {
+      "day": 9,
+      "title": "Mabamba Shoebill & Departure",
+      "description": "The shoebill stork — five feet tall, with a bill like a wooden clog and a stare that outlasts yours every time — closes this safari with one of Uganda's most extraordinary wildlife moments. A local guide poles you silently through Mabamba Swamp's papyrus channels by dugout canoe, herons and jacanas scattering as you glide, until the shoebill appears: motionless, prehistoric, utterly unconcerned by your presence. After this memorable final encounter, perhaps a quick walk around Entebbe town for any last-minute shopping, before your guide delivers you to the international airport with time for a farewell Lake Victoria fish lunch and the long flight home carrying memories of nine remarkable days.",
+      "activities": [
+        "Early breakfast and drive to Mabamba Swamp",
+        "Dugout canoe trip through papyrus wetland",
+        "Shoebill stork trekking with expert local guide",
+        "Bird watching in the swamp",
+        "Optional Entebbe town shopping",
+        "Farewell lunch",
+        "Transfer to Entebbe International Airport"
+      ],
+      "accommodation": "N/A",
+      "meals": ["Breakfast", "Lunch"],
+      "highlights": [
+        "Seek out the rare shoebill stork by canoe",
+        "Mabamba Swamp papyrus wetland experience",
+        "Final bird watching on Lake Victoria's shore",
+        "Perfect close to an extraordinary safari"
+      ]
+    }
+  ],
+  "pricing": {
+    "from": 3426,
+    "currency": "USD",
+    "note": "Two gorilla permits ($1,400 value) fully included. Price per person varies by group size.",
+    "groupPricing": {
+      "solo": 5763,
+      "twoPersons": 4283,
+      "threeFour": 3426,
+      "fivePlus": 3426
+    }
+  },
+  "inclusions": [
+    "Two gorilla trekking permits ($1,400 value — fully included)",
+    "Chimpanzee trekking permit at Kyambura Gorge",
+    "Experienced English-speaking driver-guide",
+    "4WD custom-built safari vehicle and fuel",
+    "All park entrance fees",
+    "Kazinga Channel boat cruise",
+    "Dugout canoe at Lake Bunyonyi",
+    "Dugout canoe at Mabamba Swamp (shoebill trekking)",
+    "Game drives in all national parks",
+    "Walking safari at Lake Mburo",
+    "Cultural entertainments",
+    "Accommodation for 8 nights (BB basis)",
+    "Meals as specified in itinerary",
+    "Bottled water throughout the trip",
+    "Fresh fruits along the road",
+    "Bird watching",
+    "Traditional Ugandan Rolex",
+    "Airport transfers",
+    "Government taxes"
+  ],
+  "exclusions": [
+    "International flights",
+    "Uganda visa (~$50, apply online)",
+    "Travel insurance (strongly recommended)",
+    "Alcoholic beverages",
+    "Personal expenses and tips",
+    "Porter fees during gorilla trek ($15–20, optional but recommended)",
+    "Meals not specified in itinerary"
+  ],
+  "images": [
+    {
+      "url": "/images/tours/gorilla-family-bwindi.jpg",
+      "alt": "Mountain gorilla family in Bwindi Impenetrable Forest Uganda",
+      "caption": "An unforgettable hour with a mountain gorilla family"
+    },
+    {
+      "url": "/images/tours/chimpanzee-kyambura-gorge.jpg",
+      "alt": "Chimpanzee in Kyambura Gorge Queen Elizabeth National Park",
+      "caption": "Track wild chimpanzees in the hidden Kyambura Gorge"
+    },
+    {
+      "url": "/images/tours/tree-climbing-lions-ishasha.jpg",
+      "alt": "Lions resting in a fig tree in Ishasha sector of Queen Elizabeth NP",
+      "caption": "Ishasha's famous tree-climbing lions — a rarely seen behaviour"
+    },
+    {
+      "url": "/images/tours/kazinga-channel-hippos.jpg",
+      "alt": "Hippos in the Kazinga Channel Queen Elizabeth National Park Uganda",
+      "caption": "The Kazinga Channel — Africa's highest hippo concentration"
+    },
+    {
+      "url": "/images/tours/lake-bunyonyi-canoe.jpg",
+      "alt": "Traditional dugout canoe on Lake Bunyonyi Uganda",
+      "caption": "Paddle between Lake Bunyonyi's twenty-nine islands"
+    }
+  ],
+  "featured": true,
+  "published": true,
+  "seo": {
+    "metaTitle": "9-Day Budget Primate Safari Uganda | Gorillas, Chimps & Tree Lions | From $3,426pp",
+    "metaDescription": "Uganda's best wildlife value: gorilla trekking, chimpanzees, tree-climbing lions, Kazinga Channel cruise, Lake Bunyonyi and the rare shoebill stork. Two gorilla permits included. From $3,426 per person.",
+    "keywords": [
+      "budget primate safari Uganda",
+      "9 day Uganda safari",
+      "gorilla trekking Uganda",
+      "chimpanzee trekking Uganda",
+      "tree-climbing lions Ishasha",
+      "Kazinga Channel boat cruise",
+      "shoebill stork Uganda",
+      "Uganda wildlife tour",
+      "affordable Uganda safari"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Why is this called a 'budget' safari — does that mean lower quality?",
+      "answer": "Not at all. 'Budget' simply means we have optimised the itinerary to deliver maximum wildlife experiences at the best possible value. You stay in well-regarded local camps and guesthouses that are clean, comfortable and authentically Ugandan. The experiences themselves — gorilla trekking, chimp tracking, tree-climbing lions, the Kazinga Channel — are identical to those on premium tours costing twice as much. The difference is in the lodge thread count, not the wildlife."
+    },
+    {
+      "question": "Are both gorilla permits really included?",
+      "answer": "Yes — both gorilla trekking permits ($700 per person, $1,400 total for a group of two) are fully included in every price tier on this tour. We handle all permit bookings in advance. Gorilla permits are strictly limited to eight visitors per habituated family per day and sell out months ahead; we recommend booking at least 3–4 months before your travel date."
+    },
+    {
+      "question": "What is the tree-climbing lion experience like at Ishasha?",
+      "answer": "Ishasha is one of only two places in the world where lions regularly climb trees — the other is in Tanzania's Lake Manyara. The exact reason is debated, but the prevailing theory is that the behaviour helps them escape the heat and biting flies at ground level. Sightings are not guaranteed (they are lions, after all), but Ishasha has consistently high success rates. If the lions are in the trees, it is genuinely one of the most unusual and photogenic wildlife moments in Africa."
+    },
+    {
+      "question": "How safe is swimming at Lake Bunyonyi?",
+      "answer": "Completely safe. Lake Bunyonyi is one of the very few lakes in Uganda — and indeed in equatorial Africa — that is free of crocodiles, hippos, and the bilharzia parasite. Swimming is actively encouraged, and the cool, clear water is a wonderful physical and psychological reward after the gorilla trekking day in Bwindi."
+    },
+    {
+      "question": "Is Lake Mburo worth visiting, or is it too small to be interesting?",
+      "answer": "Lake Mburo is a gem that many visitors overlook precisely because it is small. It is the only national park in Uganda where you can do a walking safari — no vehicle needed — and it is extraordinarily rewarding for birding (over 300 species), with zebras, impalas, elands, topis and buffalo sharing the grasslands in a compact, intimate setting. It also has no elephants or lions, which is what makes the walking safari here safe and special."
+    },
+    {
+      "question": "What is the shoebill stork, and is it difficult to find?",
+      "answer": "The shoebill is one of Africa's most extraordinary birds: prehistoric in appearance, around five feet tall, with a massive shoe-shaped bill and an unblinking stare. It is found in papyrus swamps in Central and East Africa, and Mabamba Swamp near Entebbe is one of the most reliable places to see one on the continent. Our local guide navigates the papyrus channels by dugout canoe and knows the shoebill's regular haunts — most guests see one within an hour of entering the swamp."
+    }
+  ],
+  "relatedTours": [
+    "4-day-gorilla-trekking-uganda",
+    "12-day-spectacular-uganda-safari",
+    "10-day-rwanda-uganda-safari"
+  ]
+}

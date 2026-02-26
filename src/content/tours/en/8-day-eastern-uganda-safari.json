@@ -1,0 +1,307 @@
+{
+  "id": "8-day-eastern-uganda",
+  "slug": "8-day-eastern-uganda-safari",
+  "title": "8-Day Eastern Uganda Adventure Safari",
+  "tagline": "Nile Source, Waterfall Abseiling & Murchison Wildlife",
+  "category": "adventure",
+  "duration": 8,
+  "difficulty": "moderate",
+  "groupSize": "1-8 people",
+  "bestTime": "Year-round (white-water rafting best: September–March)",
+  "description": "Uganda's eastern flank is its most exhilarating — a region of roaring rivers, thundering waterfalls, coffee-scented highland villages, and ancient wildlife spectacles. This eight-day adventure takes you from the source of the world's longest river at Jinja, up to the triple cascades of Sipi Falls for white-water rafting and cliff abseiling, then north to Murchison Falls where the entire Nile forces through a seven-metre gap. Add rare white rhino tracking and a canoe hunt for the prehistoric shoebill stork, and you have a safari unlike any other in East Africa.",
+  "highlights": [
+    "Stand at the source of the Nile River — the birthplace of the world's longest waterway",
+    "Ride world-class Grade 3–5 white-water rapids near Jinja",
+    "Abseil down the sheer cliff beside a thundering Sipi waterfall",
+    "Hike all three tiers of Sipi Falls through coffee farms and highland villages",
+    "Watch the entire Nile squeeze through a 7-metre gap at Murchison Falls",
+    "Cruise the Victoria Nile among hippos, crocodiles and elephants at dusk",
+    "Track endangered southern white rhinos on foot at Ziwa Sanctuary",
+    "Canoe through Mabamba papyrus swamp in search of the rare shoebill stork"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival in Entebbe",
+      "description": "Touch down at Entebbe International Airport and be met by your Penny Africa Safaris guide with a warm welcome and a cold bottle of water. Transfer to your comfortable guesthouse just minutes from the lake, where the garden birds are already performing in the trees. Tonight is for settling in and good conversation — your guide will walk you through the exciting days ahead over dinner, and the only thing left to do is sleep well.",
+      "activities": [
+        "Airport pickup and meet your guide",
+        "Transfer to accommodation in Entebbe",
+        "Welcome dinner and safari briefing",
+        "Rest and preparation"
+      ],
+      "accommodation": "Gorilla Neighbour Guest House (or similar)",
+      "meals": ["Breakfast"],
+      "highlights": [
+        "Warm Ugandan welcome",
+        "Meet your expert guide",
+        "Adventure begins tomorrow"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Jinja — Source of the Nile",
+      "description": "After a leisurely fruit breakfast, the two-hour drive east to Jinja passes through the lush green corridors of rural Uganda, roadside markets spilling colour across the verges. A boat trip takes you to the exact point where Lake Victoria's waters begin their 6,695-kilometre journey to the Mediterranean — a geographical fact that feels both vast and intimate when you are sitting on the water above it. The afternoon brings a long, wild walk along the Nile's banks, where the current churns over boulders, fishermen balance in dugouts, and the energy of the river is something you can feel in your chest.",
+      "activities": [
+        "Fruit breakfast and departure for Jinja",
+        "Boat trip to the source of the Nile at Lake Victoria",
+        "Explore the historic source site",
+        "Relaxing walk along the wild Nile banks",
+        "Explore Jinja town — East Africa's adventure capital",
+        "Overnight in Jinja"
+      ],
+      "accommodation": "Tourist Bay Guest House (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Stand at the exact source of the Nile River",
+        "Boat trip across Lake Victoria's northern outlet",
+        "Wild Nile riverbank walk",
+        "Jinja — East Africa's adventure capital"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "White-Water Rafting & Transfer to Sipi Falls",
+      "description": "The Nile rapids near Jinja are among the best white-water rafting in the world — Grade 4 and 5 waves that will have you laughing and gasping in equal measure. Professional guides handle everything, so you can focus entirely on the rush of cold water, the roar of the next rapid, and the extraordinary fact that you are white-water rafting on the Nile. After a riverside lunch, the afternoon drive climbs east into the foothills of Mount Elgon, the landscape softening from river valley to mountain farmland as Sipi reveals itself at dusk — three waterfalls tumbling down the ancient volcanic slopes, the plains stretching away below.",
+      "activities": [
+        "Morning white-water rafting on the Nile (Grade 3–5 rapids)",
+        "Safety briefing and all equipment provided",
+        "2–3 hours of guided rafting",
+        "Riverside lunch",
+        "Drive east to Sipi Falls on Mount Elgon's slopes",
+        "First evening views of the waterfalls",
+        "Optional coffee tour with local community"
+      ],
+      "accommodation": "Noah's Arc Lodge Sipi (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Ride world-class white-water rapids on the Nile",
+        "First views of spectacular three-tiered Sipi Falls",
+        "Transition from river valley to mountain highland",
+        "Coffee culture and Sabiny community at Sipi"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Sipi Falls — Abseiling, Hiking & Coffee",
+      "description": "Today is entirely devoted to Sipi Falls and its community. The centrepiece is abseiling — descending face-first alongside the longest of the three falls, the water thundering past as the Karamoja plains open up hundreds of metres below you. Afterwards, a guided hike threads between all three tiers through banana groves, coffee plantations and the red-soiled footpaths of the Sabiny people. Over a cup of locally grown, freshly roasted coffee served by the very farmers who picked the beans, it is hard to imagine a more complete Uganda day.",
+      "activities": [
+        "Abseil down the cliffs beside Sipi Falls",
+        "Guided hike to all three tiers of Sipi Falls",
+        "Walk through Sabiny coffee farms and banana groves",
+        "Traditional coffee tour — from bean to cup",
+        "Learn about Sabiny culture and mountain life",
+        "Panoramic views over the Karamoja plains",
+        "Photography at the falls and farmland"
+      ],
+      "accommodation": "Noah's Arc Lodge Sipi (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Abseil alongside a thundering waterfall",
+        "Hike all three tiers of stunning Sipi Falls",
+        "Farm-to-cup coffee experience with local growers",
+        "Sweeping views across the Karamoja plains"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Sipi to Murchison Falls National Park",
+      "description": "A long but rewarding drive takes you north-west from Sipi's misty highlands, through the flat agricultural plains of northern Uganda, to the country's largest national park. Stop for lunch in Gulu — a resilient, regenerating city with a warmth that stays with you — before pushing the final three hours west into Murchison Falls National Park. The park's vast savannah stretches to every horizon, dotted with flat-topped acacias silhouetted against an extraordinary African sky.",
+      "activities": [
+        "Breakfast and departure from Sipi",
+        "Long scenic drive north-west across Uganda",
+        "Lunch stop in Gulu town",
+        "Final drive into Murchison Falls National Park",
+        "Arrive at safari camp at sunset",
+        "Evening relaxation under acacia trees"
+      ],
+      "accommodation": "Red Chilli Safari Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Cross Uganda from east to north-west",
+        "Gulu town lunch — vibrant northern Uganda",
+        "First glimpse of Murchison Falls savannah",
+        "Arrive in Uganda's largest national park"
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Murchison Falls — Game Drive & Victoria Nile Boat Cruise",
+      "description": "Pre-dawn light finds the Murchison savannah at its most alive. The early game drive rolls through open grassland and riverine forest in search of Rothschild giraffes, elephant herds, lions, buffalo, and — with luck — a leopard melting into shade. The afternoon shifts from land to water as you board a boat on the Victoria Nile, drifting upstream past banks lined with Nile crocodiles and enormous hippo pods. The journey ends at the base of Murchison Falls, where the entire Nile forces through a cleft just seven metres wide and plunges forty metres in a curtain of spray, rainbows, and sound that hits you before you see it.",
+      "activities": [
+        "Early morning game drive across Murchison savannah",
+        "Search for lions, elephants, giraffes, buffalo and leopard",
+        "Return to camp for lunch",
+        "Afternoon Victoria Nile boat cruise upstream",
+        "Hippo and crocodile viewing from the water",
+        "Approach the base of Murchison Falls by boat"
+      ],
+      "accommodation": "Red Chilli Safari Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Dawn game drive in Uganda's largest park",
+        "Rothschild's giraffe — one of the world's rarest subspecies",
+        "Victoria Nile boat cruise among hippos and crocodiles",
+        "The thundering power of Murchison Falls up close"
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Ziwa Rhino Sanctuary & Return to Entebbe",
+      "description": "Southern white rhinos were poached to extinction in Uganda by the early 1980s; Ziwa Rhino Sanctuary is the patient, decades-long answer to that loss. Armed rangers guide you on foot through open savannah to where the rhinos graze — close enough that you can hear the grass tearing as they eat and see the prehistoric texture of their hide in full detail. It is a profoundly grounding experience that makes conservation feel both urgent and, here, genuinely hopeful. The afternoon drive south returns you to Entebbe for a final dinner.",
+      "activities": [
+        "Morning departure from Murchison",
+        "Drive south to Ziwa Rhino Sanctuary",
+        "On-foot white rhino tracking with armed rangers",
+        "Learn about Uganda's rhino reintroduction programme",
+        "Photography with white rhinos in their habitat",
+        "Continue south to Entebbe for final overnight"
+      ],
+      "accommodation": "Gorilla Neighbour Guest House (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Track endangered southern white rhinos on foot",
+        "Uganda's only place to see rhinos in the wild",
+        "Close-range encounters and photography",
+        "Conservation story of a species brought back from the brink"
+      ]
+    },
+    {
+      "day": 8,
+      "title": "Mabamba Wetland — Shoebill Trekking & Departure",
+      "description": "The shoebill stork looks like a creature that did not get the memo about dinosaurs becoming extinct — five feet tall, with a bill the size and shape of a Dutch clog, and a stare so unwavering it feels like a staring contest you will always lose. Mabamba Swamp, a papyrus labyrinth on Lake Victoria's shore, is one of the best places on earth to find one. A local guide poles you silently through the reeds by dugout canoe until — quite suddenly — a shoebill is simply there, motionless in the shallows, watching you back. After this extraordinary final encounter, transfer to Entebbe International Airport for your departure flight.",
+      "activities": [
+        "Early breakfast and drive to Mabamba Swamp",
+        "Dugout canoe trip through papyrus channels",
+        "Shoebill stork trekking with expert local guide",
+        "Bird watching — herons, kingfishers, jacanas and more",
+        "Photography in the swamp",
+        "Optional shopping in Entebbe town",
+        "Transfer to Entebbe International Airport"
+      ],
+      "accommodation": "N/A",
+      "meals": ["Breakfast", "Lunch"],
+      "highlights": [
+        "Seek out the rare and ancient shoebill stork by canoe",
+        "Mabamba Swamp — one of Africa's top birding sites",
+        "Final morning on Lake Victoria's papyrus shore",
+        "Depart Uganda with eight days of wonder"
+      ]
+    }
+  ],
+  "pricing": {
+    "from": 2800,
+    "currency": "USD",
+    "note": "All adventure activities included — rafting, abseiling, rhino tracking and shoebill canoe. No gorilla permit required. Price per person varies by group size.",
+    "groupPricing": {
+      "solo": 4800,
+      "twoPersons": 3400,
+      "threeFour": 3000,
+      "fivePlus": 2800
+    }
+  },
+  "inclusions": [
+    "Experienced English-speaking driver-guide",
+    "4WD custom-built safari vehicle and fuel",
+    "All park and sanctuary entrance fees",
+    "White-water rafting on the Nile (all equipment and guides)",
+    "Waterfall abseiling at Sipi Falls (all equipment and guides)",
+    "On-foot white rhino tracking at Ziwa Rhino Sanctuary",
+    "Source of the Nile boat trip in Jinja",
+    "Sipi Falls community coffee tour",
+    "Dugout canoe trip at Mabamba Swamp (shoebill trekking)",
+    "Game drives in Murchison Falls National Park",
+    "Victoria Nile boat cruise to Murchison Falls base",
+    "Accommodation for 7 nights (BB basis)",
+    "Meals as specified in itinerary",
+    "Bottled water throughout the trip",
+    "Fresh fruits along the road",
+    "Traditional Ugandan Rolex",
+    "Airport transfers",
+    "Government taxes"
+  ],
+  "exclusions": [
+    "International flights",
+    "Uganda visa (~$50, apply online)",
+    "Travel insurance (strongly recommended)",
+    "Alcoholic beverages",
+    "Personal expenses and tips",
+    "Optional Jinja activities not listed (bungee jumping, quad biking)",
+    "Meals not specified in itinerary"
+  ],
+  "images": [
+    {
+      "url": "/images/tours/sipi-falls-eastern-uganda.jpg",
+      "alt": "Sipi Falls cascading down the slopes of Mount Elgon in eastern Uganda",
+      "caption": "Three spectacular tiers of Sipi Falls on Mount Elgon"
+    },
+    {
+      "url": "/images/tours/source-of-nile-jinja.jpg",
+      "alt": "The source of the Nile River at Jinja, Uganda",
+      "caption": "Stand at the birthplace of the world's longest river"
+    },
+    {
+      "url": "/images/tours/murchison-falls.jpg",
+      "alt": "Murchison Falls — the entire Nile forcing through a 7-metre gap",
+      "caption": "Murchison Falls — one of Uganda's most spectacular sights"
+    },
+    {
+      "url": "/images/tours/white-rhino-ziwa.jpg",
+      "alt": "Southern white rhino tracked on foot at Ziwa Rhino Sanctuary",
+      "caption": "Track white rhinos on foot — Uganda's conservation triumph"
+    },
+    {
+      "url": "/images/tours/shoebill-mabamba.jpg",
+      "alt": "Shoebill stork standing motionless in Mabamba papyrus swamp",
+      "caption": "The prehistoric shoebill — Africa's most sought-after bird"
+    }
+  ],
+  "featured": false,
+  "published": true,
+  "seo": {
+    "metaTitle": "8-Day Eastern Uganda Adventure Safari | Rafting, Sipi Falls & Shoebill | From $2,800",
+    "metaDescription": "The ultimate eastern Uganda adventure: source of the Nile, white-water rafting, Sipi Falls abseiling, Murchison Falls game drive, white rhino tracking and the rare shoebill stork. All activities included.",
+    "keywords": [
+      "eastern Uganda safari",
+      "8 day Uganda adventure safari",
+      "source of the Nile Jinja",
+      "Jinja white water rafting",
+      "Sipi Falls abseiling Uganda",
+      "Murchison Falls National Park",
+      "Ziwa rhino sanctuary",
+      "shoebill stork Mabamba",
+      "Uganda adventure tour"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Do I need experience for white-water rafting on the Nile?",
+      "answer": "None at all. Professional guides provide a full safety briefing and all equipment — helmet, wetsuit and buoyancy aid — before you hit the water. The rapids range from Grade 3 to 5, and guides tailor the run to your comfort level. Tens of thousands of first-timers have rafted the Nile safely; if you can swim and are reasonably fit, you will be absolutely fine."
+    },
+    {
+      "question": "Is abseiling at Sipi Falls safe for beginners?",
+      "answer": "Yes. Sipi's operators use international-standard equipment and experienced local guides who control your descent throughout. You will receive thorough instruction before stepping over the edge. The guides manage the ropes — your job is to lean back, look out at the Karamoja valley, and enjoy it. Most people who arrive nervous leave wanting to go again."
+    },
+    {
+      "question": "How reliable are shoebill sightings at Mabamba?",
+      "answer": "Mabamba Wetland is the best place in Uganda — and one of the best in East Africa — to see the shoebill. While no wildlife sighting can be guaranteed, shoebills are present year-round and are regularly spotted by our guides, who know exactly which channels and reed beds to search. Most guests see one within an hour. Even on rare off-days, the swamp birding (herons, jacanas, kingfishers) is exceptional."
+    },
+    {
+      "question": "What is the drive to Murchison Falls like — is it very long?",
+      "answer": "Day 5 involves around 7–8 hours of driving from Sipi to Murchison Falls. It is a long day, but we break it with a worthwhile lunch stop in Gulu town and the landscapes along the way are genuinely varied and absorbing. The rest of the itinerary is built around activities rather than transit, so this long day is the exception rather than the rule."
+    },
+    {
+      "question": "Are gorilla permits included in this tour?",
+      "answer": "No — this tour is built around eastern Uganda's distinct adventure highlights and does not include gorilla trekking. If you would like to combine these experiences with gorilla trekking, we'd recommend our 9-Day Budget Primate Safari or our 12-Day Spectacular Uganda Safari, both of which include gorilla permits."
+    },
+    {
+      "question": "Can this tour be extended or customised?",
+      "answer": "Absolutely. This itinerary is a popular foundation that we regularly combine with a gorilla trek in Bwindi, an extra day at Sipi, or a few nights in the national parks of western Uganda. Contact us and we'll build the perfect itinerary around your schedule, interests and budget."
+    }
+  ],
+  "relatedTours": [
+    "5-day-gorilla-rafting-adventure",
+    "9-day-budget-primate-safari",
+    "12-day-spectacular-uganda-safari"
+  ]
+}

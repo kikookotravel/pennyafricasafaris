@@ -1,0 +1,336 @@
+{
+  "id": "10-day-rwanda-uganda",
+  "slug": "10-day-rwanda-uganda-safari",
+  "title": "10-Tage Ruanda & Uganda Gorilla-Safari",
+  "tagline": "Gorillas in zwei Ländern - Ruanda & Uganda kombiniert",
+  "category": "primates",
+  "duration": 10,
+  "difficulty": "moderate",
+  "groupSize": "1-6 people",
+  "bestTime": "Year-round (best: June-September, December-February)",
+  "description": "Erleben Sie das Beste aus Ruanda und Uganda auf dieser spektakulären 10-Tage grenzüberschreitenden Gorilla-Safari. Wandern Sie zu Berggorillas in den berühmten Nationalparks beider Länder - Ruandas Volcanoes Nationalpark und Ugandas Bwindi Impenetrable Wald. Verfolgen Sie Schimpansen, suchen Sie nach baumkletternden Löwen in Ishasha, genießen Sie Pirschfahrten im Queen Elizabeth Nationalpark, tauchen Sie ein in die Bakiga-Kultur und suchen Sie nach dem seltenen Schuhschnabel-Storch im Mabamba-Sumpf. Dieser einzigartige Reiseplan kombiniert zwei ostafrikanische Juwelen für ein unvergessliches Primaten- und Wildlife-Abenteuer.",
+  "highlights": [
+    "Zwei Gorilla-Wanderungen - Ruandas Volcanoes NP & Ugandas Bwindi",
+    "Optionales Golden-Monkey-Tracking in Ruanda",
+    "Bakiga-Kulturelle Homestay-Erfahrung in Uganda",
+    "Schimpansen-Tracking im Kibale-Wald",
+    "Baumkletternde Löwen im Ishasha-Sektor",
+    "Pirschfahrten im Queen Elizabeth Nationalpark",
+    "Bootsfahrt auf dem Kazinga-Kanal",
+    "Suche nach seltenen Schuhschnabel-Störchen im Mabamba-Sumpf",
+    "Grenzüberschreitendes Erlebnis - Ruanda & Uganda",
+    "Optionale Dian-Fossey-Grab-Wanderung",
+    "Kulturelle Erlebnisse in beiden Ländern"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Ankunft in Kigali, Ruanda",
+      "description": "Willkommen in Ruanda, dem 'Land der tausend Hügel'! Bei Ankunft am Kigali International Airport wird Sie Ihr Guide begrüßen und zu Ihrer Unterkunft bringen. Verbringen Sie den Abend mit Entspannung und Vorbereitung auf Ihr Abenteuer. Optional: Unternehmen Sie eine kurze Kigali-Stadtführung, um die saubere, organisierte Hauptstadt zu sehen.",
+      "activities": [
+        "Abholung am Flughafen in Kigali",
+        "Transfer zur Unterkunft",
+        "Optionale Kigali-Stadtführung",
+        "Abendliches Safari-Briefing"
+      ],
+      "accommodation": "The Nest Kigali (or similar)",
+      "meals": ["Breakfast"],
+      "highlights": [
+        "Ankunft in Ruanda",
+        "Erleben Sie Kigali",
+        "Treffen mit Ihrem Guide"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Transfer zum Volcanoes Nationalpark",
+      "description": "Nach dem Frühstück fahren Sie zum Volcanoes Nationalpark, Heimat der vom Aussterben bedrohten Berggorillas Ruandas. Die malerische 2-3-stündige Fahrt führt Sie durch Ruandas wunderschöne terrassierte Hügel und ländliche Dörfer und zeigt, warum es das 'Land der tausend Hügel' genannt wird. Ankunft in Ihrer Lodge nahe dem Park mit Blick auf die vulkanischen Berge. Bereiten Sie sich auf das morgige Gorilla-Trekking vor und genießen Sie die frische Bergluft.",
+      "activities": [
+        "Malerische Fahrt zum Volcanoes Nationalpark",
+        "Blick auf Ruandas terrassierte Hügel",
+        "Ankunft am Fuß der Vulkanberge",
+        "Abendliche Entspannung",
+        "Vorbereitung auf Gorilla-Trekking"
+      ],
+      "accommodation": "Amahoro Guest House (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Wunderschöne ruandische Landschaft",
+        "Ankunft am Volcanoes Nationalpark",
+        "Vorbereitung auf Ruanda-Gorilla-Trekking"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Kulturelle Erfahrung & Grenzübertritt nach Uganda",
+      "description": "Heute genießen Sie kulturelle Erlebnisse mit der Iby'Iwacu-Gemeinschaft und lernen über traditionelles ruandisches Leben, Tanz und Bräuche. Optionale Aktivitäten umfassen: Tracking gefährdeter Goldmeerkatzen (seltenes und angenehmes Erlebnis), Naturwanderung zur Entdeckung von Pflanzen- und Tierarten, Vulkanklettern für atemberaubende Ausblicke oder Wanderung zu Dian Fosseys Grab zur Ehrung der renommierten Primatologin. Ein zusätzliches Gorilla-Trekking ist ebenfalls möglich, wenn Permits verfügbar sind (+1.500 USD). Nach dem Mittagessen überqueren Sie die Grenze nach Uganda und fahren nach Kisoro nahe dem Bwindi Nationalpark.",
+      "activities": [
+        "Iby'Iwacu-Kulturerlebnis",
+        "Traditioneller Tanz und Bräuche",
+        "Optionales Goldmeerkatzen-Tracking",
+        "Optionale Dian-Fossey-Grab-Wanderung",
+        "Grenzübertritt nach Uganda",
+        "Transfer nach Kisoro"
+      ],
+      "accommodation": "Travellers Rest Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Ruandische kulturelle Immersion",
+        "Optionale Goldmeerkatzen",
+        "Grenzüberschreitendes Abenteuer",
+        "Ankunft in Uganda"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Gorilla-Trekking in Uganda",
+      "description": "Ziehen Sie Ihre Stiefel an und greifen Sie nach einem Wanderstock - heute wandern Sie zu Berggorillas in Ugandas Bwindi Impenetrable Wald! Nach Frühstück und Briefing am Park-Hauptquartier beginnen Sie Ihre Wanderung durch dichten Regenwald. Die Wanderung kann je nach Standort der Gorillas 2-6 Stunden dauern. Sobald sie gefunden wurden, verbringen Sie eine unvergessliche Stunde mit der Beobachtung dieser sanften Riesen in ihrem natürlichen Lebensraum. Vergleichen Sie das Erlebnis mit der gestrigen Ruanda-Wanderung - gleiche Art, unterschiedlicher Wald, einzigartige Begegnung. Dies ist eines der besten Reiseerlebnisse, die Uganda bietet.",
+      "activities": [
+        "Frühes Frühstück",
+        "Park-Hauptquartier-Briefing",
+        "4-6 Stunden Gorilla-Wanderung",
+        "Eine Stunde mit Gorillafamilie",
+        "Rückwanderung",
+        "Abendliche Entspannung"
+      ],
+      "accommodation": "Travellers Rest Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Zweites Gorilla-Trekking in Uganda",
+        "Vergleichen Sie Ruanda vs. Uganda-Erlebnis",
+        "Bwindi Impenetrable Wald",
+        "Doppeltes Gorilla-Abenteuer"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Bakiga-Kultureller Homestay",
+      "description": "Heute bietet sich eine authentische kulturelle Immersion mit den Bakiga-Menschen im Südwesten Ugandas. Transfer zu einem lokalen Dorf für ein Homestay-Erlebnis. Die Bakiga haben ein reiches Erbe mit ausgeprägten Traditionen, Musik, Tanz und Geschichtenerzählen, die über Generationen weitergegeben wurden. Bleiben Sie bei einer Bakiga-Familie, nehmen Sie an täglichen Aktivitäten wie Landwirtschaft und traditionellen Handwerken (Korbflechten, Töpferei) teil, teilen Sie Mahlzeiten und erleben Sie echte Gastfreundschaft. Dieser kulturelle Austausch geht über typischen Tourismus hinaus und schafft bedeutungsvolle Verbindungen und unvergessliche Erinnerungen.",
+      "activities": [
+        "Transfer zur Bakiga-Gemeinschaft",
+        "Begrüßung durch Gastfamilie",
+        "Traditionelle Musik und Tanz",
+        "Teilnahme an landwirtschaftlichen Aktivitäten",
+        "Lernen traditioneller Handwerke",
+        "Mahlzeiten mit der Familie teilen",
+        "Kulturelles Geschichtenerzählen"
+      ],
+      "accommodation": "The Home of Bakiga (Full Board)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Authentisches Homestay-Erlebnis",
+        "Bakiga-Kultur-Immersion",
+        "Lernen traditioneller Handwerke",
+        "Familiengastfreundschaft"
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Transfer nach Ishasha - Baumkletternde Löwen",
+      "description": "Fahren Sie durch den Wald und weiter nach Ishasha, dem südlichen Sektor des Queen Elizabeth Nationalparks. Ishasha ist einer von nur zwei Orten in Afrika, wo Löwen regelmäßig Bäume klettern und auf Ästen faulenzen. Während Ihrer nachmittäglichen Pirschfahrt suchen Sie nach diesen einzigartigen Löwen, die in Feigenbäumen ruhen. Entdecken Sie auch Büffel, Elefanten und verschiedene Antilopenarten. Halten Sie Ihre Kamera bereit für dieses seltene Wildlife-Verhalten!",
+      "activities": [
+        "Morgendliche Abfahrt von Bakiga-Gemeinschaft",
+        "Fahrt durch Wald nach Ishasha",
+        "Nachmittägliche Pirschfahrt",
+        "Suche nach baumkletternden Löwen",
+        "Fotografieren von Löwen in Bäumen",
+        "Andere Wildlife entdecken"
+      ],
+      "accommodation": "Enjojo African Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Berühmte baumkletternde Löwen",
+        "Einzigartiges Wildlife-Verhalten",
+        "Ishasha-Sektor-Erkundung",
+        "Fotografie-Gelegenheiten"
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Transfer zum Queen Elizabeth Nationalpark",
+      "description": "Setzen Sie die Suche nach baumkletternden Löwen während einer morgendlichen Pirschfahrt in Ishasha fort - frühe Stunden bieten großartige Gelegenheiten, da Löwen klettern, um Hitze zu entkommen. Nach dem Frühstück fahren Sie durch den Queen Elizabeth Nationalpark zum nördlichen Sektor. Genießen Sie eine nachmittägliche Pirschfahrt auf der Suche nach Löwen, Elefanten, Antilopen, Vögeln und mehr. Später begeben Sie sich auf eine Bootsfahrt entlang des berühmten Kazinga-Kanals, der den Edward-See und den George-See verbindet. Entdecken Sie riesige Flusspferdkonzentrationen, Krokodile und reiches Vogelleben.",
+      "activities": [
+        "Morgendliche Löwensuche in Ishasha",
+        "Transfer zum Queen Elizabeth Hauptsektor",
+        "Nachmittägliche Pirschfahrt",
+        "Bootsfahrt auf dem Kazinga-Kanal",
+        "Flusspferd- und Krokodilbeobachtung",
+        "Vogelbeobachtung"
+      ],
+      "accommodation": "Kazinga Wilderness Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Letzte Ishasha-Löwenbeobachtung",
+        "Transfer durch den Park",
+        "Kazinga-Kanal-Bootsfahrt",
+        "Hohe Flusspferdkonzentration"
+      ]
+    },
+    {
+      "day": 8,
+      "title": "Schimpansen-Tracking",
+      "description": "Heute Morgen wandern Sie durch den Dschungel abseits der ausgetretenen Pfade auf der Suche nach Schimpansen. Sobald sie gefunden wurden, beobachten Sie diese unterhaltsamen Primaten beim Spielen, Fressen und Schwingen durch Bäume. Ihre Lautäußerungen und sozialen Interaktionen schaffen ein faszinierendes Erlebnis - ganz anders als die ruhigen Gorillas. Schimpansen sind aktiver, lauter und verspielter. Am Abend genießen Sie eine weitere Pirschfahrt im Queen Elizabeth auf der Suche nach Großkatzen und Elefanten.",
+      "activities": [
+        "Morgendliches Schimpansen-Trekking",
+        "2-3 Stunden mit Schimpansen-Gemeinschaft",
+        "Beobachten von Fütterung und Spiel",
+        "Rückkehr zur Lodge",
+        "Abendliche Pirschfahrt",
+        "Suche nach Leoparden und Löwen"
+      ],
+      "accommodation": "Kazinga Wilderness Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Wilde Schimpansen verfolgen",
+        "Schimpansen beim Interagieren beobachten",
+        "Abendliche Wildlife-Beobachtung",
+        "Voller Tag voller Aktivitäten"
+      ]
+    },
+    {
+      "day": 9,
+      "title": "Morgendliche Pirschfahrt & Transfer nach Entebbe",
+      "description": "Beginnen Sie den Tag mit einer frühmorgendlichen Pirschfahrt, wenn Tiere während der kühlen Stunden am aktivsten sind. Suchen Sie nach Löwen, Büffeln, Elefanten, Antilopen, dem schwer fassbaren Buschschwein und mit Glück einem Leoparden. Nach dieser letzten Wildlife-Beobachtung beginnt die Reise nach Entebbe. Die Fahrt führt Sie durch ugandische Landschaft, kleine Städte und Dörfer. Stopp zum Mittagessen unterwegs. Ankunft in Entebbe am Abend.",
+      "activities": [
+        "Frühmorgendliche Pirschfahrt",
+        "Suche nach Großkatzen",
+        "Letzte Wildlife-Beobachtung",
+        "Lange Fahrt nach Entebbe",
+        "Mittagspause unterwegs",
+        "Ankunft in Entebbe"
+      ],
+      "accommodation": "Gorilla Neighbour Guest House (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Letzte Pirschfahrt",
+        "Landschaftsreise",
+        "Rückkehr nach Entebbe"
+      ]
+    },
+    {
+      "day": 10,
+      "title": "Schuhschnabel-Suche & Abreise",
+      "description": "Nach dem Frühstück besuchen Sie den Mabamba-Sumpf, um nach dem seltenen, prähistorisch aussehenden Schuhschnabel-Storch zu suchen - einem der meistgesuchten Vögel Afrikas. Unternehmen Sie eine Kanufahrt durch den Sumpf, geführt von lokalen Experten, die die Lieblingsplätze des Schuhschnabels kennen. Diese massiven Vögel mit ihren charakteristischen schuhförmigen Schnäbeln sind ein Traum für Fotografen. Nach diesem letzten Abenteuer genießen Sie ein Abschiedsessen (vielleicht berühmter Lake Victoria-Grillfisch), bevor Sie zum Flughafen gebracht werden. Während Ihr Flugzeug abhebt, hoffen wir, dass Sie bereits Ihre nächste Afrika-Safari planen!",
+      "activities": [
+        "Morgendliche Kanufahrt zum Mabamba-Sumpf",
+        "Suche nach Schuhschnabel-Storch",
+        "Vogelbeobachtung im Sumpf",
+        "Rückkehr nach Entebbe",
+        "Abschiedsessen",
+        "Flughafentransfer zur Abreise"
+      ],
+      "accommodation": "N/A",
+      "meals": ["Breakfast", "Lunch"],
+      "highlights": [
+        "Seltener Schuhschnabel-Storch",
+        "Mabamba-Sumpf-Kanu",
+        "Letztes Uganda-Erlebnis",
+        "Unvergesslicher Abschied"
+      ]
+    }
+  ],
+  "pricing": {
+    "from": 3943,
+    "currency": "USD",
+    "note": "Zwei Gorilla-Permits inklusive (Ruanda & Uganda). Preis variiert je nach Gruppengröße.",
+    "groupPricing": {
+      "solo": 7347,
+      "twoPersons": 4630,
+      "threeFour": 3943,
+      "fivePlus": 3943
+    }
+  },
+  "inclusions": [
+    "Zwei Gorilla-Trekking-Permits - Ruanda & Uganda (1.400 USD Wert)",
+    "Schimpansen-Tracking-Permit",
+    "Erfahrener englischsprachiger Fahrer-Guide",
+    "4WD maßgeschneidertes Safari-Fahrzeug und Kraftstoff",
+    "Alle Parkeintritte (Ruanda & Uganda)",
+    "Unterkunft für 9 Nächte (Basis: ÜF & VP)",
+    "Mahlzeiten wie im Reiseplan angegeben",
+    "Flughafentransfers",
+    "Pirschfahrten in allen Nationalparks",
+    "Bootsfahrt auf dem Kazinga-Kanal",
+    "Kanufahrt zum Mabamba-Sumpf",
+    "Bakiga-Kultureller Homestay (Vollpension)",
+    "Iby'Iwacu-Kulturerlebnis",
+    "Trinkwasser während der gesamten Reise",
+    "Frisches Obst unterwegs",
+    "Traditionelles ugandisches Rolex",
+    "Staatliche Steuern (beide Länder)"
+  ],
+  "exclusions": [
+    "Internationale Flüge",
+    "Ruanda-Visum (50 USD) und Uganda-Visum (50 USD)",
+    "Reiseversicherung (sehr empfohlen)",
+    "Persönliche Ausgaben (Wäscherei, Trinkgelder usw.)",
+    "Alkoholische Getränke",
+    "Optionale Aktivitäten (Goldmeerkatzen-Trekking, Dian-Fossey-Wanderung, extra Gorilla-Trekking)",
+    "Trägergebühren während Wanderungen (15-20 USD, optional aber empfohlen)"
+  ],
+  "images": [
+    {
+      "url": "/images/tours/gorilla-family.jpg",
+      "alt": "Berggorilla",
+      "caption": "Wandern Sie zu Gorillas in zwei Ländern"
+    },
+    {
+      "url": "/images/tours/gorilla-family.jpg",
+      "alt": "Gorillafamilie",
+      "caption": "Ruanda & Uganda Gorilla-Erlebnisse"
+    },
+    {
+      "url": "/images/tours/wildlife-safari.jpg",
+      "alt": "Wildlife im Queen Elizabeth",
+      "caption": "Pirschfahrten und Wildlife"
+    },
+    {
+      "url": "/images/tours/bwindi-forest.jpg",
+      "alt": "Regenwald",
+      "caption": "Zwei Walderlebnisse"
+    }
+  ],
+  "featured": true,
+  "published": true,
+  "seo": {
+    "metaTitle": "10-Tage Ruanda Uganda Gorilla-Safari | 2 Länder, 2 Trekkings | Ab 3.943 USD",
+    "metaDescription": "Grenzüberschreitende Gorilla-Safari: Wandern Sie zu Berggorillas in Ruanda & Uganda, plus Schimpansen, baumkletternde Löwen, Kultur. Ultimatives 10-Tage-Primaten-Abenteuer.",
+    "keywords": [
+      "Ruanda Uganda Safari",
+      "Grenzüberschreitendes Gorilla-Trekking",
+      "Zwei-Länder-Safari",
+      "Volcanoes Nationalpark",
+      "Bwindi Gorilla-Trekking",
+      "Ruanda Uganda Kombo-Tour",
+      "10 Tage Gorilla-Safari",
+      "Ostafrika Primaten-Tour"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Warum Gorillas in Ruanda und Uganda trekken?",
+      "answer": "Jedes Land bietet ein einzigartiges Erlebnis! Ruandas Volcanoes Nationalpark hat kürzere Wanderungen durch Bambuswälder mit dramatischen Vulkanansichten. Ugandas Bwindi hat längere, anspruchsvollere Wanderungen durch dichten Regenwald. Das Trekking in beiden Ländern gibt Ihnen zwei völlig unterschiedliche Gorilla-Begegnungen und lässt Sie die Erlebnisse vergleichen."
+    },
+    {
+      "question": "Benötige ich Visa für beide Länder?",
+      "answer": "Ja, Sie benötigen sowohl ein Ruanda-Visum (50 USD) als auch ein Uganda-Visum (50 USD). Alternativ können Sie ein Ostafrikanisches Touristenvisum (100 USD) erhalten, das Ruanda, Uganda und Kenia abdeckt und 90 Tage gültig ist. Wir geben Ihnen bei der Buchung Hinweise zur besten Option."
+    },
+    {
+      "question": "Wie wird der Grenzübertritt gehandhabt?",
+      "answer": "Der Grenzübertritt ist unkompliziert und wird von Ihrem Guide gehandhabt. Die Cyanika-Grenze zwischen Ruanda und Uganda ist gut organisiert. Wir regeln alle notwendigen Dokumente und helfen beim Prozess. Die Überquerung dauert normalerweise 30-60 Minuten."
+    },
+    {
+      "question": "Sollte ich das optionale Goldmeerkatzen-Trekking buchen?",
+      "answer": "Sehr empfehlenswert, wenn Ihr Budget es erlaubt! Goldmeerkatzen sind gefährdete Primaten, die nur in den Virunga-Bergen vorkommen. Sie sind verspielt, schön und ganz anders als Gorillas oder Schimpansen. Das Trekking ist einfacher als Gorilla-Trekking und bietet ausgezeichnete Fotografie-Möglichkeiten."
+    },
+    {
+      "question": "Was ist besonders an dieser grenzüberschreitenden Safari?",
+      "answer": "Sie erhalten das Beste aus beiden Ländern: Ruandas Organisation und Schönheit plus Ugandas vielfältiges Wildlife und niedrigere Kosten. Zwei Gorilla-Wanderungen, kulturelle Immersion in beiden Ländern, baumkletternde Löwen, Schimpansen und der seltene Schuhschnabel. Es ist die ultimative ostafrikanische Primaten- und Wildlife-Kombination."
+    }
+  ],
+  "relatedTours": [
+    "4-day-gorilla-trekking-uganda",
+    "9-day-budget-primate-safari",
+    "12-day-spectacular-uganda-safari"
+  ]
+}

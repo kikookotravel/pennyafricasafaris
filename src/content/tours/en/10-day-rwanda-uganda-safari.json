@@ -1,0 +1,322 @@
+{
+  "id": "10-day-rwanda-uganda",
+  "slug": "10-day-rwanda-uganda-safari",
+  "title": "10-Day Rwanda & Uganda Gorilla Safari",
+  "tagline": "Two Countries. Two Gorilla Habitats. One Unforgettable Journey.",
+  "category": "primates",
+  "duration": 10,
+  "difficulty": "moderate",
+  "groupSize": "1-6 people",
+  "bestTime": "Year-round (best: June-September, December-February)",
+  "description": "Begin in the clean, green hills of Kigali — one of Africa's most livable capitals — and end ten days later at a lakeside camp in Uganda, carrying memories that will reshape how you see the natural world. This cross-border safari is built around a single, transformative experience: coming face to face with mountain gorillas. You'll trek them in Uganda's Bwindi Impenetrable Forest, with optional gorilla tracking in Rwanda's misty Volcanoes National Park — home of the legendary Dian Fossey. In between, you'll cross an ancient border on foot, spend a full day with the extraordinary Bakiga people, search for tree-climbing lions in Ishasha, glide down the Kazinga Channel as hippos yawn at your boat, trek chimpanzees through a jungle gorge, and farewell Uganda with a papyrus-canoe encounter with the prehistoric shoebill stork. Few trips pack this much into ten days. Fewer still do it across two countries.",
+  "highlights": [
+    "Gorilla trek in Uganda's Bwindi Impenetrable Forest — permit included",
+    "Explore Rwanda's Volcanoes National Park, home of Dian Fossey's research",
+    "Optional gorilla tracking and golden monkey trekking in Rwanda",
+    "Immersive overnight with the Bakiga people — full board cultural exchange",
+    "Hunt for tree-climbing lions on game drives in Ishasha",
+    "Afternoon boat cruise on the Kazinga Channel — hippos, crocs, kingfishers",
+    "Chimpanzee trekking in the Kyambura Gorge",
+    "Mabamba swamp canoe in search of the rare shoebill stork",
+    "Cross-border adventure through the East African highlands"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrival in Kigali",
+      "description": "Welcome to Rwanda — one of Africa's great success stories. Your guide meets you at Kigali International Airport and transfers you to your comfortable guesthouse in the heart of the city. Kigali is compact, safe, and surprisingly vibrant: take an evening stroll through the hilly streets, sample some Rwandan coffee, and let the warmth of East Africa settle over you. Tomorrow the gorilla highlands await. Tonight, rest — you've earned the adventure ahead.",
+      "activities": [
+        "Airport pickup and welcome",
+        "Transfer to accommodation in Kigali",
+        "Optional evening walk through Kigali's hilltop neighbourhoods",
+        "Evening briefing on the journey ahead"
+      ],
+      "accommodation": "The Nest Kigali (or similar)",
+      "meals": ["Breakfast"],
+      "highlights": [
+        "First taste of Rwanda's remarkable capital",
+        "Rest and orientation",
+        "Meet your guide"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Kigali to Volcanoes National Park",
+      "description": "The drive northwest from Kigali into the Virunga Massif is one of the most beautiful in Africa. Terraced hillsides rise steeply on either side, tea plantations catch the morning light, and the volcanic cones of the Virunga mountains slowly climb above the cloud line. Volcanoes National Park is one of the few places on Earth where you can track mountain gorillas, and Dian Fossey spent years here studying them — laying the foundation for their survival. Tonight, settle into your guesthouse on the forest edge and listen to the sounds of the mountain night.",
+      "activities": [
+        "Scenic morning drive from Kigali through the Virunga highlands",
+        "Stop at viewpoints over the volcanic mountain range",
+        "Check-in and lodge orientation",
+        "Evening briefing on gorilla trekking etiquette and optional activities"
+      ],
+      "accommodation": "Amahoro Guest House (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Dramatic Virunga volcanic landscape",
+        "First views of mountain gorilla habitat",
+        "Pre-trek briefing"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Cultural Experience & Border Crossing into Uganda",
+      "description": "A rich day of cultural adventures before you cross into Uganda. The ebyowacu community near the park offers an extraordinary window into traditional Rwandan highland life — a meaningful way to understand the people who live alongside the gorillas. Optional extras today include tracking the endangered golden monkey (a playful primate unique to the Virunga mountains), hiking to the tomb of the legendary primatologist Dian Fossey, or climbing one of the volcanoes for breathtaking panoramic views. In the afternoon, you cross the border on foot through one of the great landscapes of East Africa, arriving at Travellers Rest Camp in Kisoro — just a stone's throw from Uganda's gorilla forests. The gorillas sleep nearby. Tomorrow you find them.",
+      "activities": [
+        "Cultural experience with the ebyowacu community",
+        "Optional: golden monkey tracking (additional cost)",
+        "Optional: Dian Fossey tomb hike (additional cost)",
+        "Optional: volcano ascent for panoramic views",
+        "Border crossing into Uganda at Cyanika/Kisoro",
+        "Check-in at Travellers Rest Camp, Kisoro"
+      ],
+      "accommodation": "Travellers Rest Camp, Kisoro (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "ebyowacu community cultural exchange",
+        "Optional golden monkey tracking",
+        "Memorable border crossing into Uganda",
+        "Arrival at the gateway to Bwindi"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Gorilla Trekking in Bwindi Impenetrable Forest",
+      "description": "The day that defines the trip. After an early breakfast you assemble at park headquarters for your ranger briefing — which gorilla family you'll visit, what to expect, the rules of engagement. Then you push into Bwindi: a cathedral of ancient trees, strangling vines, moss-covered branches, and a thousand shades of green. The gorillas may be 30 minutes away or three hours — the rangers know their territory intimately, and every step deepens the anticipation. When you find them, time stops. A silverback shifts in the undergrowth. An infant watches you from its mother's shoulder. A teenager charges playfully, then retreats. You have one unforgettable hour, and it will stay with you for life.",
+      "activities": [
+        "Early breakfast and briefing at Bwindi park headquarters",
+        "2–6 hour gorilla trek through the rainforest",
+        "One full hour with a habituated gorilla family",
+        "Return trek and late lunch"
+      ],
+      "accommodation": "Travellers Rest Camp, Kisoro (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "One unforgettable hour with mountain gorillas",
+        "Ancient Bwindi rainforest — UNESCO World Heritage Site",
+        "Expert ranger-guided trek"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Bakiga Cultural Homestay",
+      "description": "The Bakiga people inhabit the fertile highlands of southwestern Uganda and are among the most welcoming communities in East Africa. Today you are not a tourist — you are a guest. Spend the day with a Bakiga family: help with the farming, try your hand at traditional basket weaving or pottery, share a meal cooked the way it has been cooked for generations. The drumbeats and dances that have marked Bakiga celebrations for centuries will fill the evening. This is not a performance — it is a genuine invitation into a living culture, and it is consistently one of the moments guests remember longest.",
+      "activities": [
+        "Transfer to the Bakiga cultural heartland",
+        "Full-day cultural immersion with a Bakiga host family",
+        "Traditional farming, basket weaving, and pottery",
+        "Traditional Bakiga dinner with music and dance"
+      ],
+      "accommodation": "Bakiga Homestay (full board)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Authentic overnight with a Bakiga family",
+        "Traditional music, dance, and storytelling",
+        "Cultural exchange far beyond sightseeing"
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Transfer to Ishasha — Tree-Climbing Lions",
+      "description": "Today you trade the cool highland mist for the warm savannah air of southern Queen Elizabeth National Park. The drive through the forest is spectacular — the terrain shifts dramatically from terraced highlands to open bushland as you descend towards the Ishasha sector. Ishasha is famous for something you will find almost nowhere else in Africa: lions that climb trees. It sounds improbable, but there they are — sprawled in the branches of giant fig trees, tails dangling, regarding you with magnificent indifference. Your afternoon game drive is your first chance to spot them.",
+      "activities": [
+        "Morning drive through southwestern Uganda",
+        "Afternoon game drive in Ishasha sector of QENP",
+        "Search for the famous tree-climbing lions",
+        "Wildlife spotting: buffalo, elephants, Uganda kob, warthog"
+      ],
+      "accommodation": "Enjojo African Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Search for the iconic tree-climbing lions of Ishasha",
+        "Dramatic landscape transition from highlands to savannah",
+        "First game drive in Queen Elizabeth National Park"
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Northern QENP — Game Drive & Kazinga Channel",
+      "description": "The morning game drive continues the search for lions, then carries you north through Queen Elizabeth National Park towards the Kazinga Channel — a 40km natural waterway connecting Lake George and Lake Edward. In the afternoon you board a boat and glide into one of Uganda's finest wildlife experiences. Hippos groan and jostle at the waterline. Crocodiles eye your boat from the mud. Buffalo wade belly-deep to drink. And the birdlife is extraordinary: fish eagles, bee-eaters, kingfishers, pelicans, and herons line the banks in an avian pageant that has no equal in East Africa.",
+      "activities": [
+        "Morning game drive through QENP — lions, elephants, buffalo, kob",
+        "Drive to northern sector and Kazinga Channel",
+        "Afternoon 2-hour boat cruise on the Kazinga Channel",
+        "Hippo, crocodile, and waterbird photography"
+      ],
+      "accommodation": "Kazinga Wilderness Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Two-hour Kazinga Channel boat cruise",
+        "Exceptional bird diversity along the waterway",
+        "Chance of elephant herds wading at the channel edge"
+      ]
+    },
+    {
+      "day": 8,
+      "title": "Chimpanzee Trekking — Kyambura Gorge",
+      "description": "This morning you descend into the Kyambura Gorge — a dramatic rift valley canyon that cuts through the savannah like a secret jungle, its steep walls cloaked in dense rainforest. Somewhere in the canopy above the gorge floor, a community of chimpanzees are starting their day. Finding them is the challenge, and your ranger-guide knows every trail. When you do find them, the noise announces them first: the hooting, screaming, and branch-crashing of primates very much at home. Watch them feed, play, and swing through the trees with casual athleticism. An evening game drive on the savannah above rounds out an extraordinary day.",
+      "activities": [
+        "Morning chimpanzee trekking in Kyambura Gorge",
+        "Observe chimps feeding, playing, and socialising",
+        "Gorge birdwatching: kingfishers, hornbills, colobus monkeys",
+        "Evening game drive on the savannah"
+      ],
+      "accommodation": "Kazinga Wilderness Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Chimpanzee encounter in the atmospheric Kyambura Gorge",
+        "Two primate species trekked on a single trip",
+        "Dramatic rift valley landscape"
+      ]
+    },
+    {
+      "day": 9,
+      "title": "Morning Game Drive & Return to Entebbe",
+      "description": "One last early morning drive — the savannah gold and cool at first light, lions perhaps still in the trees, hippos retreating to their daytime pools. Then it's time to head north, back towards Entebbe. The drive is long but passes through beautiful countryside, and your guide will find stops worth making along the way. You'll arrive in Entebbe in the late afternoon, checking in near the airport for a comfortable final night before tomorrow's farewell encounter with Uganda's most eccentric bird.",
+      "activities": [
+        "Early morning game drive in QENP",
+        "Scenic drive back to Entebbe",
+        "Roadside stops for snacks and photography",
+        "Check-in at Entebbe guesthouse"
+      ],
+      "accommodation": "Gorilla Neighbour Guest House, Entebbe (or similar)",
+      "meals": ["Breakfast", "Lunch"],
+      "highlights": [
+        "Final game drive in the golden morning light",
+        "Long scenic return through Uganda's countryside"
+      ]
+    },
+    {
+      "day": 10,
+      "title": "Mabamba Swamp & Departure",
+      "description": "Your final morning in Uganda is saved for one of its most charming encounters: the shoebill stork. At Mabamba swamp on the northern shore of Lake Victoria, you board a papyrus canoe and paddle quietly into the reed beds where this extraordinary, prehistoric-looking bird stands stock-still in the shallows, waiting for fish with the patience of a creature from another age. It's a wonderfully surreal farewell to Uganda. Afterwards, a celebratory farewell lunch — perhaps Lake Victoria tilapia — and then the airport for your onward flight. We hope you're already planning your return.",
+      "activities": [
+        "Morning papyrus canoe on Mabamba swamp — shoebill search",
+        "Guided wetland boat through the reed beds",
+        "Farewell lunch in Entebbe",
+        "Transfer to Entebbe International Airport"
+      ],
+      "accommodation": "N/A (departure day)",
+      "meals": ["Breakfast", "Lunch"],
+      "highlights": [
+        "Shoebill stork encounter at Mabamba swamp",
+        "Peaceful papyrus canoe on Lake Victoria's edge",
+        "Farewell to Uganda"
+      ]
+    }
+  ],
+  "pricing": {
+    "from": 4352,
+    "currency": "USD",
+    "note": "Uganda gorilla permit ($700) included. Rwanda gorilla tracking optional (+$1,500). Price per person varies by group size.",
+    "groupPricing": {
+      "solo": 7608,
+      "twoPersons": 4863,
+      "threeFour": 4352,
+      "fivePlus": 4352
+    }
+  },
+  "inclusions": [
+    "Uganda gorilla trekking permit ($700 value per person)",
+    "Experienced English-speaking driver-guide",
+    "4WD custom-built safari vehicle and fuel",
+    "All park entrance fees (Uganda and Rwanda)",
+    "Accommodation for 9 nights (BB basis, except Bakiga homestay: full board)",
+    "Meals as specified in itinerary",
+    "Bottled water throughout the trip",
+    "Fruits along the road",
+    "Airport transfers (Kigali arrival, Entebbe departure)",
+    "Bakiga cultural homestay with full board",
+    "Chimpanzee trekking permit",
+    "Kazinga Channel boat cruise",
+    "Mabamba swamp papyrus canoe",
+    "Traditional Ugandan Rolex snack",
+    "Game drives in all national parks",
+    "Government taxes"
+  ],
+  "exclusions": [
+    "International flights (to Kigali, from Entebbe)",
+    "Rwanda visa (available on arrival or online)",
+    "Uganda visa ($50 — apply online before travel)",
+    "Travel insurance (strongly recommended)",
+    "Rwanda gorilla trekking permit ($1,500 — optional Day 3)",
+    "Optional activities: golden monkey tracking, Dian Fossey tomb hike, volcano ascent",
+    "Personal expenses and tips",
+    "Alcoholic beverages",
+    "Meals not specified in itinerary",
+    "Porter fees during gorilla trek ($15–20, recommended)"
+  ],
+  "images": [
+    {
+      "url": "/images/tours/gorilla-silverback.jpg",
+      "alt": "Silverback mountain gorilla in Bwindi Impenetrable Forest",
+      "caption": "Come face to face with mountain gorillas in Uganda's ancient Bwindi forest"
+    },
+    {
+      "url": "/images/tours/volcanoes-rwanda.jpg",
+      "alt": "Volcanoes National Park Rwanda at sunrise",
+      "caption": "Rwanda's Volcanoes National Park — Dian Fossey's legendary research site"
+    },
+    {
+      "url": "/images/tours/kazinga-channel.jpg",
+      "alt": "Hippos and birds on the Kazinga Channel",
+      "caption": "Afternoon boat cruise on the wildlife-rich Kazinga Channel"
+    },
+    {
+      "url": "/images/tours/tree-climbing-lions.jpg",
+      "alt": "Lions resting in a fig tree in Ishasha",
+      "caption": "The famous tree-climbing lions of Ishasha"
+    },
+    {
+      "url": "/images/tours/mabamba-shoebill.jpg",
+      "alt": "Shoebill stork at Mabamba Swamp Uganda",
+      "caption": "The ancient-looking shoebill awaits at Mabamba Swamp"
+    }
+  ],
+  "featured": true,
+  "published": true,
+  "seo": {
+    "metaTitle": "10-Day Rwanda & Uganda Gorilla Safari | Cross-Border | From $4,352pp",
+    "metaDescription": "Trek gorillas in Uganda and explore Rwanda's Volcanoes NP on this 10-day cross-border safari. Bakiga culture, Ishasha lions, Kazinga Channel & Mabamba shoebill. From $4,352pp.",
+    "keywords": [
+      "Rwanda Uganda gorilla safari",
+      "10 day Rwanda Uganda tour",
+      "cross border gorilla safari",
+      "Volcanoes National Park Rwanda",
+      "Bwindi gorilla trek Uganda",
+      "Bakiga cultural experience Uganda",
+      "Ishasha tree climbing lions",
+      "East Africa safari 10 days"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Do I need visas for both Rwanda and Uganda?",
+      "answer": "Yes — you will need entry visas for both countries. Rwanda visas are available on arrival or via the Rwanda e-visa portal. Uganda visas cost $50 and must be applied for online before travel. Both countries participate in the East Africa Tourist Visa scheme, which allows a single $100 visa covering Rwanda, Uganda, and Kenya — often the most cost-effective option. We advise on the best option when you book."
+    },
+    {
+      "question": "Is the Rwanda gorilla permit included?",
+      "answer": "The Uganda gorilla trekking permit ($700 per person) is included in the base price. Rwanda gorilla tracking on Day 3 is optional and costs $1,500 per person — we recommend it if your budget allows, as tracking gorillas in two different countries on the same trip is a rare and extraordinary experience. Please let us know at booking so we can secure the Rwanda permit in advance."
+    },
+    {
+      "question": "What is the Bakiga homestay experience like?",
+      "answer": "The Bakiga homestay is a genuine cultural immersion, not a staged performance. You stay with a real Bakiga family in the Kabale highlands, eat the same food they eat (full board), participate in daily farming and craft activities, and spend the evening around the fire with traditional music and storytelling. Accommodation is simple but clean and comfortable. This day is consistently one of the most talked-about moments of the entire trip."
+    },
+    {
+      "question": "How physically demanding is the gorilla trek?",
+      "answer": "A moderate level of fitness is recommended. Treks can last 2–6 hours through hilly, sometimes muddy forest terrain. The pace is always set by the slowest member of the group, and porters are available at the trailhead to carry your bag and offer a steadying hand. We have seen guests of all ages and fitness levels complete the trek successfully. The adrenaline of finding the gorillas makes you forget any tiredness immediately."
+    },
+    {
+      "question": "What is the shoebill stork and why is it special?",
+      "answer": "The shoebill is one of the world's most unusual and sought-after birds — a massive, slate-grey wading bird with a prehistoric-looking hooked bill the size of a wellington boot. It stands completely motionless for long periods in the reed beds, then strikes at fish with explosive speed. Mabamba Swamp on Lake Victoria is one of the most reliable places in Africa to find one. Seeing a shoebill on your final morning is the perfect, surreal farewell to Uganda."
+    },
+    {
+      "question": "Can this safari be extended?",
+      "answer": "Absolutely. Popular additions include an extra night at Lake Bunyonyi for swimming and relaxation, chimpanzee trekking at Kibale Forest, a white rhino tracking visit at Ziwa Sanctuary, or Murchison Falls National Park for game drives and the Victoria Nile boat cruise. We can also extend into Kenya or Tanzania. Contact us and we'll design the perfect custom itinerary."
+    }
+  ],
+  "relatedTours": [
+    "4-day-gorilla-trekking-uganda",
+    "12-day-spectacular-uganda-safari",
+    "9-day-budget-primate-safari"
+  ]
+}

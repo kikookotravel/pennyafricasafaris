@@ -1,0 +1,117 @@
+{
+  "hosting": {
+    "public": "out",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "/en",
+        "type": 301
+      },
+      {
+        "source": "/tours",
+        "destination": "/en/tours",
+        "type": 301
+      },
+      {
+        "source": "/tours/:slug",
+        "destination": "/en/tours/:slug",
+        "type": 301
+      },
+      {
+        "source": "/about",
+        "destination": "/en/about",
+        "type": 301
+      },
+      {
+        "source": "/contact",
+        "destination": "/en/contact",
+        "type": 301
+      },
+      {
+        "source": "/destinations",
+        "destination": "/en/destinations",
+        "type": 301
+      },
+      {
+        "source": "/destinations/:slug",
+        "destination": "/en/destinations/:slug",
+        "type": 301
+      },
+      {
+        "source": "/blog",
+        "destination": "/en/blog",
+        "type": 301
+      },
+      {
+        "source": "/blog/:slug",
+        "destination": "/en/blog/:slug",
+        "type": 301
+      }
+    ],
+    "rewrites": [
+      {
+        "source": "/api/email-capture",
+        "function": "emailCapture"
+      },
+      {
+        "source": "/api/tour-inquiry",
+        "function": "tourInquiry"
+      }
+    ],
+    "headers": [
+      {
+        "source": "**/*.@(jpg|jpeg|gif|png|webp|avif|svg|mp4)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "public, max-age=31536000, immutable"
+          }
+        ]
+      },
+      {
+        "source": "**/*.@(css|js)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "public, max-age=31536000, immutable"
+          }
+        ]
+      }
+    ],
+    "cleanUrls": true,
+    "trailingSlash": false
+  },
+  "functions": [
+    {
+      "codebase": "default",
+      "source": "functions",
+      "runtime": "nodejs20"
+    },
+    {
+      "source": "pas",
+      "codebase": "pas",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run lint"
+      ]
+    }
+  ],
+  "firestore": {
+    "database": "(default)",
+    "location": "africa-south1",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}

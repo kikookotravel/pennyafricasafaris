@@ -1,0 +1,431 @@
+{
+  "id": "14-day-cultural-wildlife",
+  "slug": "14-day-cultural-wildlife-safari",
+  "title": "14-Tage Uganda Kultur- und Wildlife-Safari",
+  "tagline": "Das komplette Uganda-Abenteuer - Wildlife, Primaten & tiefe kulturelle Immersion",
+  "category": "cultural",
+  "duration": 14,
+  "difficulty": "moderate",
+  "groupSize": "1-6 people",
+  "bestTime": "Year-round (best: June-September, December-February)",
+  "description": "Erleben Sie die umfassendste Uganda-Safari, die alle großen Nationalparks, Primaten und authentische kulturelle Erlebnisse abdeckt. Verfolgen Sie Breitmaulnashörner im Ziwa-Schutzgebiet, bestaunen Sie Murchison Falls, erkunden Sie den abgelegenen Semuliki Nationalpark mit seinen heißen Quellen, genießen Sie Pirschfahrten im Queen Elizabeth, verfolgen Sie Schimpansen und Berggorillas, tauchen Sie ein in die Bakiga-Kultur durch einen Homestay, entspannen Sie am Lake Bunyonyi und wandern Sie mit Wildlife im Lake Mburo. Diese 14-Tage-Reise zeigt Ugandas unglaubliche Vielfalt - vom Nil zu Regenwäldern, von Savanne zu Bergen.",
+  "highlights": [
+    "Verfolgung gefährdeter Breitmaulnashörner im Ziwa-Schutzgebiet",
+    "Erleben Sie die Kraft der Murchison Falls am Nil",
+    "Bootssafari auf dem Victoria-Nil",
+    "Erkunden Sie Semuliki Nationalpark und heiße Quellen",
+    "Berggorilla-Trekking in Bwindi",
+    "Schimpansen-Tracking",
+    "Baumkletternde Löwen in Ishasha",
+    "Bootsfahrt auf dem Kazinga-Kanal",
+    "Authentischer Bakiga-Kultureller Homestay",
+    "Schwimmen am Lake Bunyonyi (bilharzia-frei)",
+    "Wandersafari im Lake Mburo",
+    "Äquator überqueren",
+    "Besuch der Kraterseen"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Ankunft in Entebbe",
+      "description": "Willkommen in Uganda! Bei Ankunft am Entebbe International Airport wird Sie Ihr Penny Africa Safaris-Guide begrüßen und zu Ihrer nahegelegenen Unterkunft bringen. Ruhen Sie sich nach Ihrer Reise aus und freuen Sie sich auf das umfassende Abenteuer, das vor Ihnen liegt. Ihr Guide wird Sie über den 14-Tage-Reiseplan informieren, der Ugandas Highlights abdeckt.",
+      "activities": [
+        "Abholung am Flughafen",
+        "Transfer zur Unterkunft",
+        "Abendliches Safari-Briefing",
+        "Ruhe und Vorbereitung"
+      ],
+      "accommodation": "Gorilla Neighbour Guest House (or similar)",
+      "meals": ["Breakfast"],
+      "highlights": [
+        "Ankunft in Uganda",
+        "Treffen mit Ihrem Expertenguide",
+        "Umfassende Safari beginnt"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Ziwa-Nashorn-Schutzgebiet & Murchison Falls",
+      "description": "Fahren Sie nach Norden auf einer aufregenden Reise! Erster Stopp am Ziwa-Nashorn-Schutzgebiet für ein außergewöhnliches Nashorn-Tracking-Erlebnis. Wandern Sie mit bewaffneten Rangern, um gefährdete Breitmaulnashörner in ihrem natürlichen Lebensraum zu beobachten - Ugandas einziger Ort, um Nashörner zu sehen. Lernen Sie über Erhaltungsbemühungen zur Wiederansiedlung dieser großartigen Tiere. Weiterfahrt zum Murchison Falls Nationalpark mit Stopp an der Spitze der Fälle für eine der spektakulärsten Aussichten Ugandas: der mächtige Nil, der durch eine 7-Meter-Lücke presst und donnernde Geräusche und Regenbögen erzeugt.",
+      "activities": [
+        "Fahrt nach Norden von Entebbe",
+        "Nashorn-Tracking im Ziwa-Schutzgebiet",
+        "Lernen über Nashorn-Naturschutz",
+        "Besuch der Spitze der Murchison Falls",
+        "Fotografie an den Fällen",
+        "Ankunft an Park-Unterkunft"
+      ],
+      "accommodation": "Red Chilli Safari Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Gefährdete Breitmaulnashörner verfolgen",
+        "Spektakuläre Murchison Falls",
+        "Mächtiger Nil",
+        "Naturschutz-Bildung"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Murchison Falls Nationalpark - Pirschfahrt & Bootssafari",
+      "description": "Beginnen Sie mit einer frühmorgendlichen Pirschfahrt in Ugandas größtem Nationalpark. Suchen Sie nach Löwen, Elefanten, Giraffen, Büffeln, Antilopen und mit Glück Leoparden. Die vielfältigen Lebensräume des Parks beherbergen reichlich Wildlife. Am Nachmittag genießen Sie eine entspannende Bootsfahrt entlang des Victoria-Nils zur Basis der Fälle. Beobachten Sie Tiere, die sich an Flussufern versammeln - Elefanten, Büffel, Wasserböcke - und entdecken Sie zahlreiche Krokodile und Flusspferde. Das Boot nähert sich der Basis der Fälle, wo Sie die Kraft des Nils aus der Nähe inmitten von Sprühnebel und Regenbögen erleben.",
+      "activities": [
+        "Frühmorgendliche Pirschfahrt",
+        "Suche nach Großwild",
+        "Giraffen-Beobachtung",
+        "Nachmittägliche Victoria-Nil-Bootsfahrt",
+        "Flusspferd- und Krokodilbeobachtung",
+        "Annäherung an Fälle von unten"
+      ],
+      "accommodation": "Red Chilli Safari Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Pirschfahrt im größten Park",
+        "Victoria-Nil-Bootssafari",
+        "Fälle aus Wasser-Perspektive",
+        "Reichlich Wildlife"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Transfer zum Semuliki Nationalpark",
+      "description": "Nach dem Frühstück begeben Sie sich auf eine lange, aber landschaftlich schöne Fahrt zum abgelegenen Semuliki Nationalpark in Ugandas westlicher Ecke. Dieser Tiefland-Tropenregenwald ist eine Erweiterung des großen Ituri-Waldes des Kongo-Beckens - sehr unterschiedlich von anderen ugandischen Parks. Genießen Sie unterwegs Mittagessen und machen Sie zahlreiche Stopps für Fotografie und Dehnung. Die Landschaft verwandelt sich, während Sie nach Westen reisen. Ankunft am Abend und Entspannung nach der Reise.",
+      "activities": [
+        "Lange landschaftliche Fahrt nach Semuliki",
+        "Mittagspause unterwegs",
+        "Fotografie-Stopps",
+        "Wechselnde Landschaften",
+        "Ankunft im abgelegenen Semuliki",
+        "Abendliche Entspannung"
+      ],
+      "accommodation": "Semuliki River Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Reise zum abgelegenen Park",
+        "Vielfältige Landschaften",
+        "Ankunft in Semuliki",
+        "Einzigartiges Wald-Ökosystem"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Semuliki-heiße Quellen & Kraterseen",
+      "description": "Nach dem Frühstück erkunden Sie die einzigartigen Merkmale des Semuliki Nationalparks. Besuchen Sie die Sempaya-heißen Quellen, wo kochende Geysire aus der Erde schießen - die männliche 'Bintente'-Quelle und die weibliche 'Nyasimbi'-Quelle. Lokale Guides teilen Folklore über die Quellen. Das Wasser ist so heiß, dass Eier und Bananen in Minuten gekocht werden! Besuchen Sie wunderschöne Kraterseen, die durch vulkanische Aktivität gebildet wurden, und sehen Sie die fruchtbaren vulkanischen Böden der Gegend. Dieser Park beherbergt zentralafrikanische Waldarten, die sonst nirgendwo in Ostafrika zu finden sind.",
+      "activities": [
+        "Fahrt zum Semuliki Nationalpark",
+        "Besuch der Sempaya-heißen Quellen",
+        "Kochende Geysire sehen",
+        "Kraterseen erkunden",
+        "Lokale Folklore lernen",
+        "Wald-Wildlife-Beobachtung"
+      ],
+      "accommodation": "Semuliki River Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Sempaya-heiße Quellen",
+        "Kochende Geysire",
+        "Wunderschöne Kraterseen",
+        "Einzigartiges Ökosystem"
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Transfer zum Queen Elizabeth Nationalpark",
+      "description": "Fahren Sie nach Süden zum Queen Elizabeth Nationalpark, Ugandas meistbesuchtem Park. Stoppen Sie am Äquator für Fotos und Experimente. Ankunft am Nachmittag und sofort auf Pirschfahrt. Queen Elizabeths vielfältige Ökosysteme - Savanne, Feuchtgebiete, Wälder und Seen - beherbergen eine unglaubliche Vielfalt an Wildlife, darunter Löwen, Elefanten, Büffel, Leoparden (mit Glück) und zahlreiche Antilopenarten.",
+      "activities": [
+        "Morgendliche Abfahrt von Semuliki",
+        "Äquatorüberquerungs-Zeremonie",
+        "Ankunft am Queen Elizabeth",
+        "Nachmittägliche Pirschfahrt",
+        "Wildlife-Entdeckung",
+        "Vielfältige Lebensraum-Beobachtung"
+      ],
+      "accommodation": "Songbird Safari Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Äquator überqueren",
+        "Ankunft am Queen Elizabeth",
+        "Erste Pirschfahrt",
+        "Vielfältige Ökosysteme"
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Queen Elizabeth - Pirschfahrt & Kazinga-Kanal",
+      "description": "Beginnen Sie mit einer frühmorgendlichen Pirschfahrt, wenn Tiere während kühler Stunden am aktivsten sind. Suchen Sie nach Löwen, Büffeln, Elefanten, Antilopen, dem schwer fassbaren Buschschwein und möglicherweise Leoparden. Die Kasenyi-Ebenen sind bekannt für Löwensichtungen. Am Nachmittag genießen Sie die berühmte Kazinga-Kanal-Bootsfahrt. Diese 32 km lange Wasserstraße, die den Edward-See und den George-See verbindet, hat Afrikas höchste Flusspferdkonzentration. Entdecken Sie massive Flusspferd-Gruppen, sonnende Krokodile, Elefanten und Büffel an den Ufern und über 60 Vogelarten, darunter Fischadler und Eisvögel.",
+      "activities": [
+        "Frühmorgendliche Pirschfahrt",
+        "Kasenyi-Ebenen-Erkundung",
+        "Großkatzen-Suche",
+        "Nachmittägliche Kazinga-Kanal-Bootsfahrt",
+        "Flusspferd-Gruppen-Beobachtung",
+        "Ausgiebige Vogelbeobachtung"
+      ],
+      "accommodation": "Songbird Safari Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Morgendliche Pirschfahrt",
+        "Berühmter Kazinga-Kanal",
+        "Höchste Flusspferddichte",
+        "Reiches Vogelleben"
+      ]
+    },
+    {
+      "day": 8,
+      "title": "Schimpansen-Tracking",
+      "description": "Heute Morgen wandern Sie abseits der ausgetretenen Pfade durch den Dschungel auf der Suche nach Schimpansen. Nach einem Briefing folgen Sie Ihrem Guide durch den Wald und verfolgen eine habitualisierte Schimpansen-Gemeinschaft. Sobald sie gefunden wurden, beobachten Sie diese faszinierenden Primaten beim Spielen, Fressen und Schwingen durch Bäume. Ihre Lautäußerungen, Werkzeugnutzung und soziale Dynamik sind höchst unterhaltsam und bieten Einblick in die menschliche Evolution. Schimpansen sind aktiver und lauter als Gorillas und schaffen ein ganz anderes Primaten-Erlebnis. Transfer nach Ishasha am Nachmittag.",
+      "activities": [
+        "Morgendliches Schimpansen-Trekking",
+        "Waldwanderung",
+        "2-3 Stunden mit Schimpansen",
+        "Verhalten und Fütterung beobachten",
+        "Transfer zum Ishasha-Sektor",
+        "Abendliche Entspannung"
+      ],
+      "accommodation": "Ishasha Pride Hotel (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Wilde Schimpansen verfolgen",
+        "Schimpansen beim Spielen beobachten",
+        "Primaten-Verhaltensbeobachtung",
+        "Transfer nach Ishasha"
+      ]
+    },
+    {
+      "day": 9,
+      "title": "Baumkletternde Löwen & Transfer nach Bwindi",
+      "description": "Setzen Sie die Suche nach Ishashas berühmten baumkletternden Löwen heute Morgen fort. Diese seltenen Löwen klettern auf Feigenbäume, um Hitze und Tsetse-Fliegen zu entkommen - ein Verhalten, das nur an zwei afrikanischen Orten zu finden ist. Halten Sie Kameras bereit und scannen Sie sowohl Boden als auch Äste. Nach dem Frühstück fahren Sie zum Bwindi Impenetrable Nationalpark. Genießen Sie die dramatische Landschaftsveränderung von offener Savanne zu dichtem Bergregenwald. Achten Sie auf Überraschungen unterwegs - möglicherweise Wildlife oder schöne Aussichtspunkte. Ankunft am Abend zur Vorbereitung auf das morgige Gorilla-Trekking.",
+      "activities": [
+        "Frühmorgendliche Löwensuche",
+        "Baumkletternde Löwen-Beobachtung",
+        "Fotografie-Gelegenheiten",
+        "Fahrt nach Bwindi",
+        "Landschafts-Transformation",
+        "Gorilla-Trekking-Vorbereitung"
+      ],
+      "accommodation": "Ruhija Community Rest Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Baumkletternde Löwen",
+        "Fahrt nach Bwindi",
+        "Savanne zu Regenwald",
+        "Vorbereitung auf Gorillas"
+      ]
+    },
+    {
+      "day": 10,
+      "title": "Berggorilla-Trekking",
+      "description": "Ziehen Sie Ihre Wanderstiefel an und greifen Sie nach einem Wanderstock - heute ist das Gipfelerlebnis: Berggorilla-Tracking im Bwindi Impenetrable Nationalpark! Nach Frühstück und umfassendem Briefing am Park-Hauptquartier beginnen Sie Ihre Wanderung in den uralten Regenwald. Wandern Sie durch dichte Vegetation auf und ab steile, schlammige Hänge für 2-6 Stunden, je nachdem, wo Gorillas die Nacht verbracht haben. Sobald sie gefunden wurden, verbringen Sie eine unvergessliche Stunde mit der Beobachtung dieser sanften Riesen beim Fressen, Spielen und Ausruhen. Beobachten Sie Mütter, die Babys kuscheln, Jugendliche, die ringen, und den massiven Silberrücken, der wacht. Diese emotionale Begegnung ist wirklich eines der besten Erlebnisse, die Uganda bietet.",
+      "activities": [
+        "Frühes Frühstück",
+        "Park-Hauptquartier-Briefing",
+        "4-6 Stunden Regenwaldwanderung",
+        "Eine Stunde mit Gorillafamilie",
+        "Gorilla-Interaktionen beobachten",
+        "Rückwanderung und Feier"
+      ],
+      "accommodation": "Ruhija Community Rest Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Berggorillas treffen",
+        "Magische Stunde mit Riesen",
+        "Uralter Regenwald",
+        "Einmaliger Moment"
+      ]
+    },
+    {
+      "day": 11,
+      "title": "Bakiga-Kultureller Homestay",
+      "description": "Heute bietet sich tiefe kulturelle Immersion mit den Bakiga-Menschen im Südwesten Ugandas. Transfer zu einem lokalen Dorf für ein authentisches Homestay-Erlebnis. Die Bakiga haben reiches kulturelles Erbe mit ausgeprägten Traditionen, Musik, Tanz und Geschichtenerzählen, die durch Generationen weitergegeben wurden. Bleiben Sie bei einer Bakiga-Familie und nehmen Sie an täglichen Aktivitäten wie Landwirtschaft und traditionellen Handwerken (Korbflechten, Töpferei) teil. Teilen Sie Mahlzeiten, Geschichten und Lachen mit Ihren Gastgebern. Dieser echte kulturelle Austausch geht über typischen Tourismus hinaus, fördert bedeutungsvolle Verbindungen und schafft unvergessliche Erinnerungen. Die warme Gastfreundschaft der Bakiga wird Sie sich wie in der Familie fühlen lassen.",
+      "activities": [
+        "Transfer zur Bakiga-Gemeinschaft",
+        "Begrüßung durch Gastfamilie",
+        "Teilnahme an Landwirtschaft",
+        "Lernen traditioneller Handwerke",
+        "Traditionelle Musik und Tanz",
+        "Familienmahlzeiten teilen",
+        "Kulturelles Geschichtenerzählen"
+      ],
+      "accommodation": "The Home of Bakiga (Full Board)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Authentischer Homestay",
+        "Bakiga-Kultur-Immersion",
+        "Traditionelle Handwerke",
+        "Echte Gastfreundschaft"
+      ]
+    },
+    {
+      "day": 12,
+      "title": "Transfer zum Lake Bunyonyi",
+      "description": "Nach Frühstück und Abschied von Ihrer Gastfamilie fahren Sie zum atemberaubenden Lake Bunyonyi, einem der tiefsten und schönsten Seen Afrikas. Gelegen auf 1.800 m über dem Meeresspiegel mit 29 Inseln bietet dieser malerische See perfekte Entspannung nach Ihren Abenteuern. Das Wasser ist flusspferd-, krokodil- und bilharzia-frei - sicher zum Schwimmen! Probieren Sie das Paddeln eines traditionellen Einbaum-Kanus, besuchen Sie Inseln mit ihren einzigartigen Geschichten oder entspannen Sie einfach und genießen Sie die terrassierten Hügel und Bergausblicke.",
+      "activities": [
+        "Abschied von Bakiga-Familie",
+        "Fahrt zum Lake Bunyonyi",
+        "Ankunft am wunderschönen See",
+        "Optionales Einbaum-Kanu-Paddeln",
+        "Sicheres Schwimmen",
+        "Inselerkundung",
+        "Bergausblicke"
+      ],
+      "accommodation": "Byoona Amagara (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Wunderschöner Lake Bunyonyi",
+        "Sicheres Schwimmen",
+        "Einbaum-Kanu-Erlebnis",
+        "Entspannungstag"
+      ]
+    },
+    {
+      "day": 13,
+      "title": "Transfer zum Lake Mburo Nationalpark",
+      "description": "Nach Frühstück mit Seeblick fahren Sie 4-5 Stunden zum Lake Mburo Nationalpark, Ugandas kleinstem Savannenpark, aber reich an Biodiversität. Der Park beherbergt eine Vielzahl von Wildlife, darunter Leoparden, Zebras, Impalas, Elenantilopen, Büffel und über 300 Vogelarten. Genießen Sie eine nachmittägliche Pirschfahrt, um diese Tiere zu entdecken. Der Park hat keine Elefanten oder Löwen, was ihn zu einem der wenigen Orte in Uganda macht, an denen Wandersafaris möglich sind.",
+      "activities": [
+        "Morgendliche Abfahrt vom Lake Bunyonyi",
+        "Malerische Fahrt zum Lake Mburo",
+        "Ankunft am kleinsten Park",
+        "Nachmittägliche Pirschfahrt",
+        "Zebra- und Impala-Beobachtung",
+        "Vogelbeobachtungsmöglichkeiten"
+      ],
+      "accommodation": "Leopard Rest Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Transfer zum Lake Mburo",
+        "Nachmittägliche Pirschfahrt",
+        "Zebras und Impalas",
+        "Vogelreiche Umgebung"
+      ]
+    },
+    {
+      "day": 14,
+      "title": "Wandersafari & Rückkehr nach Entebbe",
+      "description": "Wachen Sie früh für eine optionale Wandersafari auf - eine einzigartige Gelegenheit, die Savanne zu Fuß zu erkunden und Wildlife näher zu kommen. Wandern bietet beste Vogelbeobachtung und lässt Sie kleinere Details des Ökosystems schätzen, die oft von Fahrzeugen übersehen werden. Ihr bewaffneter Ranger-Guide sorgt für Sicherheit, während er auf Spuren, Pflanzen und Tiere hinweist. Nach dem Frühstück fahren Sie zurück nach Entebbe mit Mittagspause unterwegs. Ankunft am Flughafen rechtzeitig für Ihren geplanten Flug. Wir hoffen, dass diese umfassende 14-Tage-Reise Ihren Appetit auf weitere afrikanische Safari-Abenteuer geweckt hat!",
+      "activities": [
+        "Optionale morgendliche Wandersafari",
+        "Wildlife-Begegnungen zu Fuß",
+        "Vogelbeobachtung",
+        "Rückfahrt nach Entebbe",
+        "Mittagspause unterwegs",
+        "Absetzung am Flughafen"
+      ],
+      "accommodation": "N/A (or additional night available)",
+      "meals": ["Breakfast", "Lunch"],
+      "highlights": [
+        "Wandersafari",
+        "Nahe Wildlife-Beobachtung",
+        "Letztes Uganda-Erlebnis",
+        "Umfassende Safari komplett"
+      ]
+    }
+  ],
+  "pricing": {
+    "from": 5073,
+    "currency": "USD",
+    "note": "Gorilla-Permit, alle Parks und kultureller Homestay inklusive. Preis variiert je nach Gruppengröße.",
+    "groupPricing": {
+      "solo": 9647,
+      "twoPersons": 6294,
+      "threeFour": 5073,
+      "fivePlus": 3937
+    }
+  },
+  "inclusions": [
+    "Gorilla-Trekking-Permit (700 USD Wert)",
+    "Schimpansen-Tracking-Permit",
+    "Breitmaulnashorn-Tracking in Ziwa",
+    "Erfahrener englischsprachiger Fahrer-Guide",
+    "4WD maßgeschneidertes Safari-Fahrzeug und Kraftstoff",
+    "Alle Parkeintritte (6 Parks)",
+    "Unterkunft für 13 Nächte (Basis: ÜF & VP)",
+    "Mahlzeiten wie im Reiseplan angegeben",
+    "Flughafentransfers",
+    "Pirschfahrten in allen Nationalparks",
+    "Bootsfahrt auf dem Victoria-Nil",
+    "Bootsfahrt auf dem Kazinga-Kanal",
+    "Bakiga-Kultureller Homestay (Vollpension)",
+    "Besuch heißer Quellen",
+    "Kraterseen-Tour",
+    "Einbaum-Kanu am Lake Bunyonyi",
+    "Wandersafari",
+    "Trinkwasser während der gesamten Reise",
+    "Frisches Obst unterwegs",
+    "Traditionelles ugandisches Rolex",
+    "Kulturelle Unterhaltung",
+    "Staatliche Steuern"
+  ],
+  "exclusions": [
+    "Internationale Flüge",
+    "Uganda-Visum (50 USD online)",
+    "Reiseversicherung (sehr empfohlen)",
+    "Persönliche Ausgaben (Wäscherei, Trinkgelder usw.)",
+    "Alkoholische Getränke",
+    "Nicht erwähnte optionale Aktivitäten",
+    "Trägergebühren während Wanderungen (15-20 USD, optional aber empfohlen)"
+  ],
+  "images": [
+    {
+      "url": "/images/tours/cultural-hero.jpg",
+      "alt": "Berggorilla",
+      "caption": "Wandern Sie zu Berggorillas in Bwindi"
+    },
+    {
+      "url": "/images/tours/wildlife-safari.jpg",
+      "alt": "Wildlife-Beobachtung",
+      "caption": "Pirschfahrten in mehreren Parks"
+    },
+    {
+      "url": "/images/tours/bwindi-forest.jpg",
+      "alt": "Regenwald",
+      "caption": "Vielfältige Ökosysteme"
+    },
+    {
+      "url": "/images/tours/lake-bunyonyi.jpg",
+      "alt": "Lake Bunyonyi",
+      "caption": "Entspannen an atemberaubenden Seen"
+    }
+  ],
+  "featured": false,
+  "published": true,
+  "seo": {
+    "metaTitle": "14-Tage Uganda Kultur-Wildlife-Safari | Komplette Tour | Ab 5.073 USD",
+    "metaDescription": "Ultimative Uganda-Safari: Murchison Falls, Nashorn-Tracking, Gorillas, Schimpansen, kultureller Homestay, 6 Nationalparks. Umfassendste 14-Tage-Abenteuer.",
+    "keywords": [
+      "Uganda 14 Tage Safari",
+      "Komplette Uganda-Tour",
+      "Kultur-Safari Uganda",
+      "Murchison Falls Safari",
+      "Nashorn-Tracking Uganda",
+      "Semuliki Nationalpark",
+      "Umfassende Uganda Safari",
+      "Bakiga-Kulturerlebnis"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Sind 14 Tage zu lang für eine Safari?",
+      "answer": "Überhaupt nicht! Dieser Reiseplan ist gut durchdacht mit Vielfalt, um 'Safari-Müdigkeit' zu vermeiden. Sie erleben verschiedene Ökosysteme, Aktivitäten und Kulturen. Tage wechseln zwischen aktiven Abenteuern und Entspannung. Viele Reisende sagen, 14 Tage waren perfekt, um Ugandas Vielfalt wirklich zu erleben, ohne zu hetzen."
+    },
+    {
+      "question": "Was macht den Semuliki Nationalpark besonders?",
+      "answer": "Semuliki ist Ugandas einziger Tiefland-Tropenregenwald, eine Erweiterung des Kongo-Ituri-Waldes. Er beherbergt zentralafrikanische Arten, die sonst nirgendwo in Ostafrika zu finden sind. Die heißen Quellen mit kochenden Geysiren sind einzigartig, und der Park fühlt sich abgelegen und unberührt an. Es ist ein verstecktes Juwel, das die meisten Touristen überspringen."
+    },
+    {
+      "question": "Wie authentisch ist der Bakiga-Homestay?",
+      "answer": "Sehr authentisch! Dies sind echte Familienhäuser, keine touristischen Einrichtungen. Sie schlafen in einem lokalen Haus, teilen Mahlzeiten, die die Familie tatsächlich isst, und nehmen an ihren täglichen Aktivitäten teil. Es kann rustikal sein (grundlegende Einrichtungen), aber bietet echten kulturellen Einblick, den man von Hotels nicht bekommen kann. Die meisten Reisenden finden es ein Safari-Highlight."
+    },
+    {
+      "question": "Kann ich alle Big Five auf dieser Safari sehen?",
+      "answer": "Sie werden 4 der Big 5 sehen: Büffel, Elefant, Leopard (mit Glück) und Nashorn in Ziwa. Löwen sind möglich im Queen Elizabeth und Ishasha. Semuliki ist der einzige Ort in Uganda mit Waldelefanten. Sie werden auch viele andere erstaunliche Tiere sehen, die nicht zu den Big 5 gehören - Gorillas, Schimpansen, Flusspferde, Giraffen, Zebras."
+    },
+    {
+      "question": "Ist diese Tour ein gutes Preis-Leistungs-Verhältnis für 14 Tage?",
+      "answer": "Ausgezeichnetes Preis-Leistungs-Verhältnis! Sie besuchen 6 Nationalparks, verfolgen 3 Primatenarten (Gorillas, Schimpansen, Nashörner), bekommen einen kulturellen Homestay, Bootssafaris, Wandersafari und umfassende Wildlife-Beobachtung. Wenn man die Kosten pro Tag einschließlich Permits und Aktivitäten aufschlüsselt, ist es sehr wettbewerbsfähig für ein so gründliches Uganda-Erlebnis."
+    }
+  ],
+  "relatedTours": [
+    "12-day-spectacular-uganda-safari",
+    "9-day-budget-primate-safari",
+    "10-day-rwanda-uganda-safari"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "id": "5-day-gorilla-rafting",
+  "slug": "5-day-gorilla-rafting-adventure",
+  "title": "5-Tage Gorilla-Trekking & Wildwasser-Rafting Abenteuer",
+  "tagline": "Kombinieren Sie Gorillas mit Adrenalin am Nil",
+  "category": "adventure",
+  "duration": 5,
+  "difficulty": "challenging",
+  "groupSize": "1-6 people",
+  "bestTime": "Year-round (rafting best: September-March)",
+  "description": "Erleben Sie das ultimative Uganda-Abenteuer, das zwei Aktivitäten von Ihrer Bucket-List kombiniert: Berggorilla-Trekking in Bwindi und erstklassiges Wildwasser-Rafting auf dem Nil. Diese actiongeladene 5-Tage-Safari bietet die perfekte Mischung aus Wildtierbegegnungen und adrenalingeladenen Abenteuern. Wandern Sie durch uralte Regenwälder, um gefährdete Gorillas zu treffen, und bezwingen Sie dann Stromschnellen der Stufe 5 an der Quelle des Nils. Perfekt für Abenteurer, die ihre begrenzte Zeit in Uganda optimal nutzen möchten.",
+  "highlights": [
+    "Berggorilla-Trekking im Bwindi Impenetrable Wald",
+    "Weltklasse-Wildwasser-Rafting auf dem Nil",
+    "Stromschnellen der Stufe 5 an der Quelle des Nils",
+    "Besuch des Mabira-Waldes - Ugandas größter Regenwald",
+    "Überquerung des Äquators mit Experimenten",
+    "Bootsfahrt zur Quelle des Nils",
+    "Fahrt durch Tee- und Zuckerrohrplantagen",
+    "Traditionelles ugandisches Rolex-Erlebnis",
+    "Perfekte Abenteuer-Kombination in nur 5 Tagen"
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Ankunft in Entebbe",
+      "description": "Willkommen in Uganda! Ihr Penny Africa Safaris-Guide wird Sie am Entebbe International Airport begrüßen und zu Ihrer nahegelegenen Unterkunft bringen. Ruhen Sie sich nach Ihrem Flug aus und freuen Sie sich auf die abenteuerreichen Tage, die vor Ihnen liegen. Ihr Guide wird Sie über den Reiseplan informieren und alle Fragen beantworten.",
+      "activities": [
+        "Abholung am Flughafen",
+        "Transfer zur Unterkunft",
+        "Abendliches Safari-Briefing",
+        "Ruhe und Vorbereitung"
+      ],
+      "accommodation": "Gorilla Neighbour Guest House (or similar)",
+      "meals": ["Breakfast"],
+      "highlights": [
+        "Ankunft in Uganda",
+        "Treffen mit Ihrem Guide",
+        "Vorbereitung auf das Abenteuer"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Wildwasser-Rafting auf dem Nil",
+      "description": "Frühmorgendliche Abfahrt nach Jinja, der Abenteuer-Hauptstadt Ostafrikas! Die 2-stündige Fahrt führt Sie durch den Mabira-Wald, Ugandas größten tropischen Regenwald, vorbei an Tee- und Zuckerrohrplantagen und bunten Straßenmärkten. Sie erreichen die Kalagala-Fälle am Nil für Ihr Wildwasser-Rafting-Abenteuer. Wählen Sie zwischen einem halbtägigen (4-5 Stromschnellen) oder ganztägigen (8-9 Stromschnellen) Erlebnis und bezwingen Sie Stromschnellen der Stufe 3-5. Keine Erfahrung nötig - professionelle Guides stellen alle Sicherheitsausrüstung und Training bereit. Nach diesem aufregenden Erlebnis genießen Sie ein Mittagessen am Fluss, bevor Sie am Abend zurück nach Entebbe fahren. Optional: Besuch der Nilquelle per Boot.",
+      "activities": [
+        "Frühmorgendliche Fahrt nach Jinja (2 Stunden)",
+        "Sicherheits-Briefing und Ausrüstungsanpassung",
+        "Ganztägiges oder halbtägiges Wildwasser-Rafting",
+        "Bezwingen Sie Stromschnellen der Stufe 3-5",
+        "Mittagessen am Fluss",
+        "Optionale Bootsfahrt zur Quelle des Nils",
+        "Rückfahrt nach Entebbe",
+        "Ruhe in der Lodge"
+      ],
+      "accommodation": "Gorilla Neighbour Guest House (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Weltberühmte Nil-Stromschnellen",
+        "Professionelle Rafting-Guides",
+        "Fahrt durch Mabira-Wald",
+        "Quelle des Nils",
+        "Adrenalingeladenes Abenteuer"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Transfer zum Bwindi Impenetrable Nationalpark",
+      "description": "Nach dem Frühstück beginnt Ihre Reise zum Bwindi Impenetrable Wald-Nationalpark im Südwesten Ugandas (8-9 Stunden). Stoppen Sie am Äquator für Fotos und faszinierende Demonstrationen, die zeigen, dass Sie auf beiden Hemisphären stehen. Weiter nach Mbarara für das Mittagessen, dann fahren Sie durch die wunderschönen, sanften Hügel der Bananen- und Teeplantagen. Die Landschaft wird zunehmend spektakulärer, je näher Sie Bwindi kommen. Ankunft am Abend in Ihrer Lodge nahe dem Park, umgeben von nebelbedeckten Bergen.",
+      "activities": [
+        "Frühmorgendliche Abfahrt",
+        "Äquatorüberquerungs-Zeremonie",
+        "Mittagspause in Mbarara",
+        "Malerische Fahrt durch Teeplantagen",
+        "Ankunft in Bwindi",
+        "Entspannung am Abend",
+        "Vorbereitung auf Gorilla-Trekking"
+      ],
+      "accommodation": "Travellers Rest Camp (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Äquatorüberquerung",
+        "Wunderschöne Landschaft",
+        "Tee- und Bananenplantagen",
+        "Ankunft am Regenwald"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Berggorilla-Trekking",
+      "description": "Das Highlight Ihres Abenteuers! Nach einem frühen Frühstück melden Sie sich am Park-Hauptquartier zur Registrierung und einem umfassenden Briefing über Gorilla-Trekking-Etikette. Um 8:00 Uhr brechen Sie mit Ihren Ranger-Guides in den dichten Wald auf, um eine habituierte Gorillafamilie zu suchen. Die Wanderung führt durch dichtes Unterholz auf Tierpfaden, durch die steil bewaldete Landschaft. Die Suche kann je nachdem, wo die Gorillas die vorherige Nacht verbracht haben, zwischen 30 Minuten und 6 Stunden dauern. Sobald sie gefunden wurden, verbringen Sie eine außergewöhnliche Stunde mit der Beobachtung dieser gefährdeten Kreaturen in ihrem natürlichen Lebensraum. Beobachten Sie, wie sie fressen, spielen und interagieren - es ist eine emotionale und unvergessliche Erfahrung. Nach der Wanderung kehren Sie zu Ihrer Lodge zurück oder fahren zum Lake Bunyonyi zur Entspannung.",
+      "activities": [
+        "Frühes Frühstück und Lunchpaket",
+        "Registrierung am Park-Hauptquartier",
+        "Gorilla-Trekking-Briefing",
+        "4-6 Stunden Wanderung durch Regenwald",
+        "Eine Stunde mit Berggorillafamilie",
+        "Rückwanderung",
+        "Abend zur freien Verfügung"
+      ],
+      "accommodation": "Byoona Amagara (or similar)",
+      "meals": ["Breakfast", "Lunch", "Dinner"],
+      "highlights": [
+        "Berggorillas von Angesicht zu Angesicht",
+        "Verbringen Sie eine magische Stunde mit sanften Riesen",
+        "Uraltes Regenwald-Ökosystem",
+        "Einmaliges Erlebnis"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Rückkehr nach Entebbe für Abreise",
+      "description": "Nach dem Frühstück beginnt die lange, aber malerische Rückfahrt zum Entebbe International Airport (8-9 Stunden). Stoppen Sie unterwegs zum Mittagessen und genießen Sie letzte Ausblicke auf Ugandas wunderschöne Landschaft. Ankunft am Flughafen rechtzeitig für Ihren Abendflug, mit unglaublichen Erinnerungen an Gorillas und Wildwasser-Abenteuer im Gepäck.",
+      "activities": [
+        "Frühes Frühstück",
+        "Lange Fahrt nach Entebbe",
+        "Mittagspause unterwegs",
+        "Landschaftsbetrachtung",
+        "Absetzung am Flughafen zur Abreise"
+      ],
+      "accommodation": "N/A (or additional night available)",
+      "meals": ["Breakfast", "Lunch"],
+      "highlights": [
+        "Letzte Ausblicke auf ugandische Landschaft",
+        "Nachdenken über das Abenteuer",
+        "Gute Heimreise"
+      ]
+    }
+  ],
+  "pricing": {
+    "from": 2560,
+    "currency": "USD",
+    "note": "Gorilla-Permit und Wildwasser-Rafting inklusive. Preis variiert je nach Gruppengröße.",
+    "groupPricing": {
+      "solo": 4220,
+      "twoPersons": 2814,
+      "threeFour": 2560,
+      "fivePlus": 2560
+    }
+  },
+  "inclusions": [
+    "Gorilla-Trekking-Permit (700 USD Wert)",
+    "Ganztägiges Wildwasser-Rafting auf dem Nil",
+    "Professionelle Rafting-Guides und Sicherheitsausrüstung",
+    "Erfahrener englischsprachiger Safari-Guide",
+    "4WD maßgeschneidertes Safari-Fahrzeug und Kraftstoff",
+    "Alle Parkeintritte",
+    "Unterkunft für 4 Nächte (Basis: Übernachtung/Frühstück)",
+    "Mahlzeiten wie im Reiseplan angegeben",
+    "Flughafentransfers",
+    "Trinkwasser während der gesamten Reise",
+    "Frisches Obst unterwegs",
+    "Bootsfahrt zur Quelle des Nils",
+    "Traditionelles ugandisches Rolex",
+    "Kulturelle Unterhaltung",
+    "Staatliche Steuern"
+  ],
+  "exclusions": [
+    "Internationale Flüge",
+    "Uganda-Visum (50 USD online)",
+    "Reiseversicherung (sehr empfohlen)",
+    "Persönliche Ausgaben (Wäscherei, Trinkgelder usw.)",
+    "Alkoholische Getränke",
+    "Nicht im Reiseplan angegebene Mahlzeiten",
+    "Nicht erwähnte optionale Aktivitäten",
+    "Trägergebühren während des Gorilla-Trekkings (15-20 USD, optional aber empfohlen)"
+  ],
+  "images": [
+    {
+      "url": "/images/tours/gorilla-trek.jpg",
+      "alt": "Berggorilla in Bwindi",
+      "caption": "Wandern Sie zu den Berggorillas"
+    },
+    {
+      "url": "/images/tours/wildlife-safari.jpg",
+      "alt": "Wildwasser-Rafting",
+      "caption": "Bezwingen Sie Stromschnellen der Stufe 5"
+    },
+    {
+      "url": "/images/tours/bwindi-forest.jpg",
+      "alt": "Bwindi-Regenwald",
+      "caption": "Wanderung durch uralten Regenwald"
+    },
+    {
+      "url": "/images/tours/equator-uganda.jpg",
+      "alt": "Äquatorüberquerung",
+      "caption": "Stehen Sie auf dem Äquator"
+    }
+  ],
+  "featured": true,
+  "published": true,
+  "seo": {
+    "metaTitle": "5-Tage Gorilla-Trekking & Wildwasser-Rafting Uganda | Ab 2.560 USD",
+    "metaDescription": "Ultimative Abenteuer-Safari: Berggorillas in Bwindi + Weltklasse-Rafting auf dem Nil. Stromschnellen Stufe 5, Wildlife, Adrenalin. Perfekte 5-Tage-Kombination!",
+    "keywords": [
+      "Gorilla-Trekking Rafting Kombo",
+      "Uganda Abenteuer-Safari",
+      "Wildwasser-Rafting Nil",
+      "Bwindi Gorilla-Trekking",
+      "Uganda Extrem-Abenteuer",
+      "5 Tage Uganda-Tour",
+      "Jinja Wildwasser-Rafting",
+      "Abenteuer-Safari Uganda"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Benötige ich Rafting-Erfahrung?",
+      "answer": "Nein, vorherige Rafting-Erfahrung ist nicht notwendig! Professionelle Guides bieten umfassendes Sicherheitstraining und alle Ausrüstung. Die Stromschnellen sind der Stufe 3-5 zugeordnet und bieten aufregende Spannung bei gleichzeitiger Wahrung der Sicherheitsstandards. Wenn Sie schwimmen können und einigermaßen fit sind, werden Sie es schaffen."
+    },
+    {
+      "question": "Was ist, wenn mir Stromschnellen der Stufe 5 nicht behagen?",
+      "answer": "Sie können die halbtägige Option wählen, die Stromschnellen der Stufe 3-4 (weniger intensiv) umfasst, oder einfach um die größte Stromschnelle der Stufe 5 namens 'The Bad Place' herumlaufen. Die meisten Menschen finden das Erlebnis mit den professionellen Guides eher aufregend als beängstigend."
+    },
+    {
+      "question": "Ist diese Tour körperlich zu anspruchsvoll?",
+      "answer": "Dies ist unsere körperlich anspruchsvollste Tour. Tag 2 beinhaltet mehrere Stunden Rafting, und Tag 4 erfordert Wandern durch steiles, schlammiges Waldgelände. Sie sollten in guter körperlicher Verfassung sein. Das Tempo wird jedoch an Ihre Fähigkeiten angepasst, und Träger können während des Gorilla-Trekkings helfen."
+    },
+    {
+      "question": "Können wir weitere Rafting-Aktivitäten in Jinja unternehmen?",
+      "answer": "Auf jeden Fall! Jinja bietet Bungee-Jumping, Kajakfahren, Tubing, Quad-Biking und Reiten. Lassen Sie uns wissen, wenn Sie zusätzliche Tage oder Aktivitäten hinzufügen möchten - wir können den Reiseplan individuell anpassen."
+    },
+    {
+      "question": "Was ist die beste Zeit für diese Kombinations-Safari?",
+      "answer": "Ganzjährig möglich, aber September bis März bietet die besten Rafting-Bedingungen mit höheren Wasserständen. Die Trockenzeiten (Juni-September, Dezember-Februar) sind ideal für Gorilla-Trekking. Dezember bis Februar bietet die perfekte Kombination aus beidem."
+    }
+  ],
+  "relatedTours": [
+    "4-day-gorilla-trekking-uganda",
+    "9-day-budget-primate-safari",
+    "8-day-eastern-uganda-safari"
+  ]
+}

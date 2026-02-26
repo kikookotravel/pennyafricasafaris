@@ -1,0 +1,161 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "tours": "Tours",
+    "destinations": "Destinations",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "common": {
+    "bookNow": "Book Now",
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "getInTouch": "Get In Touch",
+    "viewAll": "View All",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "currency": "USD"
+  },
+  "homepage": {
+    "heroTitle": "Affordable Trips, Extraordinary Memories",
+    "heroSubtitle": "Experience Uganda's breathtaking wildlife and landscapes with expert local guidance",
+    "heroCta": "Book Your Safari",
+    "whyChooseUs": {
+      "title": "Why Choose Penny Africa Safaris",
+      "subtitle": "We're passionate about creating authentic, affordable safari experiences that leave lasting memories",
+      "localExpertise": {
+        "title": "Local Expertise",
+        "description": "Born and raised in Uganda, we know the hidden gems and best times to visit every location"
+      },
+      "budgetFriendly": {
+        "title": "Budget-Friendly",
+        "description": "Quality safari experiences without the premium price tag. We believe adventure should be accessible"
+      },
+      "certified": {
+        "title": "Certified Guide",
+        "description": "Fully licensed and certified by Uganda Tourism Board with 7+ years of experience"
+      },
+      "personalized": {
+        "title": "Personalized Service",
+        "description": "Every safari is tailored to your interests, pace, and preferences"
+      },
+      "safety": {
+        "title": "Safety First",
+        "description": "Your safety is our top priority. We maintain high standards and comprehensive insurance"
+      },
+      "smallGroups": {
+        "title": "Small Groups",
+        "description": "Intimate group sizes ensure personal attention and authentic wildlife encounters"
+      }
+    },
+    "stats": {
+      "experience": "Years of Experience",
+      "tours": "Tours Completed",
+      "travelers": "Happy Travelers",
+      "satisfaction": "Satisfaction Rate"
+    },
+    "featuredTours": {
+      "title": "Popular Safari Tours",
+      "subtitle": "Discover our most loved safari adventures in Uganda"
+    },
+    "testimonials": {
+      "title": "What Our Travelers Say",
+      "subtitle": "Real experiences from real adventurers",
+      "testimonial1": "We had a wonderful time in Uganda. Our guide, Ivan, was amazing. He was so friendly, knowledgeable and helpful. He is a fantastic guide who is passionate about his job. Do ask for Ivan if you're visiting Uganda!",
+      "testimonial2": "Our guide was Ivan who has years of experience and could answer any question, he is like the walking lexicon of Uganda! He makes one feel like a VIP and friend at the same time. When we didn't get to see the chimps in the trekking, Ivan spoke to the Rangers and had us join an afternoon trip to enable us to get to see the chimps! Ivan is also a very skillful driver, we always felt super safe and comfortable.",
+      "testimonial3": "Choosing Uganda as this year's travel destination was an excellent idea! I felt at home from the first minute and after four weeks, I left quite a number of very good friends. Starting from the organization, the careful selection of the lodges, the excellent guide and driver, Ivan, down to the daily little somethings. Simply perfect!"
+    },
+    "emailCapture": {
+      "title": "Get Your Free East Africa Packing List",
+      "subtitle": "Essential items for your safari adventure, curated by local experts",
+      "placeholder": "Enter your email address",
+      "button": "Download Free Guide",
+      "privacy": "We respect your privacy. Unsubscribe anytime.",
+      "successTitle": "Check Your Email!",
+      "successMessage": "Your free packing list is on its way. Don't forget to check your spam folder!"
+    }
+  },
+  "footer": {
+    "tagline": "Creating unforgettable African safari experiences since 2017",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "copyright": "© {year} Penny Africa Safaris. All rights reserved.",
+    "email": "Email",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp"
+  },
+  "about": {
+    "heroTitle": "About Penny Africa Safaris",
+    "heroSubtitle": "Affordable Trips, Extraordinary Memories",
+    "meetIvanTitle": "Meet Ivan Akampurira",
+    "ivanBio1": "Born and raised in the pearl of Africa, Uganda, I've spent my entire life surrounded by the incredible wildlife and landscapes that I now share with travelers from around the world.",
+    "ivanBio2": "My journey into safari guiding began over 7 years ago, driven by a deep passion for Uganda's natural heritage and a desire to share it with others. Growing up near Bwindi Impenetrable Forest, I developed a profound respect for mountain gorillas and the importance of conservation.",
+    "ivanBio3": "In 2017, I founded Penny Africa Safaris with a clear mission: to make authentic safari experiences accessible to everyone, not just luxury travelers. I believe that witnessing Uganda's wildlife shouldn't require a fortune – it should be a life-changing experience available to all who dream of it.",
+    "ivanBio4": "Today, I'm proud to be a certified safari guide registered with the Uganda Tourism Board. But more than that, I'm grateful for every traveler who trusts me to show them the Uganda I love. When you safari with me, you're not just a client – you're my guest, and I treat you like family.",
+    "whyTravelTitle": "Why Travel With Me",
+    "reason1Title": "Born Local Expert",
+    "reason1Desc": "This isn't just my job – it's my home. I know every park, every trail, every hidden gem. I can show you the Uganda that guidebooks miss.",
+    "reason2Title": "Personal Touch",
+    "reason2Desc": "I personally guide most of my safaris. You'll have my direct WhatsApp number, and I'm available 24/7 during your trip. Your adventure is as important to me as it is to you.",
+    "reason3Title": "Honest Pricing",
+    "reason3Desc": "No hidden fees, no surprises. I cut out the middlemen and work directly with you, which means better prices without compromising quality.",
+    "reason4Title": "Certified & Licensed",
+    "reason4Desc": "Fully certified by Uganda Tourism Board with comprehensive insurance. Over 7 years of guiding experience and hundreds of satisfied travelers.",
+    "reason5Title": "Small Groups",
+    "reason5Desc": "Maximum 6 travelers per group means personalized attention, flexibility, and authentic wildlife encounters without the crowds.",
+    "reason6Title": "Conservation Focus",
+    "reason6Desc": "Part of every safari supports local communities and conservation efforts. Your trip helps protect the wildlife and habitats we explore together.",
+    "galleryTitle": "Creating Memories Together",
+    "gallerySubtitle": "These aren't just clients – they're friends I've made from around the world. Here are some moments we've shared on safari.",
+    "missionTitle": "Our Mission & Values",
+    "mission1Title": "Affordable Trips, Extraordinary Memories",
+    "mission1Desc": "This isn't just a tagline – it's my promise. I believe everyone should have the chance to experience Uganda's incredible wildlife, regardless of budget. By cutting out intermediaries and working directly with you, I keep costs down while maintaining the quality and safety standards you deserve.",
+    "mission2Title": "Authentic, Not Touristy",
+    "mission2Desc": "You won't find rushed itineraries or overcrowded tourist traps here. Every safari is paced to let you truly experience Uganda – not just check boxes. We take the roads less traveled, visit local communities, and create genuine connections with the places and people we encounter.",
+    "mission3Title": "Supporting Communities",
+    "mission3Desc": "Tourism should benefit everyone. That's why I work with local lodges, employ local staff, and include community visits in our itineraries. When you travel with Penny Africa Safaris, you're directly supporting Ugandan families and conservation efforts.",
+    "mission4Title": "Quality Without Compromise",
+    "mission4Desc": "Budget-friendly doesn't mean cutting corners on what matters. You'll have a reliable 4x4 vehicle, experienced guide, quality accommodations, and most importantly – safe, well-organized wildlife experiences. I never compromise on your safety or the quality of your safari.",
+    "credentialsTitle": "Credentials & Recognition",
+    "credential1": "Uganda Tourism Board",
+    "credential1Desc": "Registered & Certified Guide",
+    "credential2": "Fully Insured",
+    "credential2Desc": "Comprehensive Coverage",
+    "credential3": "500+ Travelers",
+    "credential3Desc": "Happy Clients Since 2017",
+    "reviewText": "Check out our reviews on",
+    "reviewLink": "TripAdvisor",
+    "reviewText2": "to see what other travelers say about their experiences!",
+    "ctaTitle": "Ready to Start Your Uganda Adventure?",
+    "ctaSubtitle": "Let's plan your safari together. I'm here to answer your questions and create the perfect itinerary for you.",
+    "ctaButton1": "Browse Our Tours",
+    "ctaButton2": "Get In Touch",
+    "whatsappText": "WhatsApp me directly:"
+  },
+  "contact": {
+    "heroTitle": "Get In Touch",
+    "heroSubtitle": "Let's plan your perfect Uganda safari adventure",
+    "formTitle": "Send Us a Message",
+    "formSubtitle": "Fill out the form below and we'll get back to you within 24 hours",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "tourInterest": "Tour Interest",
+    "message": "Message",
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "successTitle": "Message Sent!",
+    "successMessage": "Thank you for contacting us. Ivan will get back to you within 24 hours.",
+    "errorMessage": "Failed to send message. Please try again or contact us directly.",
+    "contactInfoTitle": "Contact Information",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "whatsappLabel": "WhatsApp",
+    "locationLabel": "Location",
+    "locationValue": "Kampala, Uganda",
+    "hoursLabel": "Hours",
+    "hoursValue": "24/7 Support Available"
+  }
+}
