@@ -22,6 +22,7 @@ export function TourBookingCTA({ tour }: TourBookingCTAProps) {
     travelers: '',
     date: '',
     message: '',
+    website: '',
   });
   const [loading, setLoading] = useState(false);
   const [success, setSuccess] = useState(false);
