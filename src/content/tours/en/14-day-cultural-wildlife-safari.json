@@ -279,7 +279,7 @@
   "pricing": {
     "from": 5800,
     "currency": "USD",
-    "note": "Gorilla permit ($700) included. Chimpanzee permit included. Price per person based on double occupancy; solo supplement applies.",
+    "note": "Gorilla permit ($800) included. Chimpanzee permit included. Price per person based on double occupancy; solo supplement applies.",
     "groupPricing": {
       "solo": 10000,
       "twoPersons": 6901,
@@ -288,7 +288,7 @@
     }
   },
   "inclusions": [
-    "Gorilla trekking permit ($700 value per person)",
+    "Gorilla trekking permit ($800 value per person)",
     "Chimpanzee trekking permit",
     "Experienced English-speaking driver-guide",
     "4WD custom-built safari vehicle and fuel",
@@ -319,7 +319,7 @@
   ],
   "images": [
     {
-      "url": "/images/tours/gorilla-silverback.jpg",
+      "url": "/images/tours/gorilla-hero.jpg",
       "alt": "Silverback mountain gorilla in Bwindi Impenetrable Forest",
       "caption": "A silverback in Bwindi — the defining moment of any Uganda safari"
     },
@@ -329,17 +329,17 @@
       "caption": "Murchison Falls — the Nile at its most dramatic"
     },
     {
-      "url": "/images/tours/semuliki-hot-springs.jpg",
+      "url": "/images/tours/lake-panorama-hero.jpg",
       "alt": "Sempaya hot springs Semuliki National Park Uganda",
       "caption": "The boiling Sempaya hot springs in the Congo rainforest"
     },
     {
-      "url": "/images/tours/kazinga-channel.jpg",
+      "url": "/images/tours/lake-panorama-hero.jpg",
       "alt": "Hippos on the Kazinga Channel Queen Elizabeth National Park",
       "caption": "The wildlife-rich Kazinga Channel at sunset"
     },
     {
-      "url": "/images/tours/bakiga-culture.jpg",
+      "url": "/images/tours/cultural-hero.jpg",
       "alt": "Bakiga people traditional dance Uganda",
       "caption": "An authentic evening with the Bakiga people — music, dance, and community"
     }

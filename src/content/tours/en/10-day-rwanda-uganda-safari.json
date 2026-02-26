@@ -207,7 +207,7 @@
   "pricing": {
     "from": 4352,
     "currency": "USD",
-    "note": "Uganda gorilla permit ($700) included. Rwanda gorilla tracking optional (+$1,500). Price per person varies by group size.",
+    "note": "Uganda gorilla permit ($800) included. Rwanda gorilla tracking optional (+$1,500). Price per person varies by group size.",
     "groupPricing": {
       "solo": 7608,
       "twoPersons": 4863,
@@ -216,7 +216,7 @@
     }
   },
   "inclusions": [
-    "Uganda gorilla trekking permit ($700 value per person)",
+    "Uganda gorilla trekking permit ($800 value per person)",
     "Experienced English-speaking driver-guide",
     "4WD custom-built safari vehicle and fuel",
     "All park entrance fees (Uganda and Rwanda)",
@@ -247,27 +247,27 @@
   ],
   "images": [
     {
-      "url": "/images/tours/gorilla-silverback.jpg",
+      "url": "/images/tours/gorilla-hero.jpg",
       "alt": "Silverback mountain gorilla in Bwindi Impenetrable Forest",
       "caption": "Come face to face with mountain gorillas in Uganda's ancient Bwindi forest"
     },
     {
-      "url": "/images/tours/volcanoes-rwanda.jpg",
+      "url": "/images/tours/gorilla-trek.jpg",
       "alt": "Volcanoes National Park Rwanda at sunrise",
       "caption": "Rwanda's Volcanoes National Park — Dian Fossey's legendary research site"
     },
     {
-      "url": "/images/tours/kazinga-channel.jpg",
+      "url": "/images/tours/lake-panorama-hero.jpg",
       "alt": "Hippos and birds on the Kazinga Channel",
       "caption": "Afternoon boat cruise on the wildlife-rich Kazinga Channel"
     },
     {
-      "url": "/images/tours/tree-climbing-lions.jpg",
+      "url": "/images/tours/wildlife-safari.jpg",
       "alt": "Lions resting in a fig tree in Ishasha",
       "caption": "The famous tree-climbing lions of Ishasha"
     },
     {
-      "url": "/images/tours/mabamba-shoebill.jpg",
+      "url": "/images/tours/lake-panorama-hero.jpg",
       "alt": "Shoebill stork at Mabamba Swamp Uganda",
       "caption": "The ancient-looking shoebill awaits at Mabamba Swamp"
     }
@@ -295,7 +295,7 @@
     },
     {
       "question": "Is the Rwanda gorilla permit included?",
-      "answer": "The Uganda gorilla trekking permit ($700 per person) is included in the base price. Rwanda gorilla tracking on Day 3 is optional and costs $1,500 per person — we recommend it if your budget allows, as tracking gorillas in two different countries on the same trip is a rare and extraordinary experience. Please let us know at booking so we can secure the Rwanda permit in advance."
+      "answer": "The Uganda gorilla trekking permit ($800 per person) is included in the base price. Rwanda gorilla tracking on Day 3 is optional and costs $1,500 per person — we recommend it if your budget allows, as tracking gorillas in two different countries on the same trip is a rare and extraordinary experience. Please let us know at booking so we can secure the Rwanda permit in advance."
     },
     {
       "question": "What is the Bakiga homestay experience like?",

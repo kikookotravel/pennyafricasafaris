@@ -261,7 +261,7 @@
   "pricing": {
     "from": 4800,
     "currency": "USD",
-    "note": "Gorilla permit ($700) included. Camp-style accommodation throughout. Price per person varies by group size.",
+    "note": "Gorilla permit ($800) included. Camp-style accommodation throughout. Price per person varies by group size.",
     "groupPricing": {
       "solo": 8500,
       "twoPersons": 5500,
@@ -270,7 +270,7 @@
     }
   },
   "inclusions": [
-    "Gorilla trekking permit ($700 value per person)",
+    "Gorilla trekking permit ($800 value per person)",
     "Experienced English-speaking driver-guide",
     "4WD custom-built safari vehicle and fuel",
     "All park entrance fees",
@@ -299,7 +299,7 @@
   ],
   "images": [
     {
-      "url": "/images/tours/murchison-falls.jpg",
+      "url": "/images/tours/elephant-hero.jpg",
       "alt": "Murchison Falls — the Nile through a 7-metre gap",
       "caption": "The raw power of Murchison Falls — the Nile at its most dramatic"
     },
@@ -309,12 +309,12 @@
       "caption": "A silverback in Bwindi — the defining moment of any Uganda safari"
     },
     {
-      "url": "/images/tours/ziwa-rhino.jpg",
+      "url": "/images/tours/elephant-hero.jpg",
       "alt": "White rhino at Ziwa Rhino Sanctuary Uganda",
       "caption": "Track Uganda's only wild white rhinos on foot at Ziwa"
     },
     {
-      "url": "/images/tours/semuliki-hot-springs.jpg",
+      "url": "/images/tours/lake-panorama-hero.jpg",
       "alt": "Sempaya hot springs in Semuliki National Park",
       "caption": "The boiling Sempaya hot springs in the Congo rainforest"
     },
